@@ -1,0 +1,3 @@
+user_id,is_logged_in,gender,city,device_type,traffic_source,created_at
+U001,1,female,Da Nang,mobile,facebook,2023-03-12
+U002,0,unknown,HCM,desktop,google,2024-01-02

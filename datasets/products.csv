@@ -1,0 +1,3 @@
+product_id,category,sub_category,price,price_range,color,material,style,occasion,collection,release_date,is_active
+P001,ao_dai,truyen_thong,4500000,high,red,silk,traditional,wedding,spring2025,2025-01-10,1
+P002,evening_dress,luxury,3200000,mid,black,satin,modern,event,gala2024,2024-06-20,1

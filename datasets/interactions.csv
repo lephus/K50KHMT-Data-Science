@@ -1,0 +1,4 @@
+interaction_id,user_id,product_id,event_type,timestamp,duration_seconds,search_keyword
+I001,U001,P001,view,2025-02-01 10:22:11,45,
+I002,U001,P001,add_to_cart,2025-02-01 10:25:03,,
+I003,U002,P002,search,2025-02-03 21:11:00,,ao dai do
