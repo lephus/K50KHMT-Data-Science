@@ -1,0 +1,1201 @@
+customer_id,customer_name,email,phone,preferred_categories,budget_level,city,registered_at,gender,age_group
+1,Khách hàng 1,customer1@email.com,960888017,Vest|Váy công sở|Áo cưới,high,TP.HCM,2022-09-23,Nữ,46-55
+2,Khách hàng 2,customer2@email.com,950785405,Đầm dạ hội|Áo cưới|Áo sơ mi,low,Đà Nẵng,2021-08-04,Nam,18-25
+3,Khách hàng 3,customer3@email.com,997873101,Váy công sở|Áo sơ mi,high,Đà Nẵng,2022-04-22,Nữ,26-35
+4,Khách hàng 4,customer4@email.com,978608612,Áo cưới|Quần tây,low,Huế,2021-06-23,Nữ,46-55
+5,Khách hàng 5,customer5@email.com,994951883,Áo dài|Đầm dạ hội|Áo sơ mi,high,Cần Thơ,2021-12-10,Nam,36-45
+6,Khách hàng 6,customer6@email.com,951663795,Váy công sở,low,TP.HCM,2021-07-23,Nữ,26-35
+7,Khách hàng 7,customer7@email.com,942862209,Áo dài,low,Huế,2022-09-18,Nam,46-55
+8,Khách hàng 8,customer8@email.com,994525678,Áo cưới,medium,Cần Thơ,2021-07-19,Nữ,18-25
+9,Khách hàng 9,customer9@email.com,942747037,Quần tây|Áo cưới|Váy công sở,medium,TP.HCM,2022-11-03,Nữ,36-45
+10,Khách hàng 10,customer10@email.com,933607110,Áo dài|Váy công sở|Áo cưới,low,Cần Thơ,2022-04-21,Nữ,26-35
+11,Khách hàng 11,customer11@email.com,926288475,Áo sơ mi,low,Huế,2021-05-17,Nữ,55+
+12,Khách hàng 12,customer12@email.com,989920257,Quần tây|Áo sơ mi,high,Đà Nẵng,2022-03-30,Nữ,26-35
+13,Khách hàng 13,customer13@email.com,983534128,Váy công sở|Quần tây|Áo sơ mi,medium,Huế,2021-06-12,Nữ,46-55
+14,Khách hàng 14,customer14@email.com,943183955,Váy công sở|Áo cưới|Quần tây,medium,Đà Nẵng,2022-06-18,Nữ,26-35
+15,Khách hàng 15,customer15@email.com,969038700,Quần tây|Vest,medium,Hà Nội,2023-01-01,Nữ,36-45
+16,Khách hàng 16,customer16@email.com,952910691,Vest|Đầm dạ hội,medium,Cần Thơ,2021-03-24,Nữ,26-35
+17,Khách hàng 17,customer17@email.com,961410126,Vest,low,TP.HCM,2022-12-25,Nam,46-55
+18,Khách hàng 18,customer18@email.com,964707061,Áo dài,medium,Đà Nẵng,2022-07-10,Nữ,36-45
+19,Khách hàng 19,customer19@email.com,966390708,Áo cưới|Áo dài,low,Huế,2022-08-22,Nữ,36-45
+20,Khách hàng 20,customer20@email.com,910791358,Áo dài|Áo sơ mi|Áo cưới,medium,Đà Nẵng,2021-11-02,Nam,26-35
+21,Khách hàng 21,customer21@email.com,983300637,Váy công sở|Áo cưới,high,Cần Thơ,2021-08-14,Nữ,26-35
+22,Khách hàng 22,customer22@email.com,975181765,Vest|Đầm dạ hội,medium,Hà Nội,2022-02-03,Nam,55+
+23,Khách hàng 23,customer23@email.com,932151928,Quần tây|Váy công sở,medium,Huế,2021-05-11,Nam,36-45
+24,Khách hàng 24,customer24@email.com,985751409,Áo sơ mi|Áo dài|Áo cưới,high,Hà Nội,2021-03-27,Nữ,55+
+25,Khách hàng 25,customer25@email.com,916749089,Áo cưới|Vest|Váy công sở,low,Đà Nẵng,2022-01-24,Nam,18-25
+26,Khách hàng 26,customer26@email.com,955298556,Vest|Áo cưới,medium,Huế,2021-10-12,Nữ,18-25
+27,Khách hàng 27,customer27@email.com,912601580,Đầm dạ hội|Áo dài,medium,Cần Thơ,2021-02-23,Nữ,36-45
+28,Khách hàng 28,customer28@email.com,997477029,Vest|Quần tây,low,Hà Nội,2021-02-01,Nữ,26-35
+29,Khách hàng 29,customer29@email.com,993394260,Vest,low,TP.HCM,2021-09-02,Nam,26-35
+30,Khách hàng 30,customer30@email.com,925353091,Áo cưới,high,Cần Thơ,2021-08-12,Nữ,26-35
+31,Khách hàng 31,customer31@email.com,932520277,Quần tây|Đầm dạ hội,medium,Cần Thơ,2022-09-14,Nam,26-35
+32,Khách hàng 32,customer32@email.com,924508768,Quần tây|Áo dài|Vest,medium,Cần Thơ,2021-01-27,Nam,26-35
+33,Khách hàng 33,customer33@email.com,963238057,Áo sơ mi|Quần tây,medium,TP.HCM,2021-03-19,Nữ,18-25
+34,Khách hàng 34,customer34@email.com,950477742,Quần tây|Váy công sở|Vest,low,Cần Thơ,2021-05-04,Nữ,36-45
+35,Khách hàng 35,customer35@email.com,967495923,Váy công sở|Áo dài|Đầm dạ hội,high,Đà Nẵng,2021-03-12,Nam,36-45
+36,Khách hàng 36,customer36@email.com,975793759,Quần tây|Đầm dạ hội|Áo dài,medium,Hà Nội,2022-03-20,Nữ,26-35
+37,Khách hàng 37,customer37@email.com,930534124,Quần tây|Áo cưới,high,Huế,2021-06-30,Nam,36-45
+38,Khách hàng 38,customer38@email.com,982232344,Áo sơ mi|Quần tây|Đầm dạ hội,high,Huế,2022-04-22,Nữ,46-55
+39,Khách hàng 39,customer39@email.com,946023439,Váy công sở|Quần tây,high,Đà Nẵng,2021-09-09,Nữ,26-35
+40,Khách hàng 40,customer40@email.com,942730796,Đầm dạ hội,medium,Huế,2022-08-07,Nam,18-25
+41,Khách hàng 41,customer41@email.com,976344695,Quần tây|Áo cưới|Đầm dạ hội,low,Đà Nẵng,2021-07-06,Nữ,18-25
+42,Khách hàng 42,customer42@email.com,955679506,Vest|Đầm dạ hội,medium,Đà Nẵng,2022-09-03,Nữ,46-55
+43,Khách hàng 43,customer43@email.com,935643159,Đầm dạ hội|Áo sơ mi|Áo dài,high,Hà Nội,2021-09-05,Nam,26-35
+44,Khách hàng 44,customer44@email.com,973900135,Áo cưới|Váy công sở|Áo sơ mi,low,Huế,2022-04-04,Nữ,36-45
+45,Khách hàng 45,customer45@email.com,939742165,Áo dài,medium,Huế,2022-12-10,Nữ,26-35
+46,Khách hàng 46,customer46@email.com,988055069,Đầm dạ hội,high,Đà Nẵng,2022-04-30,Nữ,18-25
+47,Khách hàng 47,customer47@email.com,983871890,Áo sơ mi|Đầm dạ hội|Áo cưới,high,Đà Nẵng,2021-12-27,Nữ,26-35
+48,Khách hàng 48,customer48@email.com,940942292,Áo cưới|Đầm dạ hội|Quần tây,medium,Hà Nội,2021-07-17,Nữ,26-35
+49,Khách hàng 49,customer49@email.com,934850391,Áo dài|Quần tây,high,TP.HCM,2021-08-10,Nữ,55+
+50,Khách hàng 50,customer50@email.com,990099897,Áo cưới|Đầm dạ hội|Áo sơ mi,high,Đà Nẵng,2021-04-13,Nữ,18-25
+51,Khách hàng 51,customer51@email.com,958436637,Đầm dạ hội,low,TP.HCM,2021-11-06,Nữ,46-55
+52,Khách hàng 52,customer52@email.com,926989677,Quần tây,high,Đà Nẵng,2021-02-16,Nữ,46-55
+53,Khách hàng 53,customer53@email.com,926948946,Áo sơ mi,medium,Huế,2021-04-16,Nữ,18-25
+54,Khách hàng 54,customer54@email.com,973001391,Áo sơ mi,medium,Huế,2022-03-28,Nam,18-25
+55,Khách hàng 55,customer55@email.com,974119726,Vest|Áo dài,medium,Hà Nội,2021-03-08,Nam,18-25
+56,Khách hàng 56,customer56@email.com,994482772,Áo cưới|Áo dài,high,Hà Nội,2021-06-05,Nữ,26-35
+57,Khách hàng 57,customer57@email.com,950780112,Váy công sở,high,Hà Nội,2021-09-12,Nữ,26-35
+58,Khách hàng 58,customer58@email.com,991378577,Áo sơ mi,medium,Cần Thơ,2022-09-26,Nữ,26-35
+59,Khách hàng 59,customer59@email.com,961053474,Váy công sở,high,Huế,2022-03-30,Nữ,18-25
+60,Khách hàng 60,customer60@email.com,950987442,Váy công sở|Áo sơ mi,medium,Cần Thơ,2022-09-28,Nữ,36-45
+61,Khách hàng 61,customer61@email.com,923318904,Áo sơ mi,high,TP.HCM,2022-10-03,Nữ,36-45
+62,Khách hàng 62,customer62@email.com,920896797,Đầm dạ hội,high,TP.HCM,2021-09-03,Nữ,18-25
+63,Khách hàng 63,customer63@email.com,931009452,Áo sơ mi,low,Hà Nội,2022-02-23,Nam,26-35
+64,Khách hàng 64,customer64@email.com,949092160,Quần tây|Áo sơ mi,medium,Hà Nội,2021-08-26,Nữ,26-35
+65,Khách hàng 65,customer65@email.com,970939053,Quần tây|Đầm dạ hội,high,Hà Nội,2022-12-05,Nữ,18-25
+66,Khách hàng 66,customer66@email.com,989160218,Đầm dạ hội,high,TP.HCM,2022-03-12,Nam,36-45
+67,Khách hàng 67,customer67@email.com,996924061,Áo sơ mi,low,TP.HCM,2021-09-30,Nữ,26-35
+68,Khách hàng 68,customer68@email.com,932269779,Áo dài,low,Đà Nẵng,2022-09-02,Nữ,36-45
+69,Khách hàng 69,customer69@email.com,926690465,Váy công sở|Áo sơ mi|Đầm dạ hội,medium,Huế,2022-12-07,Nữ,46-55
+70,Khách hàng 70,customer70@email.com,977172238,Quần tây|Áo cưới,medium,Cần Thơ,2022-05-21,Nam,46-55
+71,Khách hàng 71,customer71@email.com,967985905,Áo dài|Áo sơ mi,low,Đà Nẵng,2022-09-11,Nam,36-45
+72,Khách hàng 72,customer72@email.com,987201917,Áo dài|Váy công sở,low,Cần Thơ,2021-01-22,Nam,36-45
+73,Khách hàng 73,customer73@email.com,933513701,Váy công sở|Đầm dạ hội|Áo sơ mi,low,Huế,2022-06-16,Nữ,46-55
+74,Khách hàng 74,customer74@email.com,968503492,Áo cưới|Đầm dạ hội|Vest,high,Huế,2021-04-04,Nữ,26-35
+75,Khách hàng 75,customer75@email.com,953091709,Đầm dạ hội|Áo cưới,medium,Hà Nội,2021-06-14,Nam,26-35
+76,Khách hàng 76,customer76@email.com,948683937,Áo cưới|Quần tây,medium,Huế,2022-07-18,Nữ,18-25
+77,Khách hàng 77,customer77@email.com,952213778,Áo cưới,low,Đà Nẵng,2021-11-28,Nam,18-25
+78,Khách hàng 78,customer78@email.com,979067939,Váy công sở,medium,Hà Nội,2022-11-05,Nữ,36-45
+79,Khách hàng 79,customer79@email.com,979583757,Áo cưới|Váy công sở|Áo dài,low,Đà Nẵng,2022-09-30,Nam,36-45
+80,Khách hàng 80,customer80@email.com,937321124,Quần tây|Áo cưới,low,Đà Nẵng,2022-07-17,Nữ,55+
+81,Khách hàng 81,customer81@email.com,975056916,Đầm dạ hội,medium,Hà Nội,2021-01-30,Nữ,26-35
+82,Khách hàng 82,customer82@email.com,983932360,Áo sơ mi|Vest|Quần tây,medium,Hà Nội,2022-07-20,Nam,26-35
+83,Khách hàng 83,customer83@email.com,971934487,Áo dài|Vest,low,Hà Nội,2022-10-26,Nữ,18-25
+84,Khách hàng 84,customer84@email.com,949172995,Áo cưới,high,Cần Thơ,2022-12-24,Nữ,26-35
+85,Khách hàng 85,customer85@email.com,942713008,Áo cưới|Váy công sở,medium,Huế,2022-07-19,Nam,55+
+86,Khách hàng 86,customer86@email.com,990447099,Áo cưới,low,Cần Thơ,2021-05-20,Nam,26-35
+87,Khách hàng 87,customer87@email.com,955617282,Đầm dạ hội,medium,Cần Thơ,2021-10-01,Nữ,18-25
+88,Khách hàng 88,customer88@email.com,950071487,Đầm dạ hội,high,Cần Thơ,2022-08-17,Nữ,36-45
+89,Khách hàng 89,customer89@email.com,975007200,Áo cưới|Vest|Váy công sở,high,Đà Nẵng,2021-12-07,Nữ,26-35
+90,Khách hàng 90,customer90@email.com,953188224,Váy công sở|Áo sơ mi|Áo cưới,medium,TP.HCM,2022-12-16,Nữ,46-55
+91,Khách hàng 91,customer91@email.com,941348220,Áo sơ mi,medium,Huế,2021-02-14,Nữ,36-45
+92,Khách hàng 92,customer92@email.com,961167978,Quần tây|Áo cưới,high,Huế,2022-11-11,Nữ,46-55
+93,Khách hàng 93,customer93@email.com,977416376,Vest|Áo cưới|Áo dài,low,Cần Thơ,2021-12-06,Nữ,18-25
+94,Khách hàng 94,customer94@email.com,923383077,Váy công sở,medium,Cần Thơ,2022-04-13,Nữ,18-25
+95,Khách hàng 95,customer95@email.com,965026398,Quần tây,low,TP.HCM,2021-03-18,Nữ,26-35
+96,Khách hàng 96,customer96@email.com,993652460,Váy công sở|Đầm dạ hội,medium,Huế,2022-10-28,Nữ,18-25
+97,Khách hàng 97,customer97@email.com,981621574,Váy công sở,medium,Huế,2021-11-21,Nam,26-35
+98,Khách hàng 98,customer98@email.com,992874006,Quần tây|Áo cưới|Áo sơ mi,low,Hà Nội,2021-08-29,Nam,36-45
+99,Khách hàng 99,customer99@email.com,922130508,Quần tây|Đầm dạ hội|Vest,high,Huế,2021-04-11,Nam,18-25
+100,Khách hàng 100,customer100@email.com,950193656,Quần tây|Áo dài|Áo cưới,low,Hà Nội,2021-02-17,Nam,26-35
+101,Khách hàng 101,customer101@email.com,958112135,Váy công sở|Áo dài,medium,Đà Nẵng,2022-03-18,Nữ,26-35
+102,Khách hàng 102,customer102@email.com,965304649,Vest,high,Cần Thơ,2022-11-30,Nam,55+
+103,Khách hàng 103,customer103@email.com,920598952,Vest,low,Cần Thơ,2022-01-27,Nữ,18-25
+104,Khách hàng 104,customer104@email.com,929208935,Quần tây|Vest|Áo cưới,high,TP.HCM,2022-04-18,Nữ,26-35
+105,Khách hàng 105,customer105@email.com,911261301,Đầm dạ hội|Áo cưới|Váy công sở,high,Huế,2021-10-22,Nam,26-35
+106,Khách hàng 106,customer106@email.com,956381032,Áo sơ mi|Vest|Áo dài,medium,Cần Thơ,2021-11-03,Nữ,18-25
+107,Khách hàng 107,customer107@email.com,950550084,Áo cưới|Quần tây|Đầm dạ hội,medium,TP.HCM,2022-01-29,Nữ,26-35
+108,Khách hàng 108,customer108@email.com,986762164,Áo dài|Vest,medium,Đà Nẵng,2022-08-12,Nữ,26-35
+109,Khách hàng 109,customer109@email.com,998346110,Quần tây|Đầm dạ hội,low,Huế,2021-10-09,Nữ,26-35
+110,Khách hàng 110,customer110@email.com,916582607,Áo sơ mi,high,Cần Thơ,2022-05-24,Nam,26-35
+111,Khách hàng 111,customer111@email.com,957287718,Váy công sở|Vest,high,TP.HCM,2022-10-14,Nữ,18-25
+112,Khách hàng 112,customer112@email.com,998473848,Áo sơ mi,medium,TP.HCM,2022-10-06,Nữ,46-55
+113,Khách hàng 113,customer113@email.com,915291208,Quần tây,high,Đà Nẵng,2022-03-28,Nữ,36-45
+114,Khách hàng 114,customer114@email.com,927637794,Áo sơ mi,medium,Hà Nội,2021-10-30,Nữ,26-35
+115,Khách hàng 115,customer115@email.com,936950221,Quần tây|Áo cưới,low,TP.HCM,2022-07-07,Nữ,18-25
+116,Khách hàng 116,customer116@email.com,932084778,Áo sơ mi|Váy công sở,medium,Đà Nẵng,2022-05-09,Nam,26-35
+117,Khách hàng 117,customer117@email.com,972858374,Quần tây|Đầm dạ hội,low,Hà Nội,2021-05-25,Nữ,26-35
+118,Khách hàng 118,customer118@email.com,963339667,Váy công sở,high,Cần Thơ,2022-01-10,Nữ,36-45
+119,Khách hàng 119,customer119@email.com,911868130,Váy công sở,medium,Đà Nẵng,2022-07-04,Nữ,55+
+120,Khách hàng 120,customer120@email.com,945186708,Áo cưới,medium,Cần Thơ,2022-01-26,Nam,18-25
+121,Khách hàng 121,customer121@email.com,913358751,Đầm dạ hội|Áo dài|Vest,medium,Cần Thơ,2022-07-29,Nữ,26-35
+122,Khách hàng 122,customer122@email.com,918484847,Áo sơ mi|Vest,high,Huế,2022-12-19,Nữ,55+
+123,Khách hàng 123,customer123@email.com,928760553,Quần tây|Áo cưới,low,Hà Nội,2021-02-08,Nữ,46-55
+124,Khách hàng 124,customer124@email.com,941514326,Áo cưới|Áo dài,low,Cần Thơ,2021-05-19,Nữ,18-25
+125,Khách hàng 125,customer125@email.com,982503409,Áo cưới|Đầm dạ hội,high,Huế,2022-08-25,Nữ,55+
+126,Khách hàng 126,customer126@email.com,923290458,Quần tây|Vest|Áo cưới,high,Huế,2022-09-23,Nam,36-45
+127,Khách hàng 127,customer127@email.com,959731689,Đầm dạ hội|Áo dài,high,TP.HCM,2022-03-31,Nam,55+
+128,Khách hàng 128,customer128@email.com,959302863,Vest|Đầm dạ hội,low,Cần Thơ,2022-10-23,Nữ,36-45
+129,Khách hàng 129,customer129@email.com,935475673,Áo dài|Áo cưới,medium,Hà Nội,2022-04-11,Nữ,36-45
+130,Khách hàng 130,customer130@email.com,996128115,Quần tây,low,Cần Thơ,2021-01-22,Nam,55+
+131,Khách hàng 131,customer131@email.com,942691263,Váy công sở,medium,TP.HCM,2022-08-02,Nam,36-45
+132,Khách hàng 132,customer132@email.com,937804191,Áo dài,high,Cần Thơ,2021-08-10,Nam,26-35
+133,Khách hàng 133,customer133@email.com,989991301,Đầm dạ hội,low,Hà Nội,2021-10-11,Nữ,36-45
+134,Khách hàng 134,customer134@email.com,943642236,Vest,high,TP.HCM,2021-04-23,Nam,46-55
+135,Khách hàng 135,customer135@email.com,958082464,Váy công sở|Áo dài|Vest,low,TP.HCM,2022-08-26,Nữ,26-35
+136,Khách hàng 136,customer136@email.com,917032877,Áo dài|Vest,medium,TP.HCM,2022-03-08,Nữ,46-55
+137,Khách hàng 137,customer137@email.com,970166480,Áo dài|Quần tây|Váy công sở,medium,Đà Nẵng,2022-06-10,Nữ,26-35
+138,Khách hàng 138,customer138@email.com,992558242,Áo dài|Áo cưới|Áo sơ mi,low,Hà Nội,2022-11-06,Nam,26-35
+139,Khách hàng 139,customer139@email.com,974287863,Đầm dạ hội|Áo cưới|Áo dài,low,Huế,2022-03-13,Nam,36-45
+140,Khách hàng 140,customer140@email.com,920843514,Áo dài|Áo cưới|Quần tây,low,Đà Nẵng,2022-09-15,Nam,36-45
+141,Khách hàng 141,customer141@email.com,946912022,Áo dài,low,Cần Thơ,2022-10-11,Nam,26-35
+142,Khách hàng 142,customer142@email.com,990180577,Áo sơ mi|Quần tây|Đầm dạ hội,medium,Cần Thơ,2021-10-29,Nữ,36-45
+143,Khách hàng 143,customer143@email.com,923311507,Áo sơ mi|Váy công sở,medium,Hà Nội,2022-11-02,Nam,26-35
+144,Khách hàng 144,customer144@email.com,970606674,Váy công sở|Áo sơ mi|Vest,medium,TP.HCM,2022-02-28,Nữ,36-45
+145,Khách hàng 145,customer145@email.com,965833185,Váy công sở|Áo cưới,medium,Hà Nội,2021-11-17,Nữ,55+
+146,Khách hàng 146,customer146@email.com,960237832,Đầm dạ hội|Quần tây,medium,TP.HCM,2022-12-05,Nữ,26-35
+147,Khách hàng 147,customer147@email.com,922513132,Áo dài|Váy công sở,low,Huế,2021-04-09,Nữ,36-45
+148,Khách hàng 148,customer148@email.com,918050510,Quần tây|Đầm dạ hội|Vest,high,Cần Thơ,2022-07-30,Nam,46-55
+149,Khách hàng 149,customer149@email.com,957459130,Đầm dạ hội|Quần tây|Áo dài,medium,Huế,2021-02-22,Nam,26-35
+150,Khách hàng 150,customer150@email.com,923905032,Áo sơ mi|Đầm dạ hội,medium,Cần Thơ,2022-06-04,Nam,36-45
+151,Khách hàng 151,customer151@email.com,974718365,Vest,high,TP.HCM,2021-04-21,Nam,36-45
+152,Khách hàng 152,customer152@email.com,925419645,Váy công sở|Áo sơ mi,medium,Đà Nẵng,2022-08-11,Nam,36-45
+153,Khách hàng 153,customer153@email.com,985291541,Váy công sở,medium,Cần Thơ,2022-09-21,Nam,18-25
+154,Khách hàng 154,customer154@email.com,998292612,Quần tây|Áo sơ mi|Áo dài,high,Đà Nẵng,2021-01-30,Nam,26-35
+155,Khách hàng 155,customer155@email.com,951471222,Đầm dạ hội,high,Đà Nẵng,2021-12-26,Nữ,26-35
+156,Khách hàng 156,customer156@email.com,986010330,Vest,low,Huế,2021-03-13,Nữ,18-25
+157,Khách hàng 157,customer157@email.com,914114726,Quần tây,high,Hà Nội,2022-06-28,Nữ,26-35
+158,Khách hàng 158,customer158@email.com,970887307,Áo cưới,medium,Đà Nẵng,2021-06-11,Nữ,18-25
+159,Khách hàng 159,customer159@email.com,986181117,Đầm dạ hội|Quần tây,medium,Cần Thơ,2021-03-28,Nữ,55+
+160,Khách hàng 160,customer160@email.com,992924837,Vest,low,Hà Nội,2022-11-22,Nữ,36-45
+161,Khách hàng 161,customer161@email.com,998843907,Đầm dạ hội,medium,Huế,2022-05-13,Nữ,55+
+162,Khách hàng 162,customer162@email.com,978765957,Áo cưới|Váy công sở|Đầm dạ hội,low,Hà Nội,2021-12-20,Nam,36-45
+163,Khách hàng 163,customer163@email.com,989609131,Áo dài|Đầm dạ hội,high,Huế,2022-06-24,Nam,26-35
+164,Khách hàng 164,customer164@email.com,990440034,Đầm dạ hội|Áo dài|Vest,medium,Hà Nội,2021-01-08,Nam,26-35
+165,Khách hàng 165,customer165@email.com,928419343,Đầm dạ hội,low,Đà Nẵng,2021-10-24,Nam,36-45
+166,Khách hàng 166,customer166@email.com,967801537,Áo dài|Váy công sở,medium,TP.HCM,2021-05-13,Nữ,36-45
+167,Khách hàng 167,customer167@email.com,977144075,Áo sơ mi|Quần tây,low,Cần Thơ,2022-11-16,Nam,26-35
+168,Khách hàng 168,customer168@email.com,915677713,Áo dài|Áo cưới,high,Huế,2021-01-20,Nam,55+
+169,Khách hàng 169,customer169@email.com,967617561,Áo dài|Đầm dạ hội,high,Cần Thơ,2022-02-19,Nữ,36-45
+170,Khách hàng 170,customer170@email.com,964362516,Quần tây|Áo cưới|Đầm dạ hội,low,Hà Nội,2021-11-29,Nữ,26-35
+171,Khách hàng 171,customer171@email.com,971753160,Váy công sở,high,Đà Nẵng,2021-04-01,Nam,18-25
+172,Khách hàng 172,customer172@email.com,968475513,Váy công sở|Áo dài,low,Cần Thơ,2022-02-15,Nữ,46-55
+173,Khách hàng 173,customer173@email.com,955568701,Áo dài|Áo cưới|Đầm dạ hội,high,TP.HCM,2021-12-08,Nam,26-35
+174,Khách hàng 174,customer174@email.com,994989976,Áo dài,high,Hà Nội,2022-06-28,Nữ,26-35
+175,Khách hàng 175,customer175@email.com,996629889,Vest|Đầm dạ hội|Quần tây,high,TP.HCM,2021-08-30,Nữ,26-35
+176,Khách hàng 176,customer176@email.com,936477373,Vest,medium,TP.HCM,2022-09-09,Nam,46-55
+177,Khách hàng 177,customer177@email.com,920113745,Váy công sở,high,TP.HCM,2022-10-06,Nữ,36-45
+178,Khách hàng 178,customer178@email.com,970251043,Áo cưới|Áo sơ mi,high,Cần Thơ,2022-10-21,Nam,26-35
+179,Khách hàng 179,customer179@email.com,969023966,Áo sơ mi|Đầm dạ hội|Quần tây,low,Hà Nội,2022-04-26,Nữ,36-45
+180,Khách hàng 180,customer180@email.com,989379016,Quần tây|Đầm dạ hội,medium,Hà Nội,2021-12-27,Nam,36-45
+181,Khách hàng 181,customer181@email.com,915047559,Áo dài|Đầm dạ hội|Áo cưới,medium,Hà Nội,2022-01-13,Nữ,36-45
+182,Khách hàng 182,customer182@email.com,992545028,Áo dài|Quần tây,low,Cần Thơ,2022-06-04,Nữ,26-35
+183,Khách hàng 183,customer183@email.com,915505975,Áo cưới|Áo sơ mi,high,Huế,2022-08-09,Nam,26-35
+184,Khách hàng 184,customer184@email.com,977292380,Vest|Đầm dạ hội|Áo sơ mi,medium,TP.HCM,2021-03-05,Nữ,26-35
+185,Khách hàng 185,customer185@email.com,921318464,Áo dài|Đầm dạ hội,high,Cần Thơ,2022-10-24,Nữ,18-25
+186,Khách hàng 186,customer186@email.com,968754920,Áo dài,low,Huế,2022-06-21,Nữ,46-55
+187,Khách hàng 187,customer187@email.com,947969333,Áo sơ mi|Vest|Đầm dạ hội,medium,Huế,2022-02-23,Nữ,18-25
+188,Khách hàng 188,customer188@email.com,994676162,Quần tây|Áo sơ mi,low,Đà Nẵng,2021-03-09,Nam,18-25
+189,Khách hàng 189,customer189@email.com,961883769,Áo dài|Áo sơ mi,high,Đà Nẵng,2021-09-16,Nữ,36-45
+190,Khách hàng 190,customer190@email.com,954743095,Váy công sở|Quần tây|Áo sơ mi,low,Hà Nội,2022-08-20,Nữ,18-25
+191,Khách hàng 191,customer191@email.com,998870276,Vest|Đầm dạ hội|Quần tây,high,Huế,2021-05-13,Nữ,26-35
+192,Khách hàng 192,customer192@email.com,960557040,Quần tây|Áo dài|Đầm dạ hội,high,Đà Nẵng,2021-05-11,Nam,18-25
+193,Khách hàng 193,customer193@email.com,996707983,Quần tây|Váy công sở|Áo sơ mi,low,Huế,2022-06-05,Nam,36-45
+194,Khách hàng 194,customer194@email.com,934194479,Áo dài|Đầm dạ hội,medium,TP.HCM,2021-12-16,Nam,46-55
+195,Khách hàng 195,customer195@email.com,930796389,Vest|Váy công sở,low,Hà Nội,2021-10-30,Nữ,55+
+196,Khách hàng 196,customer196@email.com,980669879,Áo sơ mi,high,Hà Nội,2022-11-09,Nam,26-35
+197,Khách hàng 197,customer197@email.com,990161060,Váy công sở|Áo sơ mi,low,Huế,2021-06-07,Nữ,18-25
+198,Khách hàng 198,customer198@email.com,993851247,Vest,high,TP.HCM,2022-03-25,Nam,36-45
+199,Khách hàng 199,customer199@email.com,941880763,Áo cưới,medium,Huế,2022-09-18,Nữ,26-35
+200,Khách hàng 200,customer200@email.com,941407343,Váy công sở|Quần tây,medium,Cần Thơ,2021-09-02,Nữ,36-45
+201,Khách hàng 201,customer201@email.com,959370777,Váy công sở|Áo cưới,low,Cần Thơ,2022-03-28,Nam,26-35
+202,Khách hàng 202,customer202@email.com,977498993,Váy công sở|Đầm dạ hội,medium,Cần Thơ,2022-03-05,Nữ,18-25
+203,Khách hàng 203,customer203@email.com,991156554,Váy công sở,low,TP.HCM,2021-09-14,Nữ,26-35
+204,Khách hàng 204,customer204@email.com,959823245,Quần tây,medium,Cần Thơ,2021-04-16,Nữ,26-35
+205,Khách hàng 205,customer205@email.com,921257528,Váy công sở|Áo sơ mi|Áo dài,medium,TP.HCM,2021-10-07,Nam,26-35
+206,Khách hàng 206,customer206@email.com,922309586,Áo sơ mi|Vest,medium,TP.HCM,2022-04-07,Nữ,36-45
+207,Khách hàng 207,customer207@email.com,963211150,Áo dài|Áo cưới,low,Cần Thơ,2022-01-18,Nam,26-35
+208,Khách hàng 208,customer208@email.com,960319927,Áo cưới,low,TP.HCM,2021-01-29,Nam,36-45
+209,Khách hàng 209,customer209@email.com,955001909,Áo dài|Quần tây,high,TP.HCM,2021-05-21,Nữ,18-25
+210,Khách hàng 210,customer210@email.com,928628439,Đầm dạ hội,medium,Huế,2022-04-05,Nữ,55+
+211,Khách hàng 211,customer211@email.com,938944689,Áo dài|Váy công sở|Quần tây,medium,TP.HCM,2022-07-16,Nữ,26-35
+212,Khách hàng 212,customer212@email.com,948668339,Áo sơ mi|Váy công sở|Áo cưới,low,TP.HCM,2021-11-05,Nam,18-25
+213,Khách hàng 213,customer213@email.com,966348030,Áo dài,low,Cần Thơ,2022-04-14,Nữ,26-35
+214,Khách hàng 214,customer214@email.com,990092958,Áo dài,medium,Cần Thơ,2021-01-17,Nữ,26-35
+215,Khách hàng 215,customer215@email.com,929270557,Áo sơ mi|Váy công sở|Vest,high,Đà Nẵng,2022-03-16,Nam,36-45
+216,Khách hàng 216,customer216@email.com,942287985,Áo sơ mi,medium,Cần Thơ,2022-03-03,Nam,36-45
+217,Khách hàng 217,customer217@email.com,921490910,Quần tây,high,Cần Thơ,2022-01-05,Nam,46-55
+218,Khách hàng 218,customer218@email.com,978092370,Áo sơ mi,high,Cần Thơ,2022-07-22,Nữ,36-45
+219,Khách hàng 219,customer219@email.com,915843091,Áo cưới,medium,Huế,2022-01-18,Nam,18-25
+220,Khách hàng 220,customer220@email.com,919067690,Quần tây|Áo dài,medium,Đà Nẵng,2021-09-04,Nữ,26-35
+221,Khách hàng 221,customer221@email.com,954629892,Quần tây|Váy công sở|Áo dài,high,TP.HCM,2021-02-15,Nữ,46-55
+222,Khách hàng 222,customer222@email.com,933500064,Áo sơ mi|Đầm dạ hội,high,Huế,2022-12-14,Nam,36-45
+223,Khách hàng 223,customer223@email.com,918469210,Quần tây|Vest,low,Huế,2021-02-07,Nữ,55+
+224,Khách hàng 224,customer224@email.com,915624520,Vest|Áo dài,low,Đà Nẵng,2021-11-14,Nữ,36-45
+225,Khách hàng 225,customer225@email.com,914915156,Áo cưới|Áo sơ mi|Váy công sở,medium,TP.HCM,2021-10-20,Nữ,18-25
+226,Khách hàng 226,customer226@email.com,954550177,Váy công sở|Áo dài,high,Đà Nẵng,2021-05-08,Nữ,36-45
+227,Khách hàng 227,customer227@email.com,969020451,Áo cưới|Váy công sở,high,Huế,2021-12-14,Nam,26-35
+228,Khách hàng 228,customer228@email.com,976776459,Áo cưới,high,Đà Nẵng,2022-06-16,Nam,26-35
+229,Khách hàng 229,customer229@email.com,966975380,Váy công sở|Áo dài,high,Hà Nội,2022-03-17,Nữ,26-35
+230,Khách hàng 230,customer230@email.com,953112268,Váy công sở|Vest|Áo sơ mi,medium,Hà Nội,2021-03-23,Nữ,26-35
+231,Khách hàng 231,customer231@email.com,969849800,Quần tây|Đầm dạ hội,medium,Cần Thơ,2022-03-13,Nam,36-45
+232,Khách hàng 232,customer232@email.com,957183837,Quần tây,medium,Huế,2021-02-13,Nữ,18-25
+233,Khách hàng 233,customer233@email.com,946850196,Váy công sở|Đầm dạ hội|Áo sơ mi,medium,Hà Nội,2021-03-18,Nữ,18-25
+234,Khách hàng 234,customer234@email.com,931473054,Quần tây|Áo cưới|Đầm dạ hội,high,Hà Nội,2021-05-27,Nữ,26-35
+235,Khách hàng 235,customer235@email.com,919023909,Quần tây|Áo cưới|Áo dài,low,TP.HCM,2022-10-23,Nữ,18-25
+236,Khách hàng 236,customer236@email.com,914346684,Đầm dạ hội|Áo cưới,high,Cần Thơ,2021-06-07,Nam,18-25
+237,Khách hàng 237,customer237@email.com,920319387,Áo cưới|Đầm dạ hội|Quần tây,medium,Cần Thơ,2021-05-21,Nữ,18-25
+238,Khách hàng 238,customer238@email.com,947405107,Đầm dạ hội|Áo cưới|Váy công sở,high,TP.HCM,2021-04-27,Nữ,26-35
+239,Khách hàng 239,customer239@email.com,976980546,Quần tây,low,Cần Thơ,2022-02-01,Nữ,36-45
+240,Khách hàng 240,customer240@email.com,969897763,Áo dài|Đầm dạ hội|Quần tây,high,TP.HCM,2022-09-19,Nữ,26-35
+241,Khách hàng 241,customer241@email.com,926460116,Quần tây|Áo cưới,low,TP.HCM,2021-03-17,Nam,55+
+242,Khách hàng 242,customer242@email.com,921783073,Vest|Quần tây,medium,Đà Nẵng,2022-11-15,Nữ,55+
+243,Khách hàng 243,customer243@email.com,982769008,Quần tây|Áo dài,high,Đà Nẵng,2021-11-04,Nữ,55+
+244,Khách hàng 244,customer244@email.com,995590648,Quần tây,high,TP.HCM,2022-01-06,Nam,26-35
+245,Khách hàng 245,customer245@email.com,941774192,Vest|Áo dài|Váy công sở,low,Huế,2021-01-27,Nam,26-35
+246,Khách hàng 246,customer246@email.com,972734149,Áo sơ mi|Váy công sở,medium,Cần Thơ,2021-05-13,Nam,36-45
+247,Khách hàng 247,customer247@email.com,974245343,Áo dài|Váy công sở|Đầm dạ hội,medium,Cần Thơ,2022-02-25,Nam,36-45
+248,Khách hàng 248,customer248@email.com,926821075,Váy công sở|Áo sơ mi,low,Đà Nẵng,2022-10-20,Nam,26-35
+249,Khách hàng 249,customer249@email.com,979438885,Áo cưới,medium,Đà Nẵng,2021-05-12,Nữ,18-25
+250,Khách hàng 250,customer250@email.com,968065043,Quần tây|Áo sơ mi|Vest,low,Cần Thơ,2021-02-26,Nam,55+
+251,Khách hàng 251,customer251@email.com,950818905,Áo sơ mi,low,TP.HCM,2021-06-15,Nữ,26-35
+252,Khách hàng 252,customer252@email.com,979645282,Quần tây|Vest,medium,Đà Nẵng,2021-03-22,Nữ,36-45
+253,Khách hàng 253,customer253@email.com,946836194,Vest|Quần tây,high,TP.HCM,2022-10-03,Nam,18-25
+254,Khách hàng 254,customer254@email.com,977454225,Áo sơ mi|Váy công sở,low,TP.HCM,2022-08-30,Nữ,26-35
+255,Khách hàng 255,customer255@email.com,991220369,Vest|Váy công sở|Áo sơ mi,high,Đà Nẵng,2022-08-01,Nam,26-35
+256,Khách hàng 256,customer256@email.com,920901547,Váy công sở,low,Hà Nội,2022-10-19,Nam,46-55
+257,Khách hàng 257,customer257@email.com,965913331,Đầm dạ hội|Quần tây|Vest,high,Cần Thơ,2022-10-17,Nữ,36-45
+258,Khách hàng 258,customer258@email.com,983226170,Áo cưới,high,Đà Nẵng,2022-10-20,Nữ,26-35
+259,Khách hàng 259,customer259@email.com,964504816,Áo cưới|Vest,high,Đà Nẵng,2022-04-10,Nam,26-35
+260,Khách hàng 260,customer260@email.com,931217198,Quần tây,low,Huế,2022-03-02,Nam,36-45
+261,Khách hàng 261,customer261@email.com,991424562,Áo cưới|Vest,medium,TP.HCM,2021-11-17,Nam,36-45
+262,Khách hàng 262,customer262@email.com,927551135,Đầm dạ hội|Quần tây|Váy công sở,medium,Đà Nẵng,2022-06-12,Nam,36-45
+263,Khách hàng 263,customer263@email.com,926444612,Áo dài|Đầm dạ hội|Vest,medium,Đà Nẵng,2022-04-06,Nam,55+
+264,Khách hàng 264,customer264@email.com,916792127,Vest,low,Đà Nẵng,2022-01-29,Nữ,36-45
+265,Khách hàng 265,customer265@email.com,987535841,Áo cưới|Vest|Quần tây,medium,Đà Nẵng,2021-07-14,Nữ,26-35
+266,Khách hàng 266,customer266@email.com,972654864,Áo cưới,high,Huế,2021-11-12,Nam,18-25
+267,Khách hàng 267,customer267@email.com,977839607,Áo dài|Váy công sở,medium,Huế,2021-09-04,Nam,46-55
+268,Khách hàng 268,customer268@email.com,916530784,Áo sơ mi,medium,Hà Nội,2021-10-16,Nam,36-45
+269,Khách hàng 269,customer269@email.com,973161098,Áo sơ mi|Quần tây,high,Đà Nẵng,2022-07-04,Nam,36-45
+270,Khách hàng 270,customer270@email.com,967838146,Váy công sở,low,TP.HCM,2021-09-28,Nữ,36-45
+271,Khách hàng 271,customer271@email.com,963765155,Đầm dạ hội|Áo cưới|Váy công sở,low,Hà Nội,2022-08-07,Nữ,36-45
+272,Khách hàng 272,customer272@email.com,919869264,Vest|Đầm dạ hội|Áo sơ mi,medium,Huế,2022-06-01,Nam,26-35
+273,Khách hàng 273,customer273@email.com,993650068,Váy công sở|Áo sơ mi,medium,Cần Thơ,2021-05-02,Nữ,26-35
+274,Khách hàng 274,customer274@email.com,960089832,Áo dài,medium,Đà Nẵng,2022-07-26,Nam,36-45
+275,Khách hàng 275,customer275@email.com,990861208,Váy công sở|Vest,low,Cần Thơ,2022-02-16,Nam,26-35
+276,Khách hàng 276,customer276@email.com,954699966,Áo dài|Váy công sở|Quần tây,low,Huế,2022-06-16,Nữ,36-45
+277,Khách hàng 277,customer277@email.com,928761086,Vest|Áo sơ mi,high,Đà Nẵng,2022-09-20,Nữ,55+
+278,Khách hàng 278,customer278@email.com,950162553,Vest|Áo cưới,high,Cần Thơ,2021-12-11,Nam,46-55
+279,Khách hàng 279,customer279@email.com,985554415,Váy công sở|Áo sơ mi|Quần tây,medium,Đà Nẵng,2022-05-02,Nữ,18-25
+280,Khách hàng 280,customer280@email.com,924710878,Đầm dạ hội,medium,Huế,2022-08-21,Nữ,36-45
+281,Khách hàng 281,customer281@email.com,994457912,Váy công sở|Quần tây,high,Hà Nội,2022-09-04,Nữ,36-45
+282,Khách hàng 282,customer282@email.com,987528776,Đầm dạ hội|Quần tây,high,TP.HCM,2021-02-22,Nam,46-55
+283,Khách hàng 283,customer283@email.com,993179531,Áo cưới|Vest|Áo sơ mi,high,Huế,2021-06-01,Nữ,26-35
+284,Khách hàng 284,customer284@email.com,924749927,Vest|Áo dài|Áo sơ mi,high,TP.HCM,2021-01-20,Nam,36-45
+285,Khách hàng 285,customer285@email.com,965426567,Đầm dạ hội|Áo cưới,low,TP.HCM,2022-02-25,Nam,46-55
+286,Khách hàng 286,customer286@email.com,918359252,Váy công sở|Áo sơ mi|Áo cưới,high,TP.HCM,2022-06-16,Nữ,26-35
+287,Khách hàng 287,customer287@email.com,998882576,Áo sơ mi,medium,Huế,2022-06-23,Nữ,18-25
+288,Khách hàng 288,customer288@email.com,981555103,Đầm dạ hội|Vest,medium,Đà Nẵng,2022-07-14,Nữ,26-35
+289,Khách hàng 289,customer289@email.com,996343485,Quần tây|Váy công sở,high,Đà Nẵng,2022-09-17,Nữ,46-55
+290,Khách hàng 290,customer290@email.com,984905122,Vest|Váy công sở,medium,Đà Nẵng,2021-08-19,Nữ,26-35
+291,Khách hàng 291,customer291@email.com,937820354,Váy công sở|Đầm dạ hội,high,Huế,2021-11-21,Nữ,26-35
+292,Khách hàng 292,customer292@email.com,946702849,Đầm dạ hội|Áo sơ mi,high,Đà Nẵng,2021-05-05,Nữ,55+
+293,Khách hàng 293,customer293@email.com,956323191,Quần tây|Áo sơ mi|Áo cưới,medium,TP.HCM,2021-10-25,Nam,36-45
+294,Khách hàng 294,customer294@email.com,920607151,Đầm dạ hội,high,Đà Nẵng,2022-03-29,Nam,26-35
+295,Khách hàng 295,customer295@email.com,937121108,Đầm dạ hội|Quần tây|Áo cưới,low,Cần Thơ,2021-10-05,Nữ,26-35
+296,Khách hàng 296,customer296@email.com,992634772,Quần tây|Đầm dạ hội|Vest,low,Cần Thơ,2021-09-03,Nữ,26-35
+297,Khách hàng 297,customer297@email.com,981275182,Áo dài,high,TP.HCM,2022-10-16,Nam,46-55
+298,Khách hàng 298,customer298@email.com,965472370,Áo dài,low,Đà Nẵng,2022-04-29,Nữ,36-45
+299,Khách hàng 299,customer299@email.com,910695441,Quần tây,low,Cần Thơ,2021-06-11,Nữ,18-25
+300,Khách hàng 300,customer300@email.com,997313825,Quần tây|Áo cưới,medium,TP.HCM,2021-10-22,Nữ,36-45
+301,Khách hàng 301,customer301@email.com,922007214,Đầm dạ hội|Quần tây,low,Cần Thơ,2021-08-26,Nữ,36-45
+302,Khách hàng 302,customer302@email.com,966087572,Quần tây|Váy công sở|Áo dài,low,TP.HCM,2021-02-07,Nam,26-35
+303,Khách hàng 303,customer303@email.com,948851599,Váy công sở|Áo cưới,low,Hà Nội,2021-01-10,Nam,18-25
+304,Khách hàng 304,customer304@email.com,954968591,Áo sơ mi|Váy công sở,low,Đà Nẵng,2022-04-11,Nữ,36-45
+305,Khách hàng 305,customer305@email.com,977674279,Áo sơ mi|Váy công sở|Áo cưới,low,Huế,2021-10-07,Nam,55+
+306,Khách hàng 306,customer306@email.com,954383668,Váy công sở,low,TP.HCM,2022-04-15,Nữ,26-35
+307,Khách hàng 307,customer307@email.com,955246430,Đầm dạ hội|Quần tây|Vest,low,Đà Nẵng,2022-08-05,Nữ,26-35
+308,Khách hàng 308,customer308@email.com,995728324,Váy công sở|Vest|Quần tây,high,Huế,2022-03-14,Nam,55+
+309,Khách hàng 309,customer309@email.com,922802372,Đầm dạ hội|Áo dài|Áo cưới,high,TP.HCM,2021-05-24,Nam,46-55
+310,Khách hàng 310,customer310@email.com,945002007,Đầm dạ hội|Vest,low,Huế,2021-08-30,Nữ,18-25
+311,Khách hàng 311,customer311@email.com,950526484,Váy công sở|Đầm dạ hội,medium,Cần Thơ,2022-08-10,Nữ,18-25
+312,Khách hàng 312,customer312@email.com,958258264,Đầm dạ hội,high,TP.HCM,2021-03-05,Nữ,36-45
+313,Khách hàng 313,customer313@email.com,964414096,Áo dài|Áo cưới|Đầm dạ hội,low,Cần Thơ,2022-12-22,Nữ,26-35
+314,Khách hàng 314,customer314@email.com,949599276,Quần tây|Áo dài,high,Đà Nẵng,2022-09-22,Nữ,36-45
+315,Khách hàng 315,customer315@email.com,974180488,Vest,low,TP.HCM,2022-04-11,Nam,36-45
+316,Khách hàng 316,customer316@email.com,983717007,Áo sơ mi|Đầm dạ hội|Áo cưới,high,Huế,2022-07-05,Nam,18-25
+317,Khách hàng 317,customer317@email.com,989968863,Váy công sở|Vest|Quần tây,high,Hà Nội,2022-06-23,Nữ,26-35
+318,Khách hàng 318,customer318@email.com,920482769,Áo sơ mi|Quần tây,medium,Cần Thơ,2021-04-25,Nữ,36-45
+319,Khách hàng 319,customer319@email.com,977845324,Váy công sở,high,TP.HCM,2022-08-10,Nam,18-25
+320,Khách hàng 320,customer320@email.com,969302835,Vest|Váy công sở|Đầm dạ hội,high,Hà Nội,2022-11-28,Nữ,18-25
+321,Khách hàng 321,customer321@email.com,975609379,Quần tây,high,Hà Nội,2022-06-07,Nữ,55+
+322,Khách hàng 322,customer322@email.com,927709269,Váy công sở|Áo dài,medium,Cần Thơ,2022-03-02,Nữ,26-35
+323,Khách hàng 323,customer323@email.com,972059365,Áo sơ mi|Áo dài,high,Đà Nẵng,2021-01-23,Nữ,46-55
+324,Khách hàng 324,customer324@email.com,939246218,Đầm dạ hội|Áo dài,high,Cần Thơ,2021-03-16,Nữ,18-25
+325,Khách hàng 325,customer325@email.com,918557710,Áo cưới,medium,Cần Thơ,2021-03-03,Nữ,18-25
+326,Khách hàng 326,customer326@email.com,948532662,Áo cưới,low,Huế,2021-07-04,Nam,18-25
+327,Khách hàng 327,customer327@email.com,996688655,Váy công sở,high,Huế,2022-01-19,Nữ,36-45
+328,Khách hàng 328,customer328@email.com,920770971,Áo cưới|Váy công sở,medium,Cần Thơ,2021-05-17,Nữ,26-35
+329,Khách hàng 329,customer329@email.com,982109613,Váy công sở|Đầm dạ hội|Áo dài,low,Huế,2022-06-26,Nữ,46-55
+330,Khách hàng 330,customer330@email.com,910466177,Quần tây,low,Hà Nội,2021-11-02,Nữ,26-35
+331,Khách hàng 331,customer331@email.com,966925500,Quần tây|Váy công sở,high,Cần Thơ,2022-01-24,Nam,36-45
+332,Khách hàng 332,customer332@email.com,956460773,Vest,medium,TP.HCM,2021-10-10,Nữ,36-45
+333,Khách hàng 333,customer333@email.com,914324134,Quần tây,low,Huế,2022-09-22,Nữ,46-55
+334,Khách hàng 334,customer334@email.com,919031632,Vest,low,Hà Nội,2022-09-01,Nữ,18-25
+335,Khách hàng 335,customer335@email.com,916533225,Áo cưới,high,TP.HCM,2021-02-15,Nam,26-35
+336,Khách hàng 336,customer336@email.com,939161379,Áo cưới|Vest,high,Hà Nội,2021-05-24,Nam,26-35
+337,Khách hàng 337,customer337@email.com,987507357,Đầm dạ hội|Vest|Áo sơ mi,medium,Cần Thơ,2022-11-20,Nam,26-35
+338,Khách hàng 338,customer338@email.com,998612211,Vest|Đầm dạ hội,low,Cần Thơ,2021-08-15,Nữ,26-35
+339,Khách hàng 339,customer339@email.com,984721440,Đầm dạ hội|Váy công sở,low,Cần Thơ,2021-06-29,Nữ,36-45
+340,Khách hàng 340,customer340@email.com,916292676,Quần tây|Áo cưới|Áo sơ mi,medium,Đà Nẵng,2022-10-21,Nam,26-35
+341,Khách hàng 341,customer341@email.com,965878146,Áo cưới|Áo sơ mi|Đầm dạ hội,high,Huế,2021-06-02,Nữ,36-45
+342,Khách hàng 342,customer342@email.com,973554620,Áo cưới|Vest,high,TP.HCM,2021-08-19,Nữ,18-25
+343,Khách hàng 343,customer343@email.com,972146184,Váy công sở|Quần tây,low,Hà Nội,2022-07-30,Nữ,18-25
+344,Khách hàng 344,customer344@email.com,927997624,Áo cưới|Áo sơ mi,high,Huế,2021-09-06,Nữ,36-45
+345,Khách hàng 345,customer345@email.com,920612653,Vest|Đầm dạ hội,high,Huế,2022-01-15,Nữ,18-25
+346,Khách hàng 346,customer346@email.com,935566010,Áo sơ mi,high,Hà Nội,2021-10-02,Nam,36-45
+347,Khách hàng 347,customer347@email.com,915307982,Quần tây|Áo sơ mi,high,Hà Nội,2021-07-12,Nam,55+
+348,Khách hàng 348,customer348@email.com,974343201,Quần tây|Váy công sở|Áo sơ mi,low,TP.HCM,2021-12-07,Nữ,18-25
+349,Khách hàng 349,customer349@email.com,925745913,Áo dài|Vest,low,Huế,2021-09-06,Nữ,26-35
+350,Khách hàng 350,customer350@email.com,942122457,Áo sơ mi|Quần tây|Vest,medium,Cần Thơ,2021-11-26,Nữ,18-25
+351,Khách hàng 351,customer351@email.com,997069904,Áo cưới|Váy công sở,high,Đà Nẵng,2021-11-12,Nữ,36-45
+352,Khách hàng 352,customer352@email.com,972546007,Đầm dạ hội|Áo sơ mi,medium,Hà Nội,2022-04-26,Nữ,55+
+353,Khách hàng 353,customer353@email.com,965556767,Vest|Đầm dạ hội,medium,Hà Nội,2022-07-31,Nữ,36-45
+354,Khách hàng 354,customer354@email.com,912176998,Quần tây,low,Đà Nẵng,2022-07-21,Nữ,55+
+355,Khách hàng 355,customer355@email.com,930456313,Áo sơ mi|Quần tây|Áo cưới,medium,TP.HCM,2021-12-04,Nữ,26-35
+356,Khách hàng 356,customer356@email.com,942981324,Áo cưới,high,Huế,2022-07-18,Nữ,26-35
+357,Khách hàng 357,customer357@email.com,996126771,Quần tây|Đầm dạ hội|Váy công sở,medium,Huế,2022-04-17,Nam,26-35
+358,Khách hàng 358,customer358@email.com,932718459,Quần tây,medium,TP.HCM,2022-07-14,Nữ,26-35
+359,Khách hàng 359,customer359@email.com,917882882,Vest|Áo sơ mi,high,Cần Thơ,2021-02-04,Nam,46-55
+360,Khách hàng 360,customer360@email.com,916511491,Váy công sở,high,Hà Nội,2022-02-27,Nam,55+
+361,Khách hàng 361,customer361@email.com,941062464,Váy công sở,high,Hà Nội,2022-12-26,Nữ,46-55
+362,Khách hàng 362,customer362@email.com,977878323,Áo dài,low,Huế,2022-01-18,Nữ,55+
+363,Khách hàng 363,customer363@email.com,999490304,Áo sơ mi,high,Cần Thơ,2022-05-10,Nam,36-45
+364,Khách hàng 364,customer364@email.com,984040345,Áo cưới|Áo dài|Quần tây,high,Huế,2021-01-13,Nữ,26-35
+365,Khách hàng 365,customer365@email.com,946875077,Áo sơ mi,high,Cần Thơ,2021-10-21,Nữ,18-25
+366,Khách hàng 366,customer366@email.com,967790557,Áo sơ mi,high,TP.HCM,2021-04-20,Nữ,26-35
+367,Khách hàng 367,customer367@email.com,942342289,Áo sơ mi,low,TP.HCM,2022-09-27,Nữ,26-35
+368,Khách hàng 368,customer368@email.com,920605783,Đầm dạ hội|Váy công sở|Quần tây,medium,Đà Nẵng,2022-02-20,Nữ,18-25
+369,Khách hàng 369,customer369@email.com,940314047,Áo sơ mi|Vest,high,Đà Nẵng,2022-12-02,Nam,26-35
+370,Khách hàng 370,customer370@email.com,914252622,Quần tây,high,Hà Nội,2022-02-20,Nam,36-45
+371,Khách hàng 371,customer371@email.com,917531619,Áo cưới|Áo sơ mi,medium,Hà Nội,2022-12-21,Nam,36-45
+372,Khách hàng 372,customer372@email.com,968238367,Áo dài,medium,Đà Nẵng,2022-08-03,Nam,46-55
+373,Khách hàng 373,customer373@email.com,940838737,Áo sơ mi,low,TP.HCM,2022-12-10,Nam,18-25
+374,Khách hàng 374,customer374@email.com,947631028,Áo cưới|Đầm dạ hội|Áo dài,low,Cần Thơ,2022-08-01,Nam,36-45
+375,Khách hàng 375,customer375@email.com,937804291,Áo dài|Vest|Đầm dạ hội,low,Cần Thơ,2021-05-28,Nam,46-55
+376,Khách hàng 376,customer376@email.com,931803703,Váy công sở|Áo cưới|Áo dài,medium,Cần Thơ,2021-09-04,Nữ,26-35
+377,Khách hàng 377,customer377@email.com,961518966,Váy công sở|Áo cưới|Áo sơ mi,medium,TP.HCM,2022-12-07,Nữ,36-45
+378,Khách hàng 378,customer378@email.com,923111164,Áo dài|Áo sơ mi|Đầm dạ hội,low,Huế,2021-08-26,Nam,46-55
+379,Khách hàng 379,customer379@email.com,992391596,Đầm dạ hội,high,Cần Thơ,2022-02-11,Nữ,26-35
+380,Khách hàng 380,customer380@email.com,970471823,Áo dài|Quần tây,medium,Huế,2021-08-22,Nữ,36-45
+381,Khách hàng 381,customer381@email.com,934929311,Áo sơ mi|Áo cưới,medium,Cần Thơ,2022-11-08,Nữ,36-45
+382,Khách hàng 382,customer382@email.com,943077929,Áo dài|Áo sơ mi,medium,Hà Nội,2021-03-26,Nữ,26-35
+383,Khách hàng 383,customer383@email.com,995080736,Vest|Áo cưới,high,TP.HCM,2022-02-03,Nữ,26-35
+384,Khách hàng 384,customer384@email.com,910697290,Đầm dạ hội|Áo dài,low,Đà Nẵng,2022-04-01,Nữ,18-25
+385,Khách hàng 385,customer385@email.com,927784789,Váy công sở|Đầm dạ hội,low,Hà Nội,2021-07-11,Nam,55+
+386,Khách hàng 386,customer386@email.com,978778646,Áo cưới|Áo sơ mi,high,Huế,2021-04-16,Nam,55+
+387,Khách hàng 387,customer387@email.com,984386123,Áo dài,medium,Hà Nội,2022-09-04,Nữ,46-55
+388,Khách hàng 388,customer388@email.com,949171088,Váy công sở|Đầm dạ hội|Áo cưới,low,Huế,2022-02-02,Nữ,18-25
+389,Khách hàng 389,customer389@email.com,942580349,Quần tây,high,Cần Thơ,2022-06-18,Nữ,26-35
+390,Khách hàng 390,customer390@email.com,932750139,Quần tây,medium,TP.HCM,2021-10-03,Nữ,18-25
+391,Khách hàng 391,customer391@email.com,918491573,Đầm dạ hội|Áo cưới,low,TP.HCM,2022-03-22,Nữ,46-55
+392,Khách hàng 392,customer392@email.com,920324210,Áo cưới|Đầm dạ hội,medium,Đà Nẵng,2021-09-15,Nữ,26-35
+393,Khách hàng 393,customer393@email.com,976545476,Quần tây,high,Cần Thơ,2022-09-24,Nữ,26-35
+394,Khách hàng 394,customer394@email.com,928185096,Áo cưới,low,Đà Nẵng,2021-01-07,Nữ,36-45
+395,Khách hàng 395,customer395@email.com,954230340,Đầm dạ hội|Áo sơ mi,medium,Huế,2021-12-09,Nữ,26-35
+396,Khách hàng 396,customer396@email.com,928270317,Váy công sở|Quần tây,high,Đà Nẵng,2021-11-25,Nam,36-45
+397,Khách hàng 397,customer397@email.com,933842070,Quần tây|Vest|Áo cưới,medium,Huế,2021-11-23,Nữ,18-25
+398,Khách hàng 398,customer398@email.com,975901885,Quần tây|Váy công sở,high,Cần Thơ,2021-09-06,Nam,26-35
+399,Khách hàng 399,customer399@email.com,958991556,Áo cưới|Đầm dạ hội,medium,Hà Nội,2022-08-01,Nữ,55+
+400,Khách hàng 400,customer400@email.com,934149421,Áo sơ mi,high,Cần Thơ,2021-01-28,Nữ,55+
+401,Khách hàng 401,customer401@email.com,949101812,Áo cưới|Quần tây|Vest,medium,Hà Nội,2022-02-23,Nữ,55+
+402,Khách hàng 402,customer402@email.com,943914361,Áo cưới|Vest|Đầm dạ hội,low,TP.HCM,2022-03-10,Nữ,46-55
+403,Khách hàng 403,customer403@email.com,974321792,Áo dài|Áo cưới,high,Cần Thơ,2022-02-15,Nữ,46-55
+404,Khách hàng 404,customer404@email.com,914934536,Áo sơ mi|Quần tây|Áo cưới,high,Đà Nẵng,2022-12-20,Nữ,36-45
+405,Khách hàng 405,customer405@email.com,943316996,Áo sơ mi|Quần tây|Áo dài,low,Đà Nẵng,2021-06-20,Nữ,26-35
+406,Khách hàng 406,customer406@email.com,996804457,Áo sơ mi|Áo dài|Váy công sở,high,Huế,2021-12-06,Nữ,18-25
+407,Khách hàng 407,customer407@email.com,944727276,Áo dài|Váy công sở,low,TP.HCM,2022-06-07,Nam,18-25
+408,Khách hàng 408,customer408@email.com,987206788,Áo sơ mi|Váy công sở|Quần tây,high,TP.HCM,2022-04-02,Nam,26-35
+409,Khách hàng 409,customer409@email.com,988999206,Áo cưới|Váy công sở,high,Cần Thơ,2021-06-04,Nữ,36-45
+410,Khách hàng 410,customer410@email.com,949652241,Áo dài|Áo cưới,low,Huế,2021-03-29,Nữ,46-55
+411,Khách hàng 411,customer411@email.com,929015320,Váy công sở,high,Đà Nẵng,2021-11-16,Nam,26-35
+412,Khách hàng 412,customer412@email.com,974817230,Áo cưới|Vest,high,Đà Nẵng,2022-05-03,Nữ,18-25
+413,Khách hàng 413,customer413@email.com,970726434,Áo cưới,high,Đà Nẵng,2021-03-10,Nữ,36-45
+414,Khách hàng 414,customer414@email.com,913031322,Áo dài|Quần tây,low,Đà Nẵng,2022-10-26,Nữ,26-35
+415,Khách hàng 415,customer415@email.com,942737441,Quần tây,low,Cần Thơ,2021-06-28,Nữ,36-45
+416,Khách hàng 416,customer416@email.com,972015859,Vest|Đầm dạ hội|Áo sơ mi,medium,TP.HCM,2022-02-19,Nam,26-35
+417,Khách hàng 417,customer417@email.com,913918120,Vest|Váy công sở|Áo cưới,medium,Cần Thơ,2021-07-22,Nữ,46-55
+418,Khách hàng 418,customer418@email.com,910597274,Áo sơ mi|Áo cưới,medium,TP.HCM,2021-07-30,Nam,18-25
+419,Khách hàng 419,customer419@email.com,987490324,Váy công sở|Quần tây,low,Hà Nội,2022-07-04,Nữ,26-35
+420,Khách hàng 420,customer420@email.com,936450861,Đầm dạ hội,medium,Huế,2021-04-27,Nữ,18-25
+421,Khách hàng 421,customer421@email.com,995779702,Quần tây|Áo cưới,high,Đà Nẵng,2022-09-04,Nam,36-45
+422,Khách hàng 422,customer422@email.com,925331969,Áo sơ mi|Áo cưới,high,Đà Nẵng,2021-12-27,Nữ,26-35
+423,Khách hàng 423,customer423@email.com,949922369,Áo sơ mi|Vest,high,Cần Thơ,2022-08-28,Nữ,26-35
+424,Khách hàng 424,customer424@email.com,952035079,Quần tây,low,Hà Nội,2021-09-02,Nữ,36-45
+425,Khách hàng 425,customer425@email.com,928972822,Áo dài|Vest,medium,Cần Thơ,2022-02-02,Nữ,36-45
+426,Khách hàng 426,customer426@email.com,961500679,Áo sơ mi|Vest,high,Huế,2021-07-10,Nữ,18-25
+427,Khách hàng 427,customer427@email.com,996605343,Quần tây|Áo sơ mi,high,TP.HCM,2022-07-23,Nam,26-35
+428,Khách hàng 428,customer428@email.com,928830282,Áo cưới,medium,TP.HCM,2021-11-19,Nam,36-45
+429,Khách hàng 429,customer429@email.com,911286267,Áo sơ mi|Áo dài,medium,Huế,2021-05-20,Nữ,18-25
+430,Khách hàng 430,customer430@email.com,985374270,Váy công sở,medium,Cần Thơ,2022-10-31,Nữ,55+
+431,Khách hàng 431,customer431@email.com,965784972,Áo cưới|Quần tây,medium,Huế,2022-05-16,Nam,46-55
+432,Khách hàng 432,customer432@email.com,914142053,Áo dài,high,TP.HCM,2021-10-27,Nữ,36-45
+433,Khách hàng 433,customer433@email.com,982156607,Đầm dạ hội,low,Đà Nẵng,2021-06-22,Nam,26-35
+434,Khách hàng 434,customer434@email.com,983782999,Áo sơ mi|Quần tây,medium,Cần Thơ,2021-04-26,Nữ,26-35
+435,Khách hàng 435,customer435@email.com,982751830,Áo dài|Đầm dạ hội|Áo sơ mi,medium,Hà Nội,2022-03-28,Nữ,26-35
+436,Khách hàng 436,customer436@email.com,997734330,Vest|Áo cưới|Áo dài,high,TP.HCM,2021-11-01,Nữ,46-55
+437,Khách hàng 437,customer437@email.com,956785209,Áo cưới,medium,Hà Nội,2022-03-26,Nữ,18-25
+438,Khách hàng 438,customer438@email.com,938169370,Váy công sở,low,Cần Thơ,2022-12-07,Nữ,18-25
+439,Khách hàng 439,customer439@email.com,994929036,Váy công sở|Quần tây,high,Huế,2021-06-19,Nam,26-35
+440,Khách hàng 440,customer440@email.com,986514083,Vest|Váy công sở|Quần tây,low,Đà Nẵng,2022-06-30,Nữ,36-45
+441,Khách hàng 441,customer441@email.com,953440052,Áo sơ mi|Váy công sở,low,Đà Nẵng,2021-10-24,Nữ,18-25
+442,Khách hàng 442,customer442@email.com,965243509,Đầm dạ hội|Áo sơ mi|Áo dài,low,Hà Nội,2021-10-11,Nam,36-45
+443,Khách hàng 443,customer443@email.com,929628462,Vest|Quần tây|Váy công sở,low,Đà Nẵng,2021-09-11,Nam,46-55
+444,Khách hàng 444,customer444@email.com,994879557,Áo cưới|Váy công sở|Vest,high,Đà Nẵng,2022-10-05,Nữ,55+
+445,Khách hàng 445,customer445@email.com,995044078,Áo cưới|Váy công sở,low,Hà Nội,2022-02-17,Nữ,36-45
+446,Khách hàng 446,customer446@email.com,975504221,Quần tây|Đầm dạ hội|Váy công sở,medium,Đà Nẵng,2022-08-19,Nữ,36-45
+447,Khách hàng 447,customer447@email.com,922501261,Váy công sở,high,Huế,2022-10-13,Nam,36-45
+448,Khách hàng 448,customer448@email.com,963380520,Quần tây|Đầm dạ hội|Áo dài,high,TP.HCM,2022-03-16,Nam,26-35
+449,Khách hàng 449,customer449@email.com,953334226,Áo cưới,medium,Đà Nẵng,2021-12-12,Nữ,36-45
+450,Khách hàng 450,customer450@email.com,956135950,Áo sơ mi|Vest|Váy công sở,medium,Hà Nội,2021-02-17,Nam,36-45
+451,Khách hàng 451,customer451@email.com,912185246,Quần tây,medium,Hà Nội,2021-06-11,Nữ,26-35
+452,Khách hàng 452,customer452@email.com,937154689,Áo cưới|Áo dài,medium,TP.HCM,2022-10-28,Nữ,36-45
+453,Khách hàng 453,customer453@email.com,997857309,Vest|Đầm dạ hội,low,Đà Nẵng,2021-09-14,Nam,36-45
+454,Khách hàng 454,customer454@email.com,997095388,Đầm dạ hội,high,TP.HCM,2021-02-23,Nam,46-55
+455,Khách hàng 455,customer455@email.com,941426254,Quần tây|Đầm dạ hội,high,Huế,2022-11-03,Nữ,46-55
+456,Khách hàng 456,customer456@email.com,910145801,Quần tây,low,TP.HCM,2022-05-04,Nam,26-35
+457,Khách hàng 457,customer457@email.com,940358823,Vest,high,Cần Thơ,2022-11-28,Nam,18-25
+458,Khách hàng 458,customer458@email.com,956113741,Áo dài|Váy công sở,high,Hà Nội,2022-03-09,Nữ,18-25
+459,Khách hàng 459,customer459@email.com,961414775,Vest|Áo cưới|Áo dài,low,Hà Nội,2021-04-15,Nam,18-25
+460,Khách hàng 460,customer460@email.com,950165370,Đầm dạ hội,medium,TP.HCM,2022-01-27,Nam,36-45
+461,Khách hàng 461,customer461@email.com,929173414,Quần tây,high,Hà Nội,2022-06-28,Nữ,55+
+462,Khách hàng 462,customer462@email.com,957135617,Áo dài|Áo sơ mi|Vest,medium,TP.HCM,2022-10-06,Nam,36-45
+463,Khách hàng 463,customer463@email.com,969375757,Vest|Áo cưới|Áo sơ mi,high,TP.HCM,2021-03-30,Nữ,18-25
+464,Khách hàng 464,customer464@email.com,989131271,Vest,low,Huế,2021-12-26,Nữ,26-35
+465,Khách hàng 465,customer465@email.com,947173969,Đầm dạ hội|Vest,low,Hà Nội,2021-09-12,Nam,46-55
+466,Khách hàng 466,customer466@email.com,913600310,Áo sơ mi|Váy công sở|Quần tây,medium,Đà Nẵng,2021-07-30,Nam,55+
+467,Khách hàng 467,customer467@email.com,962579931,Áo sơ mi|Váy công sở|Vest,high,Đà Nẵng,2022-10-24,Nữ,36-45
+468,Khách hàng 468,customer468@email.com,976422705,Váy công sở,low,Huế,2021-04-26,Nữ,18-25
+469,Khách hàng 469,customer469@email.com,989715904,Áo cưới,high,Hà Nội,2022-06-25,Nam,18-25
+470,Khách hàng 470,customer470@email.com,927714442,Đầm dạ hội,medium,Huế,2022-08-06,Nữ,26-35
+471,Khách hàng 471,customer471@email.com,933188838,Đầm dạ hội|Áo sơ mi,high,Huế,2021-03-16,Nữ,46-55
+472,Khách hàng 472,customer472@email.com,911851322,Áo sơ mi,low,Đà Nẵng,2021-08-09,Nam,55+
+473,Khách hàng 473,customer473@email.com,977996124,Áo dài,medium,Đà Nẵng,2022-10-06,Nam,26-35
+474,Khách hàng 474,customer474@email.com,963992760,Áo sơ mi|Áo cưới|Quần tây,high,Hà Nội,2022-10-18,Nữ,26-35
+475,Khách hàng 475,customer475@email.com,921220209,Áo sơ mi|Váy công sở|Vest,medium,Đà Nẵng,2021-03-22,Nữ,36-45
+476,Khách hàng 476,customer476@email.com,962443094,Vest|Váy công sở|Áo sơ mi,medium,Cần Thơ,2022-10-12,Nữ,36-45
+477,Khách hàng 477,customer477@email.com,968718382,Quần tây|Váy công sở|Áo dài,medium,TP.HCM,2021-03-01,Nữ,26-35
+478,Khách hàng 478,customer478@email.com,925567455,Áo dài,medium,Huế,2022-09-19,Nữ,36-45
+479,Khách hàng 479,customer479@email.com,911699863,Áo dài|Đầm dạ hội|Vest,low,TP.HCM,2022-12-20,Nữ,26-35
+480,Khách hàng 480,customer480@email.com,956533974,Vest,medium,Cần Thơ,2022-06-14,Nữ,26-35
+481,Khách hàng 481,customer481@email.com,946072958,Đầm dạ hội|Vest|Váy công sở,low,Hà Nội,2021-01-31,Nữ,26-35
+482,Khách hàng 482,customer482@email.com,980310522,Váy công sở|Áo cưới,medium,Hà Nội,2021-09-27,Nam,26-35
+483,Khách hàng 483,customer483@email.com,971095611,Áo sơ mi|Quần tây|Áo dài,medium,Cần Thơ,2022-01-04,Nam,18-25
+484,Khách hàng 484,customer484@email.com,932398441,Áo cưới,high,Đà Nẵng,2021-06-11,Nam,55+
+485,Khách hàng 485,customer485@email.com,925479814,Váy công sở|Áo dài,high,TP.HCM,2022-06-06,Nam,46-55
+486,Khách hàng 486,customer486@email.com,942823140,Áo dài,low,Hà Nội,2022-04-29,Nữ,26-35
+487,Khách hàng 487,customer487@email.com,914746418,Áo cưới|Vest,low,Cần Thơ,2022-11-03,Nữ,26-35
+488,Khách hàng 488,customer488@email.com,965869014,Vest|Đầm dạ hội,low,Đà Nẵng,2021-10-05,Nữ,36-45
+489,Khách hàng 489,customer489@email.com,926025721,Áo sơ mi,medium,Cần Thơ,2022-11-21,Nữ,18-25
+490,Khách hàng 490,customer490@email.com,979226031,Vest,low,Hà Nội,2022-02-15,Nữ,36-45
+491,Khách hàng 491,customer491@email.com,951701149,Áo cưới,medium,Đà Nẵng,2021-03-30,Nữ,46-55
+492,Khách hàng 492,customer492@email.com,949137230,Áo cưới|Áo dài|Đầm dạ hội,low,Cần Thơ,2021-11-08,Nữ,36-45
+493,Khách hàng 493,customer493@email.com,989415412,Áo sơ mi|Vest|Áo cưới,medium,Huế,2021-07-20,Nữ,36-45
+494,Khách hàng 494,customer494@email.com,965034115,Áo sơ mi|Vest|Quần tây,low,Hà Nội,2021-08-27,Nam,26-35
+495,Khách hàng 495,customer495@email.com,910196231,Đầm dạ hội|Quần tây|Áo dài,medium,Huế,2021-11-11,Nữ,55+
+496,Khách hàng 496,customer496@email.com,941966313,Vest,high,Huế,2022-05-19,Nữ,18-25
+497,Khách hàng 497,customer497@email.com,947557512,Vest,high,Hà Nội,2021-02-14,Nữ,55+
+498,Khách hàng 498,customer498@email.com,965439545,Váy công sở,high,Đà Nẵng,2022-04-15,Nữ,36-45
+499,Khách hàng 499,customer499@email.com,927919925,Áo dài|Áo sơ mi|Váy công sở,high,Huế,2021-03-18,Nam,26-35
+500,Khách hàng 500,customer500@email.com,927543369,Áo sơ mi|Áo dài|Áo cưới,high,TP.HCM,2021-10-26,Nữ,46-55
+501,Khách hàng 501,customer501@email.com,0948352498,Đồ thể thao|Áo khoác,low,TP.HCM,2024-01-05,Nam,26-35
+502,Khách hàng 502,customer502@email.com,0916072331,Váy công sở|Quần tây,low,Đà Nẵng,2023-04-01,Nữ,26-35
+503,Khách hàng 503,customer503@email.com,0983800569,Chân váy|Áo khoác,high,Huế,2022-07-27,Nữ,18-25
+504,Khách hàng 504,customer504@email.com,0960089832,Váy công sở,medium,Hà Nội,2022-11-26,Nam,36-45
+505,Khách hàng 505,customer505@email.com,0916080513,Chân váy|Áo dài,low,Hà Nội,2021-03-21,Nữ,26-35
+506,Khách hàng 506,customer506@email.com,0992284610,Chân váy|Đầm dạ hội|Quần tây,low,Buôn Ma Thuột,2022-10-15,Nữ,26-35
+507,Khách hàng 507,customer507@email.com,0981449442,Chân váy|Đồ thể thao,medium,Hà Nội,2023-10-01,Nữ,26-35
+508,Khách hàng 508,customer508@email.com,0994457912,Vest|Váy công sở|Áo sơ mi,medium,Hà Nội,2021-02-24,Nữ,55+
+509,Khách hàng 509,customer509@email.com,0988319168,Đồ thể thao|Áo cưới|Áo dài,low,Huế,2023-09-11,Nữ,46-55
+510,Khách hàng 510,customer510@email.com,0914237322,Áo cưới,high,TP.HCM,2024-03-18,Nam,26-35
+511,Khách hàng 511,customer511@email.com,0937365878,Váy công sở,medium,Huế,2023-04-21,Nữ,46-55
+512,Khách hàng 512,customer512@email.com,0985280948,Áo dài|Đầm dạ hội|Áo cưới,high,Đà Nẵng,2022-10-28,Nữ,55+
+513,Khách hàng 513,customer513@email.com,0983319550,Chân váy|Quần tây,medium,Biên Hòa,2022-12-27,Nữ,46-55
+514,Khách hàng 514,customer514@email.com,0935805259,Đồ thể thao|Áo khoác,low,Hà Nội,2022-05-20,Nữ,55+
+515,Khách hàng 515,customer515@email.com,0952552488,Áo cưới|Áo khoác,medium,Vũng Tàu,2023-09-10,Nữ,26-35
+516,Khách hàng 516,customer516@email.com,0982905845,Đồ thể thao,high,Hà Nội,2023-02-17,Nam,36-45
+517,Khách hàng 517,customer517@email.com,0915646068,Áo sơ mi,high,TP.HCM,2022-08-13,Nữ,36-45
+518,Khách hàng 518,customer518@email.com,0982286705,Áo khoác|Áo cưới|Chân váy,high,Cần Thơ,2022-07-10,Nam,36-45
+519,Khách hàng 519,customer519@email.com,0999903592,Áo cưới|Đồ thể thao|Áo dài,low,TP.HCM,2023-12-24,Nam,26-35
+520,Khách hàng 520,customer520@email.com,0910695441,Vest|Đầm dạ hội,high,TP.HCM,2024-02-02,Nữ,46-55
+521,Khách hàng 521,customer521@email.com,0948553376,Áo khoác|Áo cưới,low,TP.HCM,2022-10-20,Nữ,36-45
+522,Khách hàng 522,customer522@email.com,0915006085,Chân váy,medium,Nha Trang,2021-12-25,Nữ,18-25
+523,Khách hàng 523,customer523@email.com,0948851599,Áo khoác|Đầm dạ hội,low,Đà Nẵng,2021-03-18,Nam,55+
+524,Khách hàng 524,customer524@email.com,0980372842,Áo khoác|Chân váy,high,TP.HCM,2023-10-09,Nữ,26-35
+525,Khách hàng 525,customer525@email.com,0931809610,Quần tây,medium,Cần Thơ,2023-07-29,Nam,26-35
+526,Khách hàng 526,customer526@email.com,0933554528,Đồ thể thao|Áo cưới,high,Biên Hòa,2024-06-05,Nữ,26-35
+527,Khách hàng 527,customer527@email.com,0999826000,Váy công sở,low,TP.HCM,2021-07-15,Nam,26-35
+528,Khách hàng 528,customer528@email.com,0969959826,Váy công sở|Áo cưới,high,Hà Nội,2022-07-01,Nữ,18-25
+529,Khách hàng 529,customer529@email.com,0999628735,Quần tây|Áo cưới|Áo dài,medium,TP.HCM,2021-08-31,Nữ,55+
+530,Khách hàng 530,customer530@email.com,0959330907,Áo sơ mi|Vest|Đồ thể thao,low,Vũng Tàu,2024-06-12,Nữ,26-35
+531,Khách hàng 531,customer531@email.com,0982144402,Quần tây|Váy công sở|Áo khoác,high,Hải Phòng,2024-09-22,Nữ,36-45
+532,Khách hàng 532,customer532@email.com,0969961498,Chân váy,medium,TP.HCM,2023-12-18,Nữ,18-25
+533,Khách hàng 533,customer533@email.com,0932083803,Chân váy|Áo cưới|Đầm dạ hội,high,Hà Nội,2022-11-03,Nữ,36-45
+534,Khách hàng 534,customer534@email.com,0969791674,Vest|Chân váy,medium,Đà Nẵng,2021-04-24,Nữ,18-25
+535,Khách hàng 535,customer535@email.com,0963143336,Áo sơ mi|Áo dài,high,Hải Phòng,2022-06-06,Nữ,18-25
+536,Khách hàng 536,customer536@email.com,0918087373,Vest|Chân váy,high,Đà Nẵng,2021-05-22,Nam,18-25
+537,Khách hàng 537,customer537@email.com,0960259293,Váy công sở,medium,Vũng Tàu,2023-02-23,Nữ,18-25
+538,Khách hàng 538,customer538@email.com,0925922674,Chân váy|Đầm dạ hội|Quần tây,high,Hà Nội,2022-01-01,Nam,55+
+539,Khách hàng 539,customer539@email.com,0950045602,Áo dài,medium,Đà Nẵng,2023-08-07,Nữ,46-55
+540,Khách hàng 540,customer540@email.com,0956460773,Áo khoác,low,Vũng Tàu,2021-11-14,Nữ,18-25
+541,Khách hàng 541,customer541@email.com,0937659807,Váy công sở|Áo dài|Áo cưới,low,TP.HCM,2021-05-18,Nữ,36-45
+542,Khách hàng 542,customer542@email.com,0915937353,Áo cưới,medium,Đà Nẵng,2023-04-04,Nữ,36-45
+543,Khách hàng 543,customer543@email.com,0948824283,Chân váy,high,Hải Phòng,2022-04-25,Nam,36-45
+544,Khách hàng 544,customer544@email.com,0929228089,Quần tây|Áo cưới|Áo sơ mi,medium,Hà Nội,2024-09-14,Nam,36-45
+545,Khách hàng 545,customer545@email.com,0916292676,Đầm dạ hội|Váy công sở|Áo khoác,high,Cần Thơ,2022-12-07,Nữ,26-35
+546,Khách hàng 546,customer546@email.com,0950250352,Váy công sở|Đầm dạ hội,low,Đà Nẵng,2023-02-10,Nam,26-35
+547,Khách hàng 547,customer547@email.com,0985482164,Đầm dạ hội|Áo khoác|Áo dài,high,Đà Nẵng,2023-04-26,Nam,26-35
+548,Khách hàng 548,customer548@email.com,0996799390,Quần tây,high,Nha Trang,2021-06-11,Nam,36-45
+549,Khách hàng 549,customer549@email.com,0946032304,Áo dài,medium,Huế,2023-02-12,Nữ,18-25
+550,Khách hàng 550,customer550@email.com,0938036618,Chân váy|Áo cưới|Áo khoác,medium,Biên Hòa,2022-11-13,Nam,18-25
+551,Khách hàng 551,customer551@email.com,0991121400,Vest|Áo khoác|Áo cưới,low,Vũng Tàu,2024-12-12,Nữ,36-45
+552,Khách hàng 552,customer552@email.com,0997069904,Áo khoác|Chân váy,medium,Hà Nội,2023-01-06,Nữ,26-35
+553,Khách hàng 553,customer553@email.com,0959755172,Áo khoác|Quần tây|Áo cưới,medium,Đà Nẵng,2022-10-03,Nam,18-25
+554,Khách hàng 554,customer554@email.com,0949620038,Chân váy|Váy công sở,low,TP.HCM,2021-11-09,Nữ,26-35
+555,Khách hàng 555,customer555@email.com,0996126771,Quần tây|Áo sơ mi|Áo khoác,medium,Hải Phòng,2023-10-02,Nữ,18-25
+556,Khách hàng 556,customer556@email.com,0980322629,Áo khoác|Đầm dạ hội|Áo dài,high,TP.HCM,2021-03-11,Nữ,18-25
+557,Khách hàng 557,customer557@email.com,0928453800,Váy công sở,low,Cần Thơ,2024-07-15,Nam,26-35
+558,Khách hàng 558,customer558@email.com,0998487646,Áo dài|Áo khoác,low,Đà Nẵng,2023-09-27,Nữ,18-25
+559,Khách hàng 559,customer559@email.com,0912300840,Áo sơ mi|Chân váy|Đồ thể thao,high,Cần Thơ,2023-10-26,Nữ,46-55
+560,Khách hàng 560,customer560@email.com,0980381817,Vest,low,Huế,2021-11-01,Nam,26-35
+561,Khách hàng 561,customer561@email.com,0964496076,Vest|Quần tây,medium,Buôn Ma Thuột,2023-07-30,Nam,36-45
+562,Khách hàng 562,customer562@email.com,0922549425,Áo dài,medium,Đà Nẵng,2023-04-11,Nam,18-25
+563,Khách hàng 563,customer563@email.com,0977089857,Vest,medium,Hà Nội,2023-06-08,Nữ,55+
+564,Khách hàng 564,customer564@email.com,0986072480,Áo dài|Áo cưới|Chân váy,low,Vũng Tàu,2023-09-01,Nữ,26-35
+565,Khách hàng 565,customer565@email.com,0952209421,Đồ thể thao|Áo dài|Đầm dạ hội,high,Huế,2021-02-02,Nữ,36-45
+566,Khách hàng 566,customer566@email.com,0931803703,Vest|Áo sơ mi,low,Nha Trang,2024-02-29,Nữ,46-55
+567,Khách hàng 567,customer567@email.com,0920526386,Váy công sở|Đầm dạ hội,medium,Hà Nội,2023-10-23,Nam,26-35
+568,Khách hàng 568,customer568@email.com,0991224373,Quần tây,high,Hà Nội,2024-06-11,Nữ,18-25
+569,Khách hàng 569,customer569@email.com,0940620216,Áo khoác|Đồ thể thao,medium,Hà Nội,2022-12-30,Nam,36-45
+570,Khách hàng 570,customer570@email.com,0943077929,Vest|Áo sơ mi,low,Hà Nội,2024-12-31,Nữ,36-45
+571,Khách hàng 571,customer571@email.com,0952503832,Váy công sở,low,TP.HCM,2023-01-09,Nam,26-35
+572,Khách hàng 572,customer572@email.com,0921716836,Vest|Đầm dạ hội,medium,Đà Nẵng,2022-01-19,Nữ,18-25
+573,Khách hàng 573,customer573@email.com,0984386123,Quần tây,medium,Hải Phòng,2021-07-10,Nữ,18-25
+574,Khách hàng 574,customer574@email.com,0985099723,Váy công sở|Vest,medium,TP.HCM,2022-05-13,Nữ,18-25
+575,Khách hàng 575,customer575@email.com,0929587040,Áo sơ mi|Áo khoác,low,Hà Nội,2021-05-10,Nam,36-45
+576,Khách hàng 576,customer576@email.com,0993890601,Áo sơ mi|Áo cưới,medium,TP.HCM,2023-10-13,Nam,26-35
+577,Khách hàng 577,customer577@email.com,0954230340,Quần tây|Váy công sở,medium,Nha Trang,2023-06-21,Nữ,55+
+578,Khách hàng 578,customer578@email.com,0953038948,Áo sơ mi,high,TP.HCM,2024-05-20,Nam,55+
+579,Khách hàng 579,customer579@email.com,0987293208,Áo sơ mi|Áo khoác,medium,Hà Nội,2022-05-12,Nữ,26-35
+580,Khách hàng 580,customer580@email.com,0983833059,Áo cưới|Chân váy|Đầm dạ hội,high,Đà Nẵng,2021-02-25,Nữ,26-35
+581,Khách hàng 581,customer581@email.com,0977015343,Vest|Váy công sở,medium,TP.HCM,2021-10-13,Nữ,36-45
+582,Khách hàng 582,customer582@email.com,0990253323,Vest|Áo khoác,medium,Đà Nẵng,2023-09-09,Nữ,46-55
+583,Khách hàng 583,customer583@email.com,0958255231,Chân váy|Áo dài,high,Đà Nẵng,2024-12-07,Nữ,18-25
+584,Khách hàng 584,customer584@email.com,0932325574,Quần tây,medium,Đà Nẵng,2024-08-18,Nữ,36-45
+585,Khách hàng 585,customer585@email.com,0911415698,Váy công sở|Vest,low,Đà Nẵng,2021-07-21,Nữ,36-45
+586,Khách hàng 586,customer586@email.com,0962497139,Áo cưới|Áo khoác|Quần tây,high,Huế,2023-08-07,Nữ,26-35
+587,Khách hàng 587,customer587@email.com,0924032377,Áo khoác,medium,Buôn Ma Thuột,2022-08-29,Nam,55+
+588,Khách hàng 588,customer588@email.com,0951861213,Quần tây,medium,TP.HCM,2022-12-04,Nữ,26-35
+589,Khách hàng 589,customer589@email.com,0919015987,Áo khoác|Quần tây,low,Cần Thơ,2022-09-07,Nam,26-35
+590,Khách hàng 590,customer590@email.com,0942737441,Đầm dạ hội,low,TP.HCM,2023-11-23,Nữ,55+
+591,Khách hàng 591,customer591@email.com,0994524999,Váy công sở,low,Cần Thơ,2022-01-13,Nữ,36-45
+592,Khách hàng 592,customer592@email.com,0989484162,Áo khoác,medium,Cần Thơ,2023-05-30,Nam,36-45
+593,Khách hàng 593,customer593@email.com,0923656928,Đồ thể thao,low,Hà Nội,2024-01-05,Nữ,26-35
+594,Khách hàng 594,customer594@email.com,0990124068,Chân váy|Quần tây,medium,Huế,2023-03-07,Nam,46-55
+595,Khách hàng 595,customer595@email.com,0927978165,Đầm dạ hội|Áo sơ mi|Vest,low,Hà Nội,2022-10-04,Nam,36-45
+596,Khách hàng 596,customer596@email.com,0987149161,Váy công sở|Đồ thể thao|Đầm dạ hội,medium,Đà Nẵng,2023-02-25,Nữ,46-55
+597,Khách hàng 597,customer597@email.com,0932396311,Chân váy,low,TP.HCM,2023-09-30,Nữ,36-45
+598,Khách hàng 598,customer598@email.com,0928325379,Áo dài|Áo khoác,high,Buôn Ma Thuột,2022-02-04,Nữ,26-35
+599,Khách hàng 599,customer599@email.com,0975592138,Áo khoác|Váy công sở|Đồ thể thao,low,TP.HCM,2021-12-09,Nữ,26-35
+600,Khách hàng 600,customer600@email.com,0948744673,Áo cưới|Chân váy,high,Đà Nẵng,2021-12-11,Nữ,26-35
+601,Khách hàng 601,customer601@email.com,0982894477,Vest|Đồ thể thao|Áo sơ mi,medium,Hải Phòng,2023-01-22,Nữ,26-35
+602,Khách hàng 602,customer602@email.com,0923746101,Váy công sở,high,Hà Nội,2024-08-31,Nữ,26-35
+603,Khách hàng 603,customer603@email.com,0925755285,Vest|Áo khoác,low,Hải Phòng,2022-05-01,Nữ,46-55
+604,Khách hàng 604,customer604@email.com,0937732020,Váy công sở|Đầm dạ hội|Chân váy,high,Huế,2022-02-28,Nữ,36-45
+605,Khách hàng 605,customer605@email.com,0949276764,Quần tây,medium,Vũng Tàu,2022-08-16,Nữ,46-55
+606,Khách hàng 606,customer606@email.com,0965243509,Đầm dạ hội,high,Biên Hòa,2021-05-02,Nam,46-55
+607,Khách hàng 607,customer607@email.com,0953231088,Đầm dạ hội,high,Cần Thơ,2022-05-22,Nữ,36-45
+608,Khách hàng 608,customer608@email.com,0970665302,Váy công sở|Đồ thể thao,medium,Biên Hòa,2021-06-04,Nam,26-35
+609,Khách hàng 609,customer609@email.com,0975504221,Quần tây|Áo khoác,medium,Biên Hòa,2022-11-02,Nữ,18-25
+610,Khách hàng 610,customer610@email.com,0981729237,Quần tây|Vest,low,Hà Nội,2023-03-26,Nam,26-35
+611,Khách hàng 611,customer611@email.com,0987568940,Quần tây|Chân váy,medium,Đà Nẵng,2021-09-25,Nam,36-45
+612,Khách hàng 612,customer612@email.com,0923364695,Áo dài,high,Đà Nẵng,2024-07-06,Nam,46-55
+613,Khách hàng 613,customer613@email.com,0967418250,Áo khoác|Áo dài,high,Biên Hòa,2022-02-19,Nữ,26-35
+614,Khách hàng 614,customer614@email.com,0943606680,Vest|Quần tây,medium,Biên Hòa,2021-06-18,Nam,26-35
+615,Khách hàng 615,customer615@email.com,0997977738,Áo cưới|Váy công sở,medium,TP.HCM,2021-07-06,Nữ,18-25
+616,Khách hàng 616,customer616@email.com,0969735865,Chân váy,low,Hà Nội,2021-01-20,Nam,46-55
+617,Khách hàng 617,customer617@email.com,0940728728,Đầm dạ hội|Áo khoác|Vest,low,Nha Trang,2023-02-24,Nam,26-35
+618,Khách hàng 618,customer618@email.com,0927870584,Đầm dạ hội|Váy công sở,high,TP.HCM,2024-08-06,Nữ,18-25
+619,Khách hàng 619,customer619@email.com,0938595818,Đầm dạ hội|Áo khoác|Quần tây,medium,Vũng Tàu,2024-07-10,Nữ,26-35
+620,Khách hàng 620,customer620@email.com,0923484199,Vest,high,Huế,2021-10-14,Nữ,55+
+621,Khách hàng 621,customer621@email.com,0947173969,Đầm dạ hội|Áo cưới,low,Đà Nẵng,2024-08-13,Nữ,36-45
+622,Khách hàng 622,customer622@email.com,0979491111,Áo dài|Áo sơ mi|Áo cưới,medium,Hải Phòng,2024-05-27,Nam,18-25
+623,Khách hàng 623,customer623@email.com,0961792685,Áo khoác,low,Huế,2021-08-19,Nam,46-55
+624,Khách hàng 624,customer624@email.com,0952476240,Quần tây,medium,Nha Trang,2021-09-28,Nữ,26-35
+625,Khách hàng 625,customer625@email.com,0919796799,Áo khoác,medium,TP.HCM,2021-02-04,Nam,55+
+626,Khách hàng 626,customer626@email.com,0994365330,Chân váy|Áo sơ mi,medium,Hà Nội,2024-12-30,Nữ,18-25
+627,Khách hàng 627,customer627@email.com,0921220209,Chân váy|Đầm dạ hội|Áo sơ mi,low,Vũng Tàu,2022-09-27,Nữ,18-25
+628,Khách hàng 628,customer628@email.com,0951630244,Váy công sở|Vest,medium,Vũng Tàu,2024-12-01,Nam,26-35
+629,Khách hàng 629,customer629@email.com,0992181084,Vest|Áo khoác,low,Cần Thơ,2024-05-31,Nữ,18-25
+630,Khách hàng 630,customer630@email.com,0911523452,Đầm dạ hội,medium,Hà Nội,2021-12-02,Nữ,46-55
+631,Khách hàng 631,customer631@email.com,0927036337,Đầm dạ hội|Quần tây,medium,TP.HCM,2022-07-05,Nữ,26-35
+632,Khách hàng 632,customer632@email.com,0918572753,Áo sơ mi|Chân váy,medium,Huế,2022-06-23,Nam,26-35
+633,Khách hàng 633,customer633@email.com,0986086168,Áo dài|Áo khoác,medium,Hà Nội,2021-12-08,Nam,36-45
+634,Khách hàng 634,customer634@email.com,0915910667,Vest|Áo cưới|Áo dài,low,Đà Nẵng,2021-01-26,Nữ,18-25
+635,Khách hàng 635,customer635@email.com,0998007006,Chân váy,low,TP.HCM,2023-05-09,Nữ,26-35
+636,Khách hàng 636,customer636@email.com,0960037465,Đồ thể thao,medium,Biên Hòa,2021-09-02,Nam,46-55
+637,Khách hàng 637,customer637@email.com,0919251149,Váy công sở,high,Hải Phòng,2023-08-11,Nam,18-25
+638,Khách hàng 638,customer638@email.com,0936933626,Áo dài|Quần tây,medium,Hà Nội,2022-08-21,Nữ,26-35
+639,Khách hàng 639,customer639@email.com,0930208677,Áo khoác|Áo cưới|Chân váy,high,TP.HCM,2021-01-14,Nữ,36-45
+640,Khách hàng 640,customer640@email.com,0998221829,Áo dài|Quần tây|Đồ thể thao,high,Cần Thơ,2023-02-10,Nam,26-35
+641,Khách hàng 641,customer641@email.com,0976038997,Váy công sở,high,TP.HCM,2021-05-03,Nam,18-25
+642,Khách hàng 642,customer642@email.com,0965439545,Chân váy,high,Đà Nẵng,2024-12-06,Nữ,36-45
+643,Khách hàng 643,customer643@email.com,0989442904,Đầm dạ hội|Váy công sở|Vest,low,Cần Thơ,2024-03-08,Nam,26-35
+644,Khách hàng 644,customer644@email.com,0952688984,Váy công sở|Quần tây,low,TP.HCM,2023-07-17,Nam,36-45
+645,Khách hàng 645,customer645@email.com,0932062036,Vest|Đầm dạ hội|Đồ thể thao,medium,Hà Nội,2023-07-10,Nữ,55+
+646,Khách hàng 646,customer646@email.com,0951380361,Áo khoác,low,TP.HCM,2023-08-07,Nam,36-45
+647,Khách hàng 647,customer647@email.com,0953995720,Đồ thể thao|Áo dài|Áo cưới,low,TP.HCM,2021-10-31,Nữ,26-35
+648,Khách hàng 648,customer648@email.com,0914171767,Áo sơ mi|Đồ thể thao|Đầm dạ hội,high,Đà Nẵng,2023-04-09,Nữ,18-25
+649,Khách hàng 649,customer649@email.com,0926301180,Đầm dạ hội,low,Hải Phòng,2021-01-25,Nam,18-25
+650,Khách hàng 650,customer650@email.com,0988158177,Quần tây|Vest,low,Nha Trang,2024-04-15,Nam,18-25
+651,Khách hàng 651,customer651@email.com,0954499873,Áo khoác|Đầm dạ hội|Vest,low,Đà Nẵng,2021-09-08,Nam,36-45
+652,Khách hàng 652,customer652@email.com,0961369075,Váy công sở|Áo khoác|Áo dài,medium,Hà Nội,2024-10-31,Nữ,26-35
+653,Khách hàng 653,customer653@email.com,0992423989,Đầm dạ hội|Áo dài,medium,Huế,2024-06-22,Nữ,46-55
+654,Khách hàng 654,customer654@email.com,0947550897,Áo dài|Vest,low,TP.HCM,2023-02-24,Nữ,26-35
+655,Khách hàng 655,customer655@email.com,0958199211,Chân váy|Áo dài|Váy công sở,medium,Đà Nẵng,2023-09-10,Nữ,26-35
+656,Khách hàng 656,customer656@email.com,0913498112,Áo sơ mi|Đầm dạ hội,medium,TP.HCM,2022-10-16,Nữ,26-35
+657,Khách hàng 657,customer657@email.com,0988381665,Chân váy|Quần tây,high,TP.HCM,2022-04-22,Nữ,26-35
+658,Khách hàng 658,customer658@email.com,0957621071,Áo dài|Áo cưới|Váy công sở,low,Huế,2021-12-22,Nữ,36-45
+659,Khách hàng 659,customer659@email.com,0985579195,Áo dài|Quần tây|Đầm dạ hội,high,Nha Trang,2022-01-21,Nữ,26-35
+660,Khách hàng 660,customer660@email.com,0915095407,Áo khoác,low,Huế,2021-07-04,Nam,26-35
+661,Khách hàng 661,customer661@email.com,0927514010,Đồ thể thao|Áo cưới,medium,Vũng Tàu,2022-11-29,Nữ,26-35
+662,Khách hàng 662,customer662@email.com,0988733350,Đầm dạ hội,high,Hải Phòng,2024-12-14,Nữ,46-55
+663,Khách hàng 663,customer663@email.com,0998870866,Quần tây,medium,Hà Nội,2023-03-22,Nam,55+
+664,Khách hàng 664,customer664@email.com,0933381086,Váy công sở|Áo khoác|Quần tây,high,Cần Thơ,2024-12-19,Nữ,36-45
+665,Khách hàng 665,customer665@email.com,0933535297,Đồ thể thao,medium,Cần Thơ,2023-02-14,Nam,36-45
+666,Khách hàng 666,customer666@email.com,0934438599,Đồ thể thao|Váy công sở|Áo dài,medium,Nha Trang,2024-05-18,Nữ,36-45
+667,Khách hàng 667,customer667@email.com,0928876833,Áo khoác,medium,TP.HCM,2022-11-10,Nữ,18-25
+668,Khách hàng 668,customer668@email.com,0969945655,Quần tây,low,TP.HCM,2021-01-24,Nam,26-35
+669,Khách hàng 669,customer669@email.com,0916462242,Áo dài,medium,Hà Nội,2023-03-02,Nam,26-35
+670,Khách hàng 670,customer670@email.com,0960378298,Quần tây|Chân váy,high,Hải Phòng,2021-07-27,Nữ,36-45
+671,Khách hàng 671,customer671@email.com,0970570772,Đầm dạ hội,high,TP.HCM,2021-05-31,Nam,26-35
+672,Khách hàng 672,customer672@email.com,0955876720,Vest,high,TP.HCM,2021-12-15,Nam,55+
+673,Khách hàng 673,customer673@email.com,0989729429,Quần tây,high,Cần Thơ,2024-06-10,Nữ,36-45
+674,Khách hàng 674,customer674@email.com,0923590593,Váy công sở|Đầm dạ hội|Áo dài,low,TP.HCM,2022-11-10,Nữ,36-45
+675,Khách hàng 675,customer675@email.com,0949916439,Chân váy|Áo sơ mi|Đồ thể thao,low,Hà Nội,2022-05-02,Nữ,26-35
+676,Khách hàng 676,customer676@email.com,0910512117,Quần tây,low,Nha Trang,2023-05-26,Nữ,26-35
+677,Khách hàng 677,customer677@email.com,0937776759,Áo dài,medium,Buôn Ma Thuột,2021-12-16,Nữ,18-25
+678,Khách hàng 678,customer678@email.com,0998723294,Áo khoác|Đồ thể thao,low,Đà Nẵng,2022-06-27,Nam,46-55
+679,Khách hàng 679,customer679@email.com,0915988382,Đầm dạ hội|Áo khoác,medium,Hà Nội,2022-06-24,Nữ,36-45
+680,Khách hàng 680,customer680@email.com,0921503440,Vest,medium,Đà Nẵng,2024-09-30,Nữ,36-45
+681,Khách hàng 681,customer681@email.com,0981875527,Áo dài|Váy công sở|Chân váy,high,Đà Nẵng,2024-11-08,Nữ,26-35
+682,Khách hàng 682,customer682@email.com,0914661179,Váy công sở,medium,Đà Nẵng,2023-10-26,Nữ,55+
+683,Khách hàng 683,customer683@email.com,0970269093,Vest,high,TP.HCM,2021-12-21,Nam,18-25
+684,Khách hàng 684,customer684@email.com,0920518444,Váy công sở,medium,Buôn Ma Thuột,2024-10-31,Nữ,46-55
+685,Khách hàng 685,customer685@email.com,0921680625,Quần tây|Vest,medium,Đà Nẵng,2023-03-06,Nữ,26-35
+686,Khách hàng 686,customer686@email.com,0988863127,Đồ thể thao,high,TP.HCM,2023-12-07,Nam,36-45
+687,Khách hàng 687,customer687@email.com,0948398732,Vest|Đồ thể thao|Chân váy,high,Biên Hòa,2024-01-02,Nam,36-45
+688,Khách hàng 688,customer688@email.com,0933112256,Đồ thể thao|Áo khoác|Áo dài,medium,Huế,2022-07-19,Nữ,26-35
+689,Khách hàng 689,customer689@email.com,0916615722,Quần tây|Áo cưới,high,Biên Hòa,2023-09-01,Nam,46-55
+690,Khách hàng 690,customer690@email.com,0975984013,Áo sơ mi|Đồ thể thao,medium,Buôn Ma Thuột,2024-11-26,Nam,26-35
+691,Khách hàng 691,customer691@email.com,0965938288,Áo khoác|Quần tây|Áo sơ mi,medium,TP.HCM,2024-05-23,Nam,46-55
+692,Khách hàng 692,customer692@email.com,0917543817,Áo khoác|Chân váy|Quần tây,high,TP.HCM,2023-11-22,Nữ,26-35
+693,Khách hàng 693,customer693@email.com,0935872271,Đồ thể thao|Áo dài|Đầm dạ hội,high,TP.HCM,2022-02-16,Nữ,46-55
+694,Khách hàng 694,customer694@email.com,0972306347,Áo cưới|Áo sơ mi|Quần tây,medium,Vũng Tàu,2023-11-01,Nữ,26-35
+695,Khách hàng 695,customer695@email.com,0933834879,Đồ thể thao|Áo khoác,medium,Hà Nội,2023-08-30,Nam,46-55
+696,Khách hàng 696,customer696@email.com,0961883966,Vest|Áo sơ mi|Áo dài,low,Huế,2021-04-12,Nữ,46-55
+697,Khách hàng 697,customer697@email.com,0997454571,Áo cưới|Đồ thể thao|Áo sơ mi,medium,Biên Hòa,2023-04-19,Nữ,36-45
+698,Khách hàng 698,customer698@email.com,0990683906,Đầm dạ hội|Đồ thể thao,low,Huế,2021-01-18,Nữ,36-45
+699,Khách hàng 699,customer699@email.com,0956802956,Áo sơ mi|Váy công sở|Chân váy,low,Đà Nẵng,2023-07-30,Nữ,46-55
+700,Khách hàng 700,customer700@email.com,0910986174,Đồ thể thao|Vest,high,Buôn Ma Thuột,2023-11-14,Nữ,36-45
+701,Khách hàng 701,customer701@email.com,0924509544,Đồ thể thao|Áo sơ mi|Chân váy,low,Buôn Ma Thuột,2023-09-14,Nữ,46-55
+702,Khách hàng 702,customer702@email.com,0930123169,Áo sơ mi|Áo cưới,high,Biên Hòa,2023-11-26,Nữ,46-55
+703,Khách hàng 703,customer703@email.com,0913416548,Váy công sở|Quần tây|Đầm dạ hội,medium,Hà Nội,2024-09-04,Nữ,26-35
+704,Khách hàng 704,customer704@email.com,0939845082,Áo dài|Áo cưới|Quần tây,medium,Hải Phòng,2024-11-06,Nữ,36-45
+705,Khách hàng 705,customer705@email.com,0949431028,Áo sơ mi|Đầm dạ hội|Chân váy,medium,Hải Phòng,2021-07-19,Nữ,36-45
+706,Khách hàng 706,customer706@email.com,0997836731,Quần tây,low,TP.HCM,2021-07-02,Nữ,26-35
+707,Khách hàng 707,customer707@email.com,0988593968,Quần tây|Áo sơ mi,medium,TP.HCM,2022-08-26,Nam,36-45
+708,Khách hàng 708,customer708@email.com,0936111227,Đồ thể thao|Vest|Áo khoác,low,Cần Thơ,2023-10-22,Nữ,26-35
+709,Khách hàng 709,customer709@email.com,0936883353,Đầm dạ hội,medium,Đà Nẵng,2022-12-03,Nữ,26-35
+710,Khách hàng 710,customer710@email.com,0975441993,Đầm dạ hội|Vest,medium,TP.HCM,2022-11-13,Nữ,18-25
+711,Khách hàng 711,customer711@email.com,0987346846,Áo cưới|Đầm dạ hội,medium,Hải Phòng,2021-11-21,Nam,36-45
+712,Khách hàng 712,customer712@email.com,0974075580,Váy công sở|Đồ thể thao|Chân váy,low,Đà Nẵng,2023-02-25,Nữ,55+
+713,Khách hàng 713,customer713@email.com,0912404661,Chân váy|Áo cưới,low,Hải Phòng,2024-10-17,Nam,46-55
+714,Khách hàng 714,customer714@email.com,0961479273,Đầm dạ hội|Vest,medium,TP.HCM,2023-10-28,Nữ,26-35
+715,Khách hàng 715,customer715@email.com,0990043415,Áo khoác|Chân váy,medium,Biên Hòa,2023-12-10,Nữ,26-35
+716,Khách hàng 716,customer716@email.com,0932130289,Quần tây|Áo cưới,low,TP.HCM,2023-04-07,Nữ,26-35
+717,Khách hàng 717,customer717@email.com,0977730769,Đồ thể thao,low,Cần Thơ,2021-12-13,Nữ,26-35
+718,Khách hàng 718,customer718@email.com,0989715138,Áo sơ mi|Chân váy|Áo dài,medium,Cần Thơ,2021-04-09,Nam,36-45
+719,Khách hàng 719,customer719@email.com,0926588648,Áo khoác|Váy công sở,low,Cần Thơ,2024-01-26,Nam,36-45
+720,Khách hàng 720,customer720@email.com,0966488410,Áo sơ mi,low,Đà Nẵng,2024-09-17,Nữ,36-45
+721,Khách hàng 721,customer721@email.com,0992906016,Vest|Chân váy,low,Hải Phòng,2021-08-30,Nữ,36-45
+722,Khách hàng 722,customer722@email.com,0958039455,Chân váy|Áo cưới,medium,TP.HCM,2024-12-11,Nữ,46-55
+723,Khách hàng 723,customer723@email.com,0910367488,Áo khoác|Quần tây|Áo cưới,medium,Biên Hòa,2021-01-27,Nữ,36-45
+724,Khách hàng 724,customer724@email.com,0978679929,Vest,medium,TP.HCM,2021-06-03,Nam,26-35
+725,Khách hàng 725,customer725@email.com,0916721650,Áo sơ mi|Áo khoác,high,Biên Hòa,2021-07-24,Nữ,26-35
+726,Khách hàng 726,customer726@email.com,0922750478,Quần tây|Váy công sở|Vest,low,TP.HCM,2021-04-04,Nữ,26-35
+727,Khách hàng 727,customer727@email.com,0922475714,Đồ thể thao|Áo sơ mi,high,TP.HCM,2023-02-03,Nữ,55+
+728,Khách hàng 728,customer728@email.com,0966604960,Váy công sở|Áo khoác,high,TP.HCM,2024-08-21,Nam,36-45
+729,Khách hàng 729,customer729@email.com,0965838294,Vest,medium,Đà Nẵng,2024-04-24,Nữ,36-45
+730,Khách hàng 730,customer730@email.com,0927536261,Đồ thể thao|Áo dài,high,TP.HCM,2023-09-17,Nữ,18-25
+731,Khách hàng 731,customer731@email.com,0980439867,Quần tây|Áo dài,medium,TP.HCM,2024-03-26,Nữ,46-55
+732,Khách hàng 732,customer732@email.com,0998813650,Chân váy|Vest|Váy công sở,medium,Cần Thơ,2022-05-25,Nữ,18-25
+733,Khách hàng 733,customer733@email.com,0996355513,Đồ thể thao|Áo dài|Chân váy,medium,Đà Nẵng,2021-11-18,Nữ,18-25
+734,Khách hàng 734,customer734@email.com,0954411953,Quần tây|Áo cưới,low,TP.HCM,2022-07-24,Nữ,26-35
+735,Khách hàng 735,customer735@email.com,0971618633,Vest,high,Hà Nội,2023-06-29,Nữ,26-35
+736,Khách hàng 736,customer736@email.com,0997694240,Áo khoác,low,Hà Nội,2021-02-06,Nữ,18-25
+737,Khách hàng 737,customer737@email.com,0993089652,Đồ thể thao,medium,Đà Nẵng,2024-07-29,Nam,36-45
+738,Khách hàng 738,customer738@email.com,0939919562,Quần tây|Áo dài,medium,Hải Phòng,2023-07-20,Nữ,36-45
+739,Khách hàng 739,customer739@email.com,0923077775,Áo khoác|Vest,low,Hà Nội,2024-09-11,Nữ,55+
+740,Khách hàng 740,customer740@email.com,0960182714,Chân váy|Đồ thể thao,low,Biên Hòa,2024-12-08,Nữ,46-55
+741,Khách hàng 741,customer741@email.com,0991987136,Váy công sở|Vest|Áo sơ mi,low,Vũng Tàu,2022-02-06,Nữ,26-35
+742,Khách hàng 742,customer742@email.com,0924464073,Quần tây,low,Huế,2023-04-29,Nữ,18-25
+743,Khách hàng 743,customer743@email.com,0928070539,Áo khoác|Chân váy,low,Hải Phòng,2023-10-19,Nữ,26-35
+744,Khách hàng 744,customer744@email.com,0987652255,Áo khoác|Chân váy|Đầm dạ hội,medium,TP.HCM,2021-12-22,Nữ,36-45
+745,Khách hàng 745,customer745@email.com,0966192230,Chân váy|Váy công sở,high,Hải Phòng,2024-06-01,Nam,55+
+746,Khách hàng 746,customer746@email.com,0928546206,Áo khoác|Đầm dạ hội,medium,Biên Hòa,2023-04-26,Nữ,46-55
+747,Khách hàng 747,customer747@email.com,0936962876,Quần tây|Chân váy|Áo cưới,medium,Hà Nội,2022-03-06,Nam,36-45
+748,Khách hàng 748,customer748@email.com,0925489430,Đầm dạ hội|Chân váy|Quần tây,medium,Huế,2022-12-23,Nữ,36-45
+749,Khách hàng 749,customer749@email.com,0911714029,Chân váy|Áo sơ mi|Váy công sở,low,Hà Nội,2023-12-07,Nam,18-25
+750,Khách hàng 750,customer750@email.com,0943629729,Đầm dạ hội|Áo sơ mi,high,Cần Thơ,2021-10-27,Nam,36-45
+751,Khách hàng 751,customer751@email.com,0970746206,Quần tây,medium,Cần Thơ,2021-07-29,Nữ,26-35
+752,Khách hàng 752,customer752@email.com,0978574830,Chân váy|Váy công sở|Áo cưới,low,Cần Thơ,2024-11-26,Nữ,26-35
+753,Khách hàng 753,customer753@email.com,0911740164,Quần tây|Chân váy|Áo dài,low,Biên Hòa,2022-05-30,Nữ,26-35
+754,Khách hàng 754,customer754@email.com,0988971743,Quần tây,medium,TP.HCM,2024-01-25,Nữ,18-25
+755,Khách hàng 755,customer755@email.com,0935095571,Đầm dạ hội|Vest,medium,TP.HCM,2021-12-22,Nam,26-35
+756,Khách hàng 756,customer756@email.com,0988381281,Đầm dạ hội|Đồ thể thao,low,Đà Nẵng,2022-06-07,Nữ,18-25
+757,Khách hàng 757,customer757@email.com,0993935292,Đồ thể thao|Áo dài,high,Hà Nội,2024-06-14,Nữ,36-45
+758,Khách hàng 758,customer758@email.com,0980517332,Quần tây,high,Đà Nẵng,2022-03-27,Nữ,18-25
+759,Khách hàng 759,customer759@email.com,0956896070,Chân váy|Váy công sở|Vest,high,Cần Thơ,2022-03-30,Nam,26-35
+760,Khách hàng 760,customer760@email.com,0925397719,Chân váy|Áo khoác|Áo dài,medium,TP.HCM,2024-10-01,Nữ,46-55
+761,Khách hàng 761,customer761@email.com,0953075436,Áo dài,high,Vũng Tàu,2023-02-21,Nữ,26-35
+762,Khách hàng 762,customer762@email.com,0960326016,Áo dài|Chân váy,high,Hà Nội,2023-11-20,Nam,46-55
+763,Khách hàng 763,customer763@email.com,0978973779,Quần tây,high,TP.HCM,2021-06-18,Nữ,26-35
+764,Khách hàng 764,customer764@email.com,0938290610,Vest,medium,TP.HCM,2024-10-04,Nữ,46-55
+765,Khách hàng 765,customer765@email.com,0968416623,Chân váy,high,TP.HCM,2024-08-17,Nữ,18-25
+766,Khách hàng 766,customer766@email.com,0919831184,Quần tây|Áo dài|Vest,low,Hà Nội,2021-04-22,Nam,46-55
+767,Khách hàng 767,customer767@email.com,0970549061,Váy công sở|Đồ thể thao,medium,Hà Nội,2024-07-14,Nữ,18-25
+768,Khách hàng 768,customer768@email.com,0918487605,Đồ thể thao,low,Nha Trang,2024-04-14,Nữ,26-35
+769,Khách hàng 769,customer769@email.com,0947784631,Áo sơ mi|Vest,medium,Nha Trang,2023-06-16,Nam,18-25
+770,Khách hàng 770,customer770@email.com,0962478133,Đầm dạ hội,low,Huế,2024-01-23,Nam,46-55
+771,Khách hàng 771,customer771@email.com,0926540343,Quần tây|Áo dài|Đầm dạ hội,low,Huế,2021-03-27,Nữ,55+
+772,Khách hàng 772,customer772@email.com,0938418851,Áo cưới|Quần tây,high,Nha Trang,2023-04-26,Nam,18-25
+773,Khách hàng 773,customer773@email.com,0934341456,Áo sơ mi|Áo cưới|Vest,high,Nha Trang,2024-10-06,Nữ,55+
+774,Khách hàng 774,customer774@email.com,0949010740,Áo khoác|Chân váy|Vest,low,TP.HCM,2024-10-07,Nữ,26-35
+775,Khách hàng 775,customer775@email.com,0997976094,Quần tây|Đầm dạ hội,low,Huế,2022-04-26,Nữ,26-35
+776,Khách hàng 776,customer776@email.com,0988405961,Quần tây|Áo sơ mi,medium,Hà Nội,2021-11-09,Nam,26-35
+777,Khách hàng 777,customer777@email.com,0943041067,Quần tây,medium,Huế,2022-03-30,Nam,26-35
+778,Khách hàng 778,customer778@email.com,0969774935,Quần tây|Áo khoác|Chân váy,high,Đà Nẵng,2023-01-05,Nam,36-45
+779,Khách hàng 779,customer779@email.com,0928790705,Áo sơ mi,low,Hải Phòng,2024-01-09,Nữ,36-45
+780,Khách hàng 780,customer780@email.com,0994775473,Chân váy,high,Huế,2021-03-05,Nữ,26-35
+781,Khách hàng 781,customer781@email.com,0944979330,Chân váy,high,Đà Nẵng,2024-01-19,Nữ,18-25
+782,Khách hàng 782,customer782@email.com,0927969238,Áo cưới|Áo sơ mi,medium,TP.HCM,2023-08-10,Nữ,18-25
+783,Khách hàng 783,customer783@email.com,0932259144,Đồ thể thao,low,TP.HCM,2023-11-19,Nữ,36-45
+784,Khách hàng 784,customer784@email.com,0958156722,Áo khoác,low,Đà Nẵng,2021-03-24,Nam,26-35
+785,Khách hàng 785,customer785@email.com,0979509378,Áo cưới,medium,Vũng Tàu,2023-01-10,Nữ,18-25
+786,Khách hàng 786,customer786@email.com,0945341684,Quần tây|Vest|Áo sơ mi,medium,TP.HCM,2024-03-31,Nữ,26-35
+787,Khách hàng 787,customer787@email.com,0960509993,Vest|Chân váy|Áo sơ mi,medium,Hà Nội,2022-04-02,Nữ,26-35
+788,Khách hàng 788,customer788@email.com,0977355419,Đồ thể thao|Áo dài,medium,TP.HCM,2021-10-12,Nữ,26-35
+789,Khách hàng 789,customer789@email.com,0931120146,Đầm dạ hội,medium,Nha Trang,2023-01-12,Nữ,26-35
+790,Khách hàng 790,customer790@email.com,0974265413,Vest|Áo khoác,low,TP.HCM,2023-09-09,Nữ,18-25
+791,Khách hàng 791,customer791@email.com,0986972056,Đầm dạ hội,low,Huế,2024-04-28,Nam,36-45
+792,Khách hàng 792,customer792@email.com,0944663022,Đầm dạ hội,medium,Hà Nội,2022-01-04,Nữ,36-45
+793,Khách hàng 793,customer793@email.com,0970291054,Áo sơ mi|Vest|Áo cưới,high,Biên Hòa,2024-05-27,Nam,46-55
+794,Khách hàng 794,customer794@email.com,0932511225,Đầm dạ hội|Đồ thể thao|Áo sơ mi,medium,Đà Nẵng,2024-11-05,Nữ,26-35
+795,Khách hàng 795,customer795@email.com,0912222998,Đầm dạ hội|Vest,medium,Biên Hòa,2022-02-19,Nữ,46-55
+796,Khách hàng 796,customer796@email.com,0992510102,Vest|Đầm dạ hội|Áo khoác,low,Hải Phòng,2024-05-13,Nữ,18-25
+797,Khách hàng 797,customer797@email.com,0910161088,Đầm dạ hội|Chân váy,medium,Đà Nẵng,2024-10-21,Nữ,18-25
+798,Khách hàng 798,customer798@email.com,0961168696,Váy công sở|Áo cưới|Áo khoác,medium,Hải Phòng,2022-12-19,Nữ,36-45
+799,Khách hàng 799,customer799@email.com,0927969486,Váy công sở,medium,TP.HCM,2022-06-06,Nữ,26-35
+800,Khách hàng 800,customer800@email.com,0910734097,Váy công sở|Áo sơ mi|Áo cưới,medium,TP.HCM,2024-12-23,Nữ,26-35
+801,Khách hàng 801,customer801@email.com,0964874257,Áo cưới|Quần tây,low,Hà Nội,2023-01-12,Nữ,26-35
+802,Khách hàng 802,customer802@email.com,0963345392,Váy công sở|Quần tây|Áo sơ mi,medium,Hải Phòng,2022-02-22,Nữ,26-35
+803,Khách hàng 803,customer803@email.com,0987531025,Áo khoác|Áo sơ mi|Chân váy,high,Hà Nội,2022-12-07,Nam,46-55
+804,Khách hàng 804,customer804@email.com,0969940949,Áo cưới,high,TP.HCM,2024-12-03,Nữ,36-45
+805,Khách hàng 805,customer805@email.com,0962224611,Đồ thể thao|Áo dài|Đầm dạ hội,low,TP.HCM,2024-07-26,Nam,55+
+806,Khách hàng 806,customer806@email.com,0945311610,Vest|Đồ thể thao,medium,Huế,2022-03-31,Nữ,55+
+807,Khách hàng 807,customer807@email.com,0948449249,Đồ thể thao|Chân váy,high,TP.HCM,2024-12-28,Nữ,18-25
+808,Khách hàng 808,customer808@email.com,0937072687,Áo khoác|Áo dài,high,Đà Nẵng,2024-09-07,Nam,36-45
+809,Khách hàng 809,customer809@email.com,0914840043,Chân váy|Áo cưới|Đầm dạ hội,low,TP.HCM,2023-01-07,Nam,55+
+810,Khách hàng 810,customer810@email.com,0964418707,Quần tây|Váy công sở,low,TP.HCM,2024-04-15,Nữ,46-55
+811,Khách hàng 811,customer811@email.com,0956637316,Áo sơ mi|Chân váy|Quần tây,low,Buôn Ma Thuột,2022-07-21,Nữ,26-35
+812,Khách hàng 812,customer812@email.com,0933492771,Áo sơ mi,medium,Đà Nẵng,2023-04-14,Nữ,26-35
+813,Khách hàng 813,customer813@email.com,0944587020,Chân váy,high,Huế,2024-01-07,Nữ,55+
+814,Khách hàng 814,customer814@email.com,0971585593,Áo khoác|Áo cưới|Quần tây,medium,Huế,2024-10-27,Nam,18-25
+815,Khách hàng 815,customer815@email.com,0995048646,Váy công sở,medium,TP.HCM,2022-03-28,Nam,55+
+816,Khách hàng 816,customer816@email.com,0943320572,Chân váy|Áo dài|Áo sơ mi,low,Cần Thơ,2022-08-12,Nữ,18-25
+817,Khách hàng 817,customer817@email.com,0952127291,Áo khoác,low,Huế,2022-12-26,Nam,36-45
+818,Khách hàng 818,customer818@email.com,0936798789,Áo khoác,medium,Biên Hòa,2022-04-26,Nam,26-35
+819,Khách hàng 819,customer819@email.com,0957785185,Đồ thể thao,high,TP.HCM,2021-11-16,Nam,55+
+820,Khách hàng 820,customer820@email.com,0982675403,Đồ thể thao|Áo dài,high,Hà Nội,2021-03-28,Nam,46-55
+821,Khách hàng 821,customer821@email.com,0978603195,Áo sơ mi|Áo khoác|Đầm dạ hội,medium,Hải Phòng,2022-07-28,Nam,26-35
+822,Khách hàng 822,customer822@email.com,0914370484,Áo khoác|Chân váy,medium,Biên Hòa,2023-10-27,Nữ,26-35
+823,Khách hàng 823,customer823@email.com,0971749629,Chân váy,medium,TP.HCM,2022-10-09,Nam,36-45
+824,Khách hàng 824,customer824@email.com,0935119175,Quần tây|Áo sơ mi,low,Hà Nội,2024-01-29,Nữ,26-35
+825,Khách hàng 825,customer825@email.com,0966900650,Áo khoác,medium,Hải Phòng,2022-03-08,Nữ,26-35
+826,Khách hàng 826,customer826@email.com,0987295013,Đầm dạ hội|Đồ thể thao,low,TP.HCM,2024-11-05,Nam,26-35
+827,Khách hàng 827,customer827@email.com,0929574814,Váy công sở|Áo cưới,medium,TP.HCM,2021-11-03,Nữ,18-25
+828,Khách hàng 828,customer828@email.com,0975313057,Chân váy|Đồ thể thao|Quần tây,low,Nha Trang,2022-09-07,Nam,18-25
+829,Khách hàng 829,customer829@email.com,0938919534,Áo dài,medium,Huế,2022-06-05,Nữ,26-35
+830,Khách hàng 830,customer830@email.com,0984825240,Quần tây|Chân váy,medium,Hà Nội,2022-06-12,Nữ,36-45
+831,Khách hàng 831,customer831@email.com,0948199537,Áo cưới|Chân váy|Đầm dạ hội,medium,Đà Nẵng,2022-12-29,Nữ,26-35
+832,Khách hàng 832,customer832@email.com,0992364557,Váy công sở,medium,Vũng Tàu,2022-08-10,Nữ,36-45
+833,Khách hàng 833,customer833@email.com,0919575640,Váy công sở|Đồ thể thao,low,TP.HCM,2021-06-12,Nam,26-35
+834,Khách hàng 834,customer834@email.com,0946406303,Đồ thể thao|Váy công sở,high,Vũng Tàu,2023-07-01,Nữ,26-35
+835,Khách hàng 835,customer835@email.com,0934680787,Váy công sở|Đầm dạ hội,low,TP.HCM,2021-02-17,Nam,36-45
+836,Khách hàng 836,customer836@email.com,0963290556,Vest|Áo cưới|Đầm dạ hội,low,Vũng Tàu,2021-07-30,Nữ,18-25
+837,Khách hàng 837,customer837@email.com,0923949034,Chân váy|Vest,medium,TP.HCM,2022-06-22,Nữ,26-35
+838,Khách hàng 838,customer838@email.com,0948141360,Áo cưới,medium,TP.HCM,2023-06-27,Nữ,18-25
+839,Khách hàng 839,customer839@email.com,0972705646,Quần tây|Đồ thể thao|Áo khoác,high,Đà Nẵng,2024-01-13,Nam,55+
+840,Khách hàng 840,customer840@email.com,0980257585,Đầm dạ hội|Áo khoác|Váy công sở,medium,Hà Nội,2024-08-03,Nam,26-35
+841,Khách hàng 841,customer841@email.com,0951321368,Áo khoác,medium,TP.HCM,2023-01-20,Nam,26-35
+842,Khách hàng 842,customer842@email.com,0948488577,Quần tây,medium,Cần Thơ,2023-08-19,Nữ,36-45
+843,Khách hàng 843,customer843@email.com,0949315407,Áo dài|Váy công sở,low,TP.HCM,2024-05-07,Nữ,26-35
+844,Khách hàng 844,customer844@email.com,0931913660,Váy công sở|Đồ thể thao|Áo cưới,medium,Hà Nội,2024-08-15,Nam,26-35
+845,Khách hàng 845,customer845@email.com,0992304487,Chân váy,medium,Hà Nội,2024-11-22,Nữ,46-55
+846,Khách hàng 846,customer846@email.com,0934482277,Áo cưới|Vest,low,Huế,2021-10-07,Nữ,26-35
+847,Khách hàng 847,customer847@email.com,0912603206,Áo khoác|Áo cưới|Quần tây,low,Đà Nẵng,2021-11-08,Nam,18-25
+848,Khách hàng 848,customer848@email.com,0911101134,Đầm dạ hội|Áo khoác,low,TP.HCM,2022-04-22,Nam,26-35
+849,Khách hàng 849,customer849@email.com,0914259684,Quần tây|Áo khoác,low,Hải Phòng,2022-11-08,Nam,26-35
+850,Khách hàng 850,customer850@email.com,0973102032,Vest|Chân váy,low,Nha Trang,2022-01-07,Nữ,46-55
+851,Khách hàng 851,customer851@email.com,0961646699,Áo cưới,low,Buôn Ma Thuột,2023-06-27,Nam,36-45
+852,Khách hàng 852,customer852@email.com,0999390064,Chân váy,medium,Cần Thơ,2022-03-03,Nam,26-35
+853,Khách hàng 853,customer853@email.com,0943999060,Áo dài|Chân váy|Vest,medium,TP.HCM,2023-09-13,Nữ,46-55
+854,Khách hàng 854,customer854@email.com,0941670798,Vest,medium,TP.HCM,2024-07-20,Nữ,36-45
+855,Khách hàng 855,customer855@email.com,0915636254,Áo cưới|Áo dài,high,Đà Nẵng,2024-04-05,Nữ,26-35
+856,Khách hàng 856,customer856@email.com,0931165928,Áo cưới,low,Huế,2023-10-21,Nữ,55+
+857,Khách hàng 857,customer857@email.com,0996513378,Áo dài|Đồ thể thao|Quần tây,medium,Hải Phòng,2021-11-12,Nam,26-35
+858,Khách hàng 858,customer858@email.com,0912865928,Quần tây|Áo khoác|Áo cưới,medium,Cần Thơ,2024-11-12,Nam,18-25
+859,Khách hàng 859,customer859@email.com,0982844534,Áo khoác|Chân váy|Áo sơ mi,medium,Đà Nẵng,2024-11-28,Nữ,26-35
+860,Khách hàng 860,customer860@email.com,0931520928,Áo sơ mi|Chân váy,medium,Hà Nội,2021-05-22,Nữ,26-35
+861,Khách hàng 861,customer861@email.com,0960874366,Áo dài|Chân váy,high,Huế,2022-01-15,Nữ,36-45
+862,Khách hàng 862,customer862@email.com,0962008140,Vest|Chân váy,medium,Đà Nẵng,2022-01-24,Nữ,36-45
+863,Khách hàng 863,customer863@email.com,0924826245,Váy công sở|Quần tây,medium,TP.HCM,2021-07-17,Nữ,18-25
+864,Khách hàng 864,customer864@email.com,0924368701,Áo cưới,low,TP.HCM,2023-09-22,Nữ,26-35
+865,Khách hàng 865,customer865@email.com,0916588161,Chân váy|Áo sơ mi,low,Cần Thơ,2023-01-21,Nam,55+
+866,Khách hàng 866,customer866@email.com,0995753950,Áo khoác|Vest|Đồ thể thao,medium,Hải Phòng,2021-05-05,Nữ,46-55
+867,Khách hàng 867,customer867@email.com,0919447334,Áo dài|Áo sơ mi|Đồ thể thao,low,TP.HCM,2022-09-15,Nữ,18-25
+868,Khách hàng 868,customer868@email.com,0961718263,Chân váy,low,Cần Thơ,2022-01-24,Nữ,55+
+869,Khách hàng 869,customer869@email.com,0995714702,Chân váy|Váy công sở|Vest,medium,Đà Nẵng,2024-03-26,Nữ,46-55
+870,Khách hàng 870,customer870@email.com,0983815115,Đầm dạ hội,medium,Cần Thơ,2023-04-03,Nữ,36-45
+871,Khách hàng 871,customer871@email.com,0953574336,Quần tây|Chân váy,medium,Huế,2023-02-01,Nữ,26-35
+872,Khách hàng 872,customer872@email.com,0983232714,Đồ thể thao,medium,Đà Nẵng,2022-03-15,Nữ,26-35
+873,Khách hàng 873,customer873@email.com,0910026256,Áo khoác|Váy công sở,high,Huế,2021-03-12,Nữ,55+
+874,Khách hàng 874,customer874@email.com,0939781129,Áo dài|Áo sơ mi,high,TP.HCM,2022-03-16,Nữ,36-45
+875,Khách hàng 875,customer875@email.com,0984668420,Chân váy|Đồ thể thao,high,TP.HCM,2024-03-14,Nam,26-35
+876,Khách hàng 876,customer876@email.com,0959269031,Áo sơ mi,low,Hà Nội,2024-04-07,Nam,36-45
+877,Khách hàng 877,customer877@email.com,0974764506,Áo cưới|Vest|Quần tây,medium,Biên Hòa,2021-12-21,Nữ,46-55
+878,Khách hàng 878,customer878@email.com,0996201956,Đồ thể thao,low,Nha Trang,2022-09-08,Nữ,36-45
+879,Khách hàng 879,customer879@email.com,0965904597,Quần tây|Váy công sở,high,TP.HCM,2021-09-04,Nữ,36-45
+880,Khách hàng 880,customer880@email.com,0917264930,Váy công sở,medium,Hà Nội,2022-09-17,Nữ,26-35
+881,Khách hàng 881,customer881@email.com,0962731823,Áo cưới|Đầm dạ hội|Áo dài,high,Huế,2023-07-02,Nam,26-35
+882,Khách hàng 882,customer882@email.com,0955119729,Đầm dạ hội|Đồ thể thao,medium,Hải Phòng,2021-06-19,Nữ,26-35
+883,Khách hàng 883,customer883@email.com,0927498659,Chân váy|Váy công sở,medium,TP.HCM,2021-10-04,Nữ,36-45
+884,Khách hàng 884,customer884@email.com,0942522981,Đồ thể thao|Chân váy|Áo cưới,low,Hà Nội,2021-05-27,Nữ,36-45
+885,Khách hàng 885,customer885@email.com,0966846657,Váy công sở,medium,Hà Nội,2023-01-19,Nữ,18-25
+886,Khách hàng 886,customer886@email.com,0992707781,Đầm dạ hội|Quần tây,medium,Hà Nội,2023-06-25,Nữ,26-35
+887,Khách hàng 887,customer887@email.com,0925082279,Quần tây|Đầm dạ hội|Vest,low,Huế,2021-04-22,Nam,46-55
+888,Khách hàng 888,customer888@email.com,0924935479,Áo dài|Quần tây,medium,TP.HCM,2022-09-17,Nam,26-35
+889,Khách hàng 889,customer889@email.com,0980231557,Chân váy,medium,Huế,2022-06-14,Nữ,36-45
+890,Khách hàng 890,customer890@email.com,0944286770,Áo dài|Váy công sở|Đồ thể thao,low,TP.HCM,2021-12-15,Nữ,26-35
+891,Khách hàng 891,customer891@email.com,0962163068,Áo dài|Vest,low,Nha Trang,2024-09-14,Nữ,46-55
+892,Khách hàng 892,customer892@email.com,0997162488,Áo sơ mi,low,Hà Nội,2023-03-03,Nữ,18-25
+893,Khách hàng 893,customer893@email.com,0921813934,Áo khoác|Chân váy,low,Buôn Ma Thuột,2022-01-17,Nữ,36-45
+894,Khách hàng 894,customer894@email.com,0981056927,Áo cưới,medium,Hà Nội,2022-09-17,Nam,26-35
+895,Khách hàng 895,customer895@email.com,0941702866,Quần tây|Áo sơ mi,low,TP.HCM,2023-10-24,Nam,26-35
+896,Khách hàng 896,customer896@email.com,0947606981,Chân váy,low,Biên Hòa,2022-04-07,Nữ,18-25
+897,Khách hàng 897,customer897@email.com,0966013532,Chân váy|Áo cưới,medium,Hà Nội,2022-05-08,Nam,36-45
+898,Khách hàng 898,customer898@email.com,0937750491,Chân váy|Đầm dạ hội,low,Đà Nẵng,2024-08-29,Nữ,46-55
+899,Khách hàng 899,customer899@email.com,0967722252,Chân váy|Đầm dạ hội,medium,Đà Nẵng,2021-10-25,Nam,18-25
+900,Khách hàng 900,customer900@email.com,0929531743,Vest|Đầm dạ hội|Quần tây,high,Biên Hòa,2021-03-02,Nữ,26-35
+901,Khách hàng 901,customer901@email.com,0935224021,Áo sơ mi|Đầm dạ hội,low,TP.HCM,2021-08-07,Nữ,36-45
+902,Khách hàng 902,customer902@email.com,0940992534,Đồ thể thao|Áo cưới|Chân váy,low,TP.HCM,2024-11-08,Nữ,18-25
+903,Khách hàng 903,customer903@email.com,0962004039,Áo khoác|Quần tây|Đầm dạ hội,medium,TP.HCM,2023-10-04,Nam,26-35
+904,Khách hàng 904,customer904@email.com,0965437830,Áo sơ mi,medium,Buôn Ma Thuột,2022-04-01,Nữ,18-25
+905,Khách hàng 905,customer905@email.com,0953606752,Đồ thể thao|Áo khoác,high,Hà Nội,2023-07-27,Nữ,36-45
+906,Khách hàng 906,customer906@email.com,0992074794,Quần tây|Váy công sở,medium,Đà Nẵng,2024-03-17,Nữ,36-45
+907,Khách hàng 907,customer907@email.com,0915692967,Vest|Áo khoác|Chân váy,medium,Hà Nội,2022-05-19,Nữ,36-45
+908,Khách hàng 908,customer908@email.com,0968995922,Áo dài|Áo cưới|Áo sơ mi,high,Hải Phòng,2023-03-27,Nam,18-25
+909,Khách hàng 909,customer909@email.com,0979386491,Đồ thể thao|Áo dài,medium,Huế,2021-10-19,Nam,26-35
+910,Khách hàng 910,customer910@email.com,0983337520,Đồ thể thao,medium,Hà Nội,2021-10-05,Nam,26-35
+911,Khách hàng 911,customer911@email.com,0943565477,Áo cưới|Áo khoác|Vest,medium,Biên Hòa,2022-10-26,Nữ,36-45
+912,Khách hàng 912,customer912@email.com,0925322958,Vest,medium,Hà Nội,2024-12-17,Nữ,26-35
+913,Khách hàng 913,customer913@email.com,0983866174,Đồ thể thao|Đầm dạ hội|Váy công sở,low,TP.HCM,2023-02-19,Nam,46-55
+914,Khách hàng 914,customer914@email.com,0929408873,Đầm dạ hội,high,TP.HCM,2022-01-02,Nam,36-45
+915,Khách hàng 915,customer915@email.com,0925777827,Áo sơ mi|Đầm dạ hội,high,TP.HCM,2021-09-27,Nữ,18-25
+916,Khách hàng 916,customer916@email.com,0910771825,Áo khoác|Chân váy,high,TP.HCM,2024-05-30,Nữ,26-35
+917,Khách hàng 917,customer917@email.com,0990693921,Áo khoác|Vest,low,Biên Hòa,2024-05-14,Nam,36-45
+918,Khách hàng 918,customer918@email.com,0934808803,Áo dài,low,Hà Nội,2021-10-31,Nam,18-25
+919,Khách hàng 919,customer919@email.com,0921771255,Đồ thể thao|Áo sơ mi|Quần tây,low,Buôn Ma Thuột,2021-04-11,Nam,26-35
+920,Khách hàng 920,customer920@email.com,0971114408,Đồ thể thao|Chân váy|Đầm dạ hội,medium,TP.HCM,2024-03-31,Nữ,26-35
+921,Khách hàng 921,customer921@email.com,0983882978,Vest|Váy công sở,low,TP.HCM,2021-05-13,Nữ,26-35
+922,Khách hàng 922,customer922@email.com,0938058347,Váy công sở|Chân váy|Áo cưới,low,Huế,2024-06-07,Nữ,26-35
+923,Khách hàng 923,customer923@email.com,0991171931,Áo khoác,low,Huế,2024-12-18,Nam,26-35
+924,Khách hàng 924,customer924@email.com,0979753731,Quần tây|Đầm dạ hội|Áo khoác,medium,Nha Trang,2024-07-18,Nữ,26-35
+925,Khách hàng 925,customer925@email.com,0925865493,Áo cưới|Áo dài,medium,Hải Phòng,2021-02-19,Nữ,26-35
+926,Khách hàng 926,customer926@email.com,0954800838,Váy công sở|Đồ thể thao|Áo dài,medium,Huế,2022-12-18,Nam,26-35
+927,Khách hàng 927,customer927@email.com,0951308532,Áo sơ mi|Vest,medium,Hà Nội,2022-09-07,Nam,36-45
+928,Khách hàng 928,customer928@email.com,0933572537,Váy công sở|Áo dài,medium,Hà Nội,2022-02-02,Nữ,46-55
+929,Khách hàng 929,customer929@email.com,0974625235,Đầm dạ hội,medium,Biên Hòa,2021-11-15,Nữ,26-35
+930,Khách hàng 930,customer930@email.com,0950177237,Áo dài|Chân váy,medium,Hà Nội,2024-03-03,Nữ,26-35
+931,Khách hàng 931,customer931@email.com,0930039365,Quần tây|Đồ thể thao|Vest,high,Hà Nội,2022-07-29,Nữ,26-35
+932,Khách hàng 932,customer932@email.com,0991294213,Đồ thể thao,low,TP.HCM,2023-03-09,Nữ,26-35
+933,Khách hàng 933,customer933@email.com,0965548633,Áo dài|Áo sơ mi,medium,TP.HCM,2021-06-27,Nữ,55+
+934,Khách hàng 934,customer934@email.com,0950576475,Chân váy,low,Hải Phòng,2021-12-25,Nữ,46-55
+935,Khách hàng 935,customer935@email.com,0974781956,Chân váy|Áo dài,low,Hà Nội,2023-10-22,Nữ,46-55
+936,Khách hàng 936,customer936@email.com,0923187101,Quần tây|Đầm dạ hội,medium,TP.HCM,2023-11-24,Nữ,26-35
+937,Khách hàng 937,customer937@email.com,0951739205,Chân váy|Vest|Áo dài,medium,Huế,2021-04-01,Nam,26-35
+938,Khách hàng 938,customer938@email.com,0979870757,Vest,medium,TP.HCM,2024-09-11,Nữ,36-45
+939,Khách hàng 939,customer939@email.com,0936918105,Quần tây,low,Đà Nẵng,2022-01-30,Nữ,36-45
+940,Khách hàng 940,customer940@email.com,0946726921,Đầm dạ hội|Đồ thể thao,low,Huế,2021-08-23,Nữ,26-35
+941,Khách hàng 941,customer941@email.com,0946379997,Chân váy|Quần tây,high,Nha Trang,2021-10-17,Nữ,18-25
+942,Khách hàng 942,customer942@email.com,0982555030,Đồ thể thao|Quần tây,low,TP.HCM,2023-06-28,Nữ,18-25
+943,Khách hàng 943,customer943@email.com,0967239263,Áo dài|Vest,low,Huế,2023-03-14,Nữ,46-55
+944,Khách hàng 944,customer944@email.com,0954604858,Áo khoác|Quần tây|Áo sơ mi,medium,Cần Thơ,2022-02-10,Nữ,55+
+945,Khách hàng 945,customer945@email.com,0922470997,Đồ thể thao|Đầm dạ hội,medium,Đà Nẵng,2024-12-01,Nữ,36-45
+946,Khách hàng 946,customer946@email.com,0940037183,Áo khoác|Áo cưới,high,Huế,2021-10-22,Nữ,26-35
+947,Khách hàng 947,customer947@email.com,0975432046,Quần tây|Đồ thể thao|Áo khoác,low,TP.HCM,2021-03-03,Nữ,46-55
+948,Khách hàng 948,customer948@email.com,0978175850,Quần tây|Đầm dạ hội,medium,Cần Thơ,2021-07-30,Nam,36-45
+949,Khách hàng 949,customer949@email.com,0981503899,Áo sơ mi,medium,Hà Nội,2023-08-03,Nữ,26-35
+950,Khách hàng 950,customer950@email.com,0955729880,Váy công sở|Vest,high,Huế,2022-03-03,Nữ,26-35
+951,Khách hàng 951,customer951@email.com,0933231136,Chân váy|Áo cưới,medium,Hải Phòng,2024-09-19,Nữ,46-55
+952,Khách hàng 952,customer952@email.com,0990003898,Đồ thể thao,medium,TP.HCM,2023-08-07,Nữ,26-35
+953,Khách hàng 953,customer953@email.com,0990048179,Vest|Đồ thể thao,medium,Huế,2023-02-16,Nam,26-35
+954,Khách hàng 954,customer954@email.com,0995380301,Đồ thể thao,high,Cần Thơ,2021-01-01,Nữ,26-35
+955,Khách hàng 955,customer955@email.com,0937603443,Đồ thể thao|Áo khoác|Áo cưới,high,Hà Nội,2024-10-27,Nữ,36-45
+956,Khách hàng 956,customer956@email.com,0988212291,Quần tây|Vest,medium,Đà Nẵng,2021-01-17,Nữ,46-55
+957,Khách hàng 957,customer957@email.com,0983670115,Quần tây,low,Đà Nẵng,2021-04-19,Nữ,18-25
+958,Khách hàng 958,customer958@email.com,0967943873,Áo dài|Áo cưới,medium,Huế,2024-12-09,Nữ,26-35
+959,Khách hàng 959,customer959@email.com,0998917575,Chân váy|Áo cưới,medium,TP.HCM,2021-12-22,Nữ,55+
+960,Khách hàng 960,customer960@email.com,0999934747,Đầm dạ hội|Áo sơ mi,low,TP.HCM,2021-09-15,Nam,36-45
+961,Khách hàng 961,customer961@email.com,0921363335,Váy công sở|Đầm dạ hội,medium,Hà Nội,2021-10-09,Nữ,36-45
+962,Khách hàng 962,customer962@email.com,0978372512,Váy công sở|Đầm dạ hội|Áo khoác,medium,Đà Nẵng,2023-05-19,Nữ,18-25
+963,Khách hàng 963,customer963@email.com,0977340900,Áo dài|Áo khoác|Áo cưới,medium,Đà Nẵng,2022-07-06,Nữ,55+
+964,Khách hàng 964,customer964@email.com,0987882357,Áo khoác|Quần tây|Vest,high,TP.HCM,2023-09-14,Nữ,26-35
+965,Khách hàng 965,customer965@email.com,0920500470,Áo khoác|Chân váy,high,TP.HCM,2023-12-08,Nữ,36-45
+966,Khách hàng 966,customer966@email.com,0992280717,Vest|Chân váy|Áo sơ mi,high,Đà Nẵng,2021-04-19,Nam,26-35
+967,Khách hàng 967,customer967@email.com,0966507825,Đồ thể thao|Quần tây,high,Hải Phòng,2022-12-24,Nam,18-25
+968,Khách hàng 968,customer968@email.com,0994463223,Áo sơ mi|Đồ thể thao|Áo dài,medium,Huế,2023-08-28,Nữ,26-35
+969,Khách hàng 969,customer969@email.com,0975063411,Đồ thể thao|Áo dài|Áo sơ mi,low,TP.HCM,2021-06-18,Nữ,26-35
+970,Khách hàng 970,customer970@email.com,0911906295,Áo sơ mi|Đồ thể thao|Chân váy,medium,Vũng Tàu,2021-08-17,Nữ,36-45
+971,Khách hàng 971,customer971@email.com,0941701674,Đầm dạ hội|Áo sơ mi,low,Đà Nẵng,2023-09-21,Nam,55+
+972,Khách hàng 972,customer972@email.com,0930689702,Đồ thể thao,high,Hà Nội,2023-10-13,Nữ,36-45
+973,Khách hàng 973,customer973@email.com,0917291483,Đầm dạ hội|Áo cưới|Quần tây,low,Nha Trang,2024-08-08,Nam,26-35
+974,Khách hàng 974,customer974@email.com,0981473736,Áo sơ mi|Áo khoác,medium,Cần Thơ,2022-04-24,Nữ,18-25
+975,Khách hàng 975,customer975@email.com,0970239684,Áo dài|Áo sơ mi,medium,Buôn Ma Thuột,2023-02-22,Nữ,18-25
+976,Khách hàng 976,customer976@email.com,0954958564,Quần tây|Váy công sở|Áo sơ mi,low,TP.HCM,2022-07-08,Nữ,26-35
+977,Khách hàng 977,customer977@email.com,0934148004,Áo cưới|Đồ thể thao|Quần tây,medium,Cần Thơ,2022-10-04,Nữ,18-25
+978,Khách hàng 978,customer978@email.com,0923946199,Chân váy,medium,TP.HCM,2024-11-04,Nam,18-25
+979,Khách hàng 979,customer979@email.com,0922340150,Đồ thể thao,high,Cần Thơ,2021-04-27,Nữ,55+
+980,Khách hàng 980,customer980@email.com,0991159552,Vest|Đồ thể thao|Chân váy,medium,Hải Phòng,2021-09-24,Nữ,46-55
+981,Khách hàng 981,customer981@email.com,0934731360,Vest,low,Cần Thơ,2022-06-03,Nam,26-35
+982,Khách hàng 982,customer982@email.com,0944539133,Váy công sở|Quần tây,high,Hà Nội,2021-11-28,Nam,26-35
+983,Khách hàng 983,customer983@email.com,0945522715,Áo sơ mi,medium,Đà Nẵng,2021-12-31,Nữ,36-45
+984,Khách hàng 984,customer984@email.com,0924553291,Áo khoác,medium,Hà Nội,2021-10-22,Nữ,18-25
+985,Khách hàng 985,customer985@email.com,0914678950,Áo sơ mi|Vest,low,Cần Thơ,2021-05-30,Nữ,18-25
+986,Khách hàng 986,customer986@email.com,0915078212,Đầm dạ hội|Áo dài,medium,TP.HCM,2024-09-23,Nam,26-35
+987,Khách hàng 987,customer987@email.com,0975857881,Chân váy,medium,Nha Trang,2023-09-07,Nữ,36-45
+988,Khách hàng 988,customer988@email.com,0974701849,Áo cưới|Áo dài|Váy công sở,medium,Vũng Tàu,2021-09-06,Nữ,36-45
+989,Khách hàng 989,customer989@email.com,0959037166,Áo dài|Vest,high,Hà Nội,2023-12-31,Nữ,36-45
+990,Khách hàng 990,customer990@email.com,0984420438,Áo cưới|Đầm dạ hội,high,Cần Thơ,2021-03-22,Nam,26-35
+991,Khách hàng 991,customer991@email.com,0975297400,Quần tây,high,Hà Nội,2021-06-23,Nam,18-25
+992,Khách hàng 992,customer992@email.com,0942008932,Đồ thể thao,medium,Hải Phòng,2023-09-29,Nữ,26-35
+993,Khách hàng 993,customer993@email.com,0955538076,Áo dài|Đồ thể thao,medium,Cần Thơ,2021-04-25,Nữ,26-35
+994,Khách hàng 994,customer994@email.com,0987758465,Chân váy|Áo khoác|Đầm dạ hội,high,TP.HCM,2022-04-23,Nam,36-45
+995,Khách hàng 995,customer995@email.com,0942572300,Đồ thể thao|Áo dài,medium,TP.HCM,2024-12-07,Nữ,46-55
+996,Khách hàng 996,customer996@email.com,0992037350,Áo khoác,high,TP.HCM,2021-12-16,Nữ,18-25
+997,Khách hàng 997,customer997@email.com,0937198033,Đồ thể thao|Áo cưới|Vest,medium,Nha Trang,2023-05-23,Nữ,26-35
+998,Khách hàng 998,customer998@email.com,0983267417,Đồ thể thao,medium,Buôn Ma Thuột,2021-10-09,Nam,18-25
+999,Khách hàng 999,customer999@email.com,0918485498,Quần tây,low,Hải Phòng,2021-09-05,Nam,26-35
+1000,Khách hàng 1000,customer1000@email.com,0942701425,Áo khoác,low,TP.HCM,2024-04-06,Nữ,36-45
+1001,Khách hàng 1001,customer1001@email.com,0975359668,Áo dài,low,TP.HCM,2021-06-15,Nam,36-45
+1002,Khách hàng 1002,customer1002@email.com,0927031212,Váy công sở|Áo khoác,low,Hà Nội,2022-02-27,Nữ,26-35
+1003,Khách hàng 1003,customer1003@email.com,0915049433,Đồ thể thao,low,Đà Nẵng,2024-05-06,Nữ,36-45
+1004,Khách hàng 1004,customer1004@email.com,0910613380,Quần tây|Váy công sở,low,TP.HCM,2024-02-17,Nữ,18-25
+1005,Khách hàng 1005,customer1005@email.com,0939430744,Chân váy|Đồ thể thao,high,Cần Thơ,2023-08-09,Nam,18-25
+1006,Khách hàng 1006,customer1006@email.com,0976775311,Áo khoác,low,Vũng Tàu,2021-12-28,Nam,26-35
+1007,Khách hàng 1007,customer1007@email.com,0943739891,Váy công sở,medium,Biên Hòa,2022-11-16,Nữ,18-25
+1008,Khách hàng 1008,customer1008@email.com,0933607235,Chân váy,high,Đà Nẵng,2021-11-20,Nam,46-55
+1009,Khách hàng 1009,customer1009@email.com,0936675960,Áo khoác|Quần tây|Váy công sở,high,TP.HCM,2024-10-18,Nam,26-35
+1010,Khách hàng 1010,customer1010@email.com,0936837617,Váy công sở,high,TP.HCM,2023-02-09,Nữ,18-25
+1011,Khách hàng 1011,customer1011@email.com,0991796786,Đầm dạ hội|Áo cưới,low,Hà Nội,2023-07-21,Nữ,18-25
+1012,Khách hàng 1012,customer1012@email.com,0955082572,Áo sơ mi|Áo cưới,low,Đà Nẵng,2021-09-18,Nam,18-25
+1013,Khách hàng 1013,customer1013@email.com,0932978251,Áo khoác|Váy công sở,low,Hà Nội,2022-12-05,Nam,36-45
+1014,Khách hàng 1014,customer1014@email.com,0921606388,Đầm dạ hội|Chân váy|Áo cưới,high,Đà Nẵng,2023-04-24,Nữ,36-45
+1015,Khách hàng 1015,customer1015@email.com,0967460000,Áo sơ mi|Áo dài,low,Hà Nội,2022-05-21,Nam,55+
+1016,Khách hàng 1016,customer1016@email.com,0910681501,Đồ thể thao,high,TP.HCM,2023-05-06,Nữ,36-45
+1017,Khách hàng 1017,customer1017@email.com,0981285951,Váy công sở,medium,Hải Phòng,2023-03-19,Nữ,26-35
+1018,Khách hàng 1018,customer1018@email.com,0984958851,Vest,medium,Hà Nội,2021-01-26,Nam,26-35
+1019,Khách hàng 1019,customer1019@email.com,0912138110,Vest,medium,TP.HCM,2023-09-10,Nữ,36-45
+1020,Khách hàng 1020,customer1020@email.com,0928605786,Áo dài|Áo khoác|Chân váy,medium,Hải Phòng,2024-12-11,Nữ,26-35
+1021,Khách hàng 1021,customer1021@email.com,0954681905,Áo dài|Vest|Váy công sở,low,Hà Nội,2023-12-24,Nam,55+
+1022,Khách hàng 1022,customer1022@email.com,0993276088,Đồ thể thao|Áo cưới|Vest,medium,TP.HCM,2022-11-19,Nữ,36-45
+1023,Khách hàng 1023,customer1023@email.com,0961399349,Vest,medium,TP.HCM,2023-01-19,Nữ,36-45
+1024,Khách hàng 1024,customer1024@email.com,0928576512,Vest|Chân váy|Áo cưới,low,TP.HCM,2022-11-17,Nữ,55+
+1025,Khách hàng 1025,customer1025@email.com,0957340158,Áo cưới|Đồ thể thao|Quần tây,medium,Hà Nội,2022-07-02,Nam,26-35
+1026,Khách hàng 1026,customer1026@email.com,0980690141,Áo khoác|Chân váy,medium,Đà Nẵng,2021-09-09,Nữ,46-55
+1027,Khách hàng 1027,customer1027@email.com,0918808386,Đồ thể thao|Quần tây,high,Đà Nẵng,2022-01-21,Nam,46-55
+1028,Khách hàng 1028,customer1028@email.com,0932114547,Vest|Đồ thể thao,low,TP.HCM,2022-07-20,Nam,26-35
+1029,Khách hàng 1029,customer1029@email.com,0982670169,Áo dài|Áo sơ mi|Váy công sở,medium,Hà Nội,2021-09-28,Nữ,18-25
+1030,Khách hàng 1030,customer1030@email.com,0912957704,Vest,high,Đà Nẵng,2022-04-21,Nam,36-45
+1031,Khách hàng 1031,customer1031@email.com,0971472671,Quần tây|Áo khoác|Chân váy,medium,Biên Hòa,2022-09-15,Nam,36-45
+1032,Khách hàng 1032,customer1032@email.com,0959915883,Áo khoác,high,TP.HCM,2022-08-14,Nữ,26-35
+1033,Khách hàng 1033,customer1033@email.com,0931580852,Đồ thể thao,medium,TP.HCM,2024-12-28,Nam,36-45
+1034,Khách hàng 1034,customer1034@email.com,0925692379,Đầm dạ hội|Đồ thể thao|Áo cưới,high,Huế,2021-03-26,Nữ,26-35
+1035,Khách hàng 1035,customer1035@email.com,0914655890,Chân váy,medium,Hà Nội,2024-09-25,Nữ,26-35
+1036,Khách hàng 1036,customer1036@email.com,0950474667,Chân váy,high,Hà Nội,2021-09-06,Nữ,18-25
+1037,Khách hàng 1037,customer1037@email.com,0910576371,Quần tây|Đầm dạ hội,high,Hà Nội,2024-01-24,Nữ,26-35
+1038,Khách hàng 1038,customer1038@email.com,0985864089,Đồ thể thao|Đầm dạ hội,medium,TP.HCM,2023-06-25,Nữ,18-25
+1039,Khách hàng 1039,customer1039@email.com,0913328008,Chân váy|Vest|Áo sơ mi,medium,TP.HCM,2023-04-03,Nữ,26-35
+1040,Khách hàng 1040,customer1040@email.com,0947302753,Áo cưới|Chân váy|Đồ thể thao,low,Đà Nẵng,2022-02-05,Nữ,36-45
+1041,Khách hàng 1041,customer1041@email.com,0962938641,Chân váy,medium,Huế,2022-02-03,Nữ,18-25
+1042,Khách hàng 1042,customer1042@email.com,0967396933,Quần tây|Váy công sở|Đầm dạ hội,medium,TP.HCM,2023-01-28,Nam,26-35
+1043,Khách hàng 1043,customer1043@email.com,0938950113,Chân váy|Vest,medium,Hà Nội,2023-06-29,Nữ,18-25
+1044,Khách hàng 1044,customer1044@email.com,0988809974,Váy công sở|Đồ thể thao|Đầm dạ hội,low,TP.HCM,2024-05-09,Nữ,46-55
+1045,Khách hàng 1045,customer1045@email.com,0921871327,Vest|Váy công sở,medium,Vũng Tàu,2021-01-14,Nữ,36-45
+1046,Khách hàng 1046,customer1046@email.com,0934965358,Đồ thể thao|Đầm dạ hội|Áo cưới,low,Đà Nẵng,2023-02-21,Nữ,26-35
+1047,Khách hàng 1047,customer1047@email.com,0940134594,Áo sơ mi|Áo khoác|Chân váy,high,TP.HCM,2021-02-24,Nam,36-45
+1048,Khách hàng 1048,customer1048@email.com,0965989834,Áo khoác|Vest|Áo sơ mi,medium,Cần Thơ,2022-01-03,Nam,18-25
+1049,Khách hàng 1049,customer1049@email.com,0990381832,Áo khoác|Vest,medium,Đà Nẵng,2023-01-11,Nữ,36-45
+1050,Khách hàng 1050,customer1050@email.com,0978790057,Vest|Quần tây,low,Hà Nội,2024-03-24,Nữ,18-25
+1051,Khách hàng 1051,customer1051@email.com,0931918943,Đầm dạ hội|Quần tây,low,Hà Nội,2021-04-19,Nữ,26-35
+1052,Khách hàng 1052,customer1052@email.com,0995757950,Áo sơ mi|Chân váy,medium,Hải Phòng,2021-06-07,Nam,18-25
+1053,Khách hàng 1053,customer1053@email.com,0953299559,Chân váy,high,Cần Thơ,2022-10-10,Nam,36-45
+1054,Khách hàng 1054,customer1054@email.com,0929289438,Quần tây|Vest|Đồ thể thao,low,Hà Nội,2021-01-27,Nữ,26-35
+1055,Khách hàng 1055,customer1055@email.com,0939242850,Vest,medium,Nha Trang,2021-11-13,Nữ,36-45
+1056,Khách hàng 1056,customer1056@email.com,0966015266,Chân váy|Đồ thể thao|Vest,high,TP.HCM,2023-08-02,Nam,18-25
+1057,Khách hàng 1057,customer1057@email.com,0928658140,Áo sơ mi|Quần tây,high,Huế,2023-06-25,Nữ,26-35
+1058,Khách hàng 1058,customer1058@email.com,0939844365,Áo sơ mi|Áo dài|Vest,high,TP.HCM,2021-09-21,Nam,18-25
+1059,Khách hàng 1059,customer1059@email.com,0967016371,Vest,high,TP.HCM,2024-11-15,Nam,26-35
+1060,Khách hàng 1060,customer1060@email.com,0924471004,Áo dài|Áo cưới,high,Đà Nẵng,2021-03-09,Nam,18-25
+1061,Khách hàng 1061,customer1061@email.com,0950486214,Áo dài|Vest,low,TP.HCM,2024-09-29,Nam,36-45
+1062,Khách hàng 1062,customer1062@email.com,0913927092,Áo cưới|Đầm dạ hội|Quần tây,low,Hải Phòng,2021-07-05,Nam,36-45
+1063,Khách hàng 1063,customer1063@email.com,0992269619,Đầm dạ hội|Chân váy,medium,TP.HCM,2022-05-11,Nữ,36-45
+1064,Khách hàng 1064,customer1064@email.com,0933055043,Áo cưới|Đồ thể thao|Áo sơ mi,low,Cần Thơ,2024-01-06,Nữ,55+
+1065,Khách hàng 1065,customer1065@email.com,0969010948,Áo khoác|Quần tây|Đầm dạ hội,high,TP.HCM,2024-10-11,Nữ,26-35
+1066,Khách hàng 1066,customer1066@email.com,0940541809,Chân váy,low,Buôn Ma Thuột,2023-04-15,Nam,18-25
+1067,Khách hàng 1067,customer1067@email.com,0958486215,Áo khoác,low,Cần Thơ,2024-12-14,Nam,26-35
+1068,Khách hàng 1068,customer1068@email.com,0990582915,Áo sơ mi|Áo khoác,medium,Nha Trang,2022-10-01,Nam,26-35
+1069,Khách hàng 1069,customer1069@email.com,0973844258,Áo cưới|Vest,medium,TP.HCM,2024-10-22,Nữ,36-45
+1070,Khách hàng 1070,customer1070@email.com,0998388851,Áo khoác|Chân váy,low,TP.HCM,2024-10-17,Nữ,36-45
+1071,Khách hàng 1071,customer1071@email.com,0918685284,Đầm dạ hội,high,Hà Nội,2023-01-15,Nữ,55+
+1072,Khách hàng 1072,customer1072@email.com,0967002833,Áo cưới,low,Cần Thơ,2023-10-20,Nữ,26-35
+1073,Khách hàng 1073,customer1073@email.com,0999479873,Váy công sở|Quần tây|Áo khoác,high,Buôn Ma Thuột,2024-05-20,Nữ,18-25
+1074,Khách hàng 1074,customer1074@email.com,0943647023,Vest|Đồ thể thao,medium,Huế,2023-09-30,Nam,18-25
+1075,Khách hàng 1075,customer1075@email.com,0976858535,Vest,low,TP.HCM,2024-10-20,Nữ,26-35
+1076,Khách hàng 1076,customer1076@email.com,0920269972,Đồ thể thao|Vest,high,Hải Phòng,2024-09-15,Nữ,26-35
+1077,Khách hàng 1077,customer1077@email.com,0982804811,Áo khoác|Đồ thể thao|Áo sơ mi,high,Đà Nẵng,2022-12-05,Nam,36-45
+1078,Khách hàng 1078,customer1078@email.com,0970413482,Vest|Váy công sở,high,Hà Nội,2022-10-07,Nam,18-25
+1079,Khách hàng 1079,customer1079@email.com,0967805041,Áo sơ mi|Đầm dạ hội|Áo khoác,medium,Hà Nội,2021-10-03,Nữ,36-45
+1080,Khách hàng 1080,customer1080@email.com,0986800757,Chân váy|Đồ thể thao,medium,Nha Trang,2023-08-21,Nữ,26-35
+1081,Khách hàng 1081,customer1081@email.com,0992804241,Đồ thể thao|Váy công sở,medium,Buôn Ma Thuột,2024-10-17,Nam,18-25
+1082,Khách hàng 1082,customer1082@email.com,0959178730,Đầm dạ hội,high,Huế,2022-12-16,Nữ,36-45
+1083,Khách hàng 1083,customer1083@email.com,0956324312,Vest|Váy công sở,medium,TP.HCM,2023-01-02,Nam,26-35
+1084,Khách hàng 1084,customer1084@email.com,0918791292,Đồ thể thao|Vest,low,TP.HCM,2022-09-17,Nữ,18-25
+1085,Khách hàng 1085,customer1085@email.com,0945784981,Váy công sở|Chân váy|Đồ thể thao,medium,Huế,2021-02-11,Nữ,26-35
+1086,Khách hàng 1086,customer1086@email.com,0975546384,Quần tây|Vest,medium,TP.HCM,2021-07-24,Nữ,46-55
+1087,Khách hàng 1087,customer1087@email.com,0958765904,Quần tây|Đầm dạ hội|Áo sơ mi,low,Huế,2023-06-12,Nữ,18-25
+1088,Khách hàng 1088,customer1088@email.com,0916379551,Áo cưới|Áo sơ mi|Chân váy,high,Hà Nội,2022-09-01,Nam,36-45
+1089,Khách hàng 1089,customer1089@email.com,0922714930,Đồ thể thao,medium,TP.HCM,2024-04-27,Nữ,26-35
+1090,Khách hàng 1090,customer1090@email.com,0920289344,Quần tây,high,Đà Nẵng,2024-08-27,Nam,36-45
+1091,Khách hàng 1091,customer1091@email.com,0963995920,Áo cưới|Váy công sở,medium,Đà Nẵng,2022-05-30,Nữ,18-25
+1092,Khách hàng 1092,customer1092@email.com,0935036832,Chân váy,medium,Cần Thơ,2024-03-27,Nữ,55+
+1093,Khách hàng 1093,customer1093@email.com,0985982862,Chân váy|Váy công sở,low,TP.HCM,2024-07-07,Nữ,26-35
+1094,Khách hàng 1094,customer1094@email.com,0952768905,Áo sơ mi|Váy công sở|Chân váy,medium,Nha Trang,2021-05-12,Nam,26-35
+1095,Khách hàng 1095,customer1095@email.com,0990696029,Áo sơ mi,medium,TP.HCM,2022-04-29,Nam,26-35
+1096,Khách hàng 1096,customer1096@email.com,0985138440,Áo khoác|Đồ thể thao,medium,Biên Hòa,2023-06-13,Nam,26-35
+1097,Khách hàng 1097,customer1097@email.com,0947281925,Áo sơ mi,medium,Huế,2024-09-10,Nam,36-45
+1098,Khách hàng 1098,customer1098@email.com,0921264832,Áo dài,medium,Biên Hòa,2022-10-05,Nữ,26-35
+1099,Khách hàng 1099,customer1099@email.com,0928865664,Vest|Váy công sở,low,Hải Phòng,2022-04-29,Nữ,26-35
+1100,Khách hàng 1100,customer1100@email.com,0922112987,Chân váy|Áo sơ mi|Áo khoác,medium,Hải Phòng,2022-05-03,Nam,46-55
+1101,Khách hàng 1101,customer1101@email.com,0939260590,Váy công sở|Áo cưới|Đồ thể thao,low,TP.HCM,2021-10-23,Nam,26-35
+1102,Khách hàng 1102,customer1102@email.com,0925161415,Áo dài|Áo khoác|Quần tây,medium,Đà Nẵng,2022-10-11,Nam,26-35
+1103,Khách hàng 1103,customer1103@email.com,0973783187,Quần tây,high,TP.HCM,2023-01-24,Nữ,36-45
+1104,Khách hàng 1104,customer1104@email.com,0984185883,Áo dài|Áo cưới|Áo sơ mi,medium,Vũng Tàu,2023-02-27,Nữ,46-55
+1105,Khách hàng 1105,customer1105@email.com,0941726640,Chân váy,medium,Biên Hòa,2023-06-26,Nữ,55+
+1106,Khách hàng 1106,customer1106@email.com,0941602967,Áo sơ mi|Vest,low,Biên Hòa,2022-09-02,Nữ,36-45
+1107,Khách hàng 1107,customer1107@email.com,0920750109,Váy công sở|Áo dài|Áo sơ mi,medium,Hà Nội,2023-10-04,Nữ,36-45
+1108,Khách hàng 1108,customer1108@email.com,0945026810,Đầm dạ hội,low,Hà Nội,2023-11-03,Nữ,26-35
+1109,Khách hàng 1109,customer1109@email.com,0916992585,Áo khoác|Áo dài,medium,Huế,2024-08-06,Nữ,18-25
+1110,Khách hàng 1110,customer1110@email.com,0952107027,Áo cưới|Áo sơ mi,low,TP.HCM,2024-03-25,Nữ,55+
+1111,Khách hàng 1111,customer1111@email.com,0970597948,Đầm dạ hội|Váy công sở|Quần tây,high,TP.HCM,2023-09-07,Nam,36-45
+1112,Khách hàng 1112,customer1112@email.com,0921327835,Áo sơ mi|Áo cưới,medium,Hà Nội,2023-04-29,Nữ,46-55
+1113,Khách hàng 1113,customer1113@email.com,0984964625,Áo cưới|Áo dài|Chân váy,medium,TP.HCM,2024-08-18,Nam,26-35
+1114,Khách hàng 1114,customer1114@email.com,0963825994,Đầm dạ hội|Áo dài,medium,Hà Nội,2024-06-19,Nam,26-35
+1115,Khách hàng 1115,customer1115@email.com,0970895638,Vest|Áo dài|Váy công sở,medium,TP.HCM,2024-10-11,Nam,55+
+1116,Khách hàng 1116,customer1116@email.com,0961281039,Áo sơ mi|Áo khoác,medium,TP.HCM,2021-09-24,Nam,46-55
+1117,Khách hàng 1117,customer1117@email.com,0964831176,Áo cưới|Váy công sở|Đầm dạ hội,low,Buôn Ma Thuột,2021-10-26,Nam,26-35
+1118,Khách hàng 1118,customer1118@email.com,0988235926,Quần tây,medium,TP.HCM,2024-11-02,Nữ,46-55
+1119,Khách hàng 1119,customer1119@email.com,0966813149,Váy công sở|Áo cưới|Đồ thể thao,low,TP.HCM,2024-05-08,Nam,26-35
+1120,Khách hàng 1120,customer1120@email.com,0957553566,Áo khoác,high,Buôn Ma Thuột,2024-05-26,Nữ,36-45
+1121,Khách hàng 1121,customer1121@email.com,0944045250,Áo dài,medium,Hà Nội,2023-10-31,Nữ,26-35
+1122,Khách hàng 1122,customer1122@email.com,0932799095,Áo dài|Đầm dạ hội|Áo sơ mi,medium,Hà Nội,2023-10-29,Nữ,18-25
+1123,Khách hàng 1123,customer1123@email.com,0944951103,Chân váy|Váy công sở|Đầm dạ hội,medium,Buôn Ma Thuột,2021-08-28,Nữ,55+
+1124,Khách hàng 1124,customer1124@email.com,0947973618,Quần tây|Váy công sở,medium,Hải Phòng,2022-06-24,Nam,26-35
+1125,Khách hàng 1125,customer1125@email.com,0975937784,Quần tây,medium,Vũng Tàu,2021-11-06,Nữ,26-35
+1126,Khách hàng 1126,customer1126@email.com,0917323881,Đầm dạ hội,low,Đà Nẵng,2022-04-16,Nam,26-35
+1127,Khách hàng 1127,customer1127@email.com,0915474970,Áo khoác,medium,Cần Thơ,2023-06-24,Nữ,26-35
+1128,Khách hàng 1128,customer1128@email.com,0922559810,Đầm dạ hội|Vest|Quần tây,high,TP.HCM,2022-02-22,Nam,26-35
+1129,Khách hàng 1129,customer1129@email.com,0988322404,Đồ thể thao|Áo cưới,medium,Huế,2021-01-09,Nữ,18-25
+1130,Khách hàng 1130,customer1130@email.com,0913484583,Vest|Quần tây,medium,Cần Thơ,2022-08-06,Nữ,36-45
+1131,Khách hàng 1131,customer1131@email.com,0930639394,Quần tây,low,Nha Trang,2021-03-01,Nữ,26-35
+1132,Khách hàng 1132,customer1132@email.com,0954214932,Đồ thể thao|Áo dài,medium,Vũng Tàu,2021-03-31,Nam,36-45
+1133,Khách hàng 1133,customer1133@email.com,0916534020,Đồ thể thao|Đầm dạ hội|Áo cưới,low,Hải Phòng,2024-08-11,Nữ,26-35
+1134,Khách hàng 1134,customer1134@email.com,0944247519,Váy công sở|Vest|Đồ thể thao,low,Hải Phòng,2021-12-31,Nữ,18-25
+1135,Khách hàng 1135,customer1135@email.com,0962143976,Đầm dạ hội,low,Hải Phòng,2023-04-05,Nữ,18-25
+1136,Khách hàng 1136,customer1136@email.com,0991002225,Váy công sở|Áo sơ mi,medium,TP.HCM,2021-09-26,Nữ,18-25
+1137,Khách hàng 1137,customer1137@email.com,0946034695,Váy công sở|Áo khoác,medium,TP.HCM,2024-02-28,Nữ,26-35
+1138,Khách hàng 1138,customer1138@email.com,0994649276,Váy công sở,low,Đà Nẵng,2023-05-23,Nữ,36-45
+1139,Khách hàng 1139,customer1139@email.com,0949017499,Đầm dạ hội|Áo khoác|Vest,medium,Biên Hòa,2023-08-17,Nữ,18-25
+1140,Khách hàng 1140,customer1140@email.com,0943373708,Áo sơ mi,medium,Đà Nẵng,2023-12-08,Nữ,46-55
+1141,Khách hàng 1141,customer1141@email.com,0965434526,Vest|Chân váy|Váy công sở,medium,Cần Thơ,2021-07-13,Nữ,26-35
+1142,Khách hàng 1142,customer1142@email.com,0925292162,Vest|Chân váy|Áo dài,medium,Hải Phòng,2024-09-16,Nữ,18-25
+1143,Khách hàng 1143,customer1143@email.com,0988813775,Áo sơ mi|Quần tây,high,Hà Nội,2023-07-21,Nữ,26-35
+1144,Khách hàng 1144,customer1144@email.com,0934842009,Áo cưới,medium,Huế,2021-06-10,Nữ,18-25
+1145,Khách hàng 1145,customer1145@email.com,0925660291,Áo dài|Đồ thể thao|Váy công sở,low,Đà Nẵng,2021-01-28,Nữ,46-55
+1146,Khách hàng 1146,customer1146@email.com,0993013580,Đồ thể thao|Áo khoác|Áo sơ mi,medium,Cần Thơ,2024-06-17,Nữ,26-35
+1147,Khách hàng 1147,customer1147@email.com,0928134687,Vest|Đầm dạ hội,low,Nha Trang,2021-01-29,Nữ,18-25
+1148,Khách hàng 1148,customer1148@email.com,0974574456,Áo cưới,low,TP.HCM,2024-08-21,Nữ,46-55
+1149,Khách hàng 1149,customer1149@email.com,0972199925,Áo cưới|Vest|Áo sơ mi,medium,TP.HCM,2021-10-31,Nam,18-25
+1150,Khách hàng 1150,customer1150@email.com,0912634395,Áo khoác|Đồ thể thao|Chân váy,medium,TP.HCM,2023-07-10,Nữ,46-55
+1151,Khách hàng 1151,customer1151@email.com,0911056868,Quần tây,medium,Cần Thơ,2021-07-30,Nữ,46-55
+1152,Khách hàng 1152,customer1152@email.com,0914968366,Đồ thể thao|Chân váy|Áo sơ mi,medium,Đà Nẵng,2023-09-26,Nữ,55+
+1153,Khách hàng 1153,customer1153@email.com,0980908408,Áo cưới|Áo dài,medium,Hà Nội,2021-02-08,Nam,46-55
+1154,Khách hàng 1154,customer1154@email.com,0976409428,Áo khoác|Vest,high,Hà Nội,2024-06-29,Nữ,18-25
+1155,Khách hàng 1155,customer1155@email.com,0956150415,Áo cưới|Áo khoác,low,TP.HCM,2023-06-17,Nữ,26-35
+1156,Khách hàng 1156,customer1156@email.com,0962394739,Áo khoác|Đầm dạ hội|Áo sơ mi,high,Cần Thơ,2023-05-04,Nữ,36-45
+1157,Khách hàng 1157,customer1157@email.com,0937811066,Đồ thể thao,medium,TP.HCM,2022-08-02,Nữ,18-25
+1158,Khách hàng 1158,customer1158@email.com,0976060051,Đồ thể thao,high,Vũng Tàu,2021-07-26,Nữ,26-35
+1159,Khách hàng 1159,customer1159@email.com,0945005058,Áo dài|Đồ thể thao|Quần tây,medium,TP.HCM,2023-01-02,Nữ,26-35
+1160,Khách hàng 1160,customer1160@email.com,0967796900,Quần tây,medium,TP.HCM,2021-08-22,Nam,26-35
+1161,Khách hàng 1161,customer1161@email.com,0984762274,Quần tây|Áo dài,high,Nha Trang,2022-07-02,Nữ,36-45
+1162,Khách hàng 1162,customer1162@email.com,0968764105,Áo dài,high,Hải Phòng,2023-07-26,Nữ,36-45
+1163,Khách hàng 1163,customer1163@email.com,0978089422,Vest|Chân váy|Áo dài,low,TP.HCM,2021-08-04,Nam,26-35
+1164,Khách hàng 1164,customer1164@email.com,0923327047,Áo sơ mi|Áo khoác|Chân váy,medium,Hà Nội,2021-11-12,Nam,46-55
+1165,Khách hàng 1165,customer1165@email.com,0942925764,Váy công sở|Áo dài,medium,Đà Nẵng,2023-08-29,Nam,26-35
+1166,Khách hàng 1166,customer1166@email.com,0930348912,Quần tây|Áo cưới,medium,TP.HCM,2023-12-21,Nữ,26-35
+1167,Khách hàng 1167,customer1167@email.com,0958556533,Áo khoác|Chân váy,medium,Hải Phòng,2021-03-02,Nữ,26-35
+1168,Khách hàng 1168,customer1168@email.com,0955406344,Vest,medium,Hải Phòng,2022-10-07,Nữ,26-35
+1169,Khách hàng 1169,customer1169@email.com,0987115770,Đầm dạ hội,high,Buôn Ma Thuột,2021-04-29,Nữ,46-55
+1170,Khách hàng 1170,customer1170@email.com,0984304333,Váy công sở|Đồ thể thao,medium,Hà Nội,2022-09-16,Nam,46-55
+1171,Khách hàng 1171,customer1171@email.com,0969886480,Đồ thể thao|Đầm dạ hội|Váy công sở,low,Đà Nẵng,2024-08-11,Nữ,36-45
+1172,Khách hàng 1172,customer1172@email.com,0950470861,Quần tây|Váy công sở|Áo cưới,low,Hà Nội,2021-06-22,Nữ,36-45
+1173,Khách hàng 1173,customer1173@email.com,0982583635,Chân váy,low,Đà Nẵng,2022-08-05,Nam,26-35
+1174,Khách hàng 1174,customer1174@email.com,0982468532,Đầm dạ hội|Áo dài|Chân váy,low,Nha Trang,2024-04-28,Nam,26-35
+1175,Khách hàng 1175,customer1175@email.com,0944863921,Vest|Áo dài|Quần tây,medium,TP.HCM,2024-07-08,Nữ,55+
+1176,Khách hàng 1176,customer1176@email.com,0970820382,Áo sơ mi|Áo dài,high,Nha Trang,2022-11-26,Nữ,36-45
+1177,Khách hàng 1177,customer1177@email.com,0950158160,Chân váy|Áo cưới|Quần tây,medium,Nha Trang,2022-08-06,Nữ,18-25
+1178,Khách hàng 1178,customer1178@email.com,0924123318,Chân váy|Áo cưới,medium,TP.HCM,2022-11-03,Nữ,26-35
+1179,Khách hàng 1179,customer1179@email.com,0965304811,Váy công sở,low,Hà Nội,2021-06-17,Nam,26-35
+1180,Khách hàng 1180,customer1180@email.com,0980632831,Quần tây,medium,Đà Nẵng,2023-04-05,Nữ,26-35
+1181,Khách hàng 1181,customer1181@email.com,0975705089,Váy công sở|Áo khoác,high,TP.HCM,2023-05-04,Nam,36-45
+1182,Khách hàng 1182,customer1182@email.com,0981020117,Chân váy,medium,Đà Nẵng,2021-08-30,Nam,18-25
+1183,Khách hàng 1183,customer1183@email.com,0924809069,Quần tây|Vest|Váy công sở,medium,Hà Nội,2021-09-05,Nữ,18-25
+1184,Khách hàng 1184,customer1184@email.com,0949457501,Quần tây|Áo sơ mi,low,TP.HCM,2023-09-23,Nữ,26-35
+1185,Khách hàng 1185,customer1185@email.com,0934572196,Áo sơ mi|Áo cưới,low,Đà Nẵng,2023-09-29,Nam,18-25
+1186,Khách hàng 1186,customer1186@email.com,0985935555,Đồ thể thao|Áo sơ mi,high,Hải Phòng,2023-07-16,Nữ,36-45
+1187,Khách hàng 1187,customer1187@email.com,0970388500,Đầm dạ hội|Đồ thể thao|Áo khoác,medium,Biên Hòa,2024-09-28,Nam,36-45
+1188,Khách hàng 1188,customer1188@email.com,0941248877,Đồ thể thao|Váy công sở|Chân váy,medium,TP.HCM,2023-03-21,Nữ,26-35
+1189,Khách hàng 1189,customer1189@email.com,0913329148,Vest|Đầm dạ hội,medium,Hải Phòng,2024-03-17,Nam,36-45
+1190,Khách hàng 1190,customer1190@email.com,0993041052,Chân váy|Vest|Áo cưới,medium,TP.HCM,2024-01-15,Nữ,18-25
+1191,Khách hàng 1191,customer1191@email.com,0926144134,Chân váy|Áo dài,high,TP.HCM,2024-09-10,Nam,36-45
+1192,Khách hàng 1192,customer1192@email.com,0969623470,Đồ thể thao,high,Huế,2021-06-23,Nữ,18-25
+1193,Khách hàng 1193,customer1193@email.com,0968655485,Quần tây,medium,Nha Trang,2022-01-05,Nam,26-35
+1194,Khách hàng 1194,customer1194@email.com,0982716383,Vest,low,TP.HCM,2021-12-11,Nữ,18-25
+1195,Khách hàng 1195,customer1195@email.com,0992473495,Đầm dạ hội|Áo dài,low,Cần Thơ,2022-10-29,Nam,18-25
+1196,Khách hàng 1196,customer1196@email.com,0953515775,Váy công sở,medium,Nha Trang,2022-06-13,Nam,26-35
+1197,Khách hàng 1197,customer1197@email.com,0978265991,Đồ thể thao|Áo cưới|Áo khoác,medium,TP.HCM,2023-10-31,Nam,26-35
+1198,Khách hàng 1198,customer1198@email.com,0913879756,Vest|Áo khoác,medium,Vũng Tàu,2023-04-15,Nam,36-45
+1199,Khách hàng 1199,customer1199@email.com,0950884443,Vest|Áo cưới|Đầm dạ hội,medium,TP.HCM,2024-03-09,Nữ,26-35
+1200,Khách hàng 1200,customer1200@email.com,0982536595,Quần tây,high,Đà Nẵng,2021-12-11,Nữ,46-55

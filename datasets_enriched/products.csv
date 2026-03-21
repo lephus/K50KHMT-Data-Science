@@ -1,0 +1,351 @@
+product_id,product_name,category,price,fabric,stock_quantity,created_at,size,color,season,style
+1,Áo dài #1,Áo dài,3000000,Lụa,8,2022-05-21,XS,Vàng,Quanh năm,Thanh lịch
+2,Áo dài #2,Áo dài,800000,Vải cotton,22,2022-02-22,M,Tím,Thu-Đông,Trẻ trung
+3,Áo dài #3,Áo dài,3000000,Chiffon,16,2022-10-30,XXL,Xanh dương,Thu-Đông,Sang trọng
+4,Áo dài #4,Áo dài,1500000,Lụa,8,2022-02-17,XS,Tím,Thu-Đông,Hiện đại
+5,Áo dài #5,Áo dài,800000,Vải cotton,69,2022-11-05,XL,Xanh dương,Xuân-Hè,Sang trọng
+6,Áo dài #6,Áo dài,500000,Chiffon,30,2022-11-29,XXL,Hồng,Thu-Đông,Cổ điển
+7,Áo dài #7,Áo dài,3000000,Chiffon,58,2022-04-23,S,Xanh dương,Quanh năm,Cổ điển
+8,Áo dài #8,Áo dài,1500000,Chiffon,40,2022-01-04,XS,Trắng,Thu-Đông,Thanh lịch
+9,Áo dài #9,Áo dài,5000000,Vải cotton,94,2022-08-05,S,Hồng,Thu-Đông,Trẻ trung
+10,Áo dài #10,Áo dài,1200000,Vải len,24,2022-04-21,XXL,Be,Quanh năm,Trẻ trung
+11,Áo dài #11,Áo dài,5000000,Vải len,18,2022-02-17,L,Tím,Thu-Đông,Sang trọng
+12,Áo dài #12,Áo dài,1500000,Lụa,50,2022-06-26,L,Trắng,Xuân-Hè,Trẻ trung
+13,Áo dài #13,Áo dài,2000000,Vải len,10,2022-08-24,XL,Xám,Quanh năm,Trẻ trung
+14,Áo dài #14,Áo dài,2000000,Lụa,53,2022-02-10,XL,Xanh dương,Thu-Đông,Sang trọng
+15,Áo dài #15,Áo dài,2000000,Vải len,85,2022-11-13,XL,Đen,Xuân-Hè,Cổ điển
+16,Áo dài #16,Áo dài,5000000,Vải len,78,2022-04-09,S,Be,Thu-Đông,Hiện đại
+17,Áo dài #17,Áo dài,3000000,Lụa,10,2022-12-05,M,Vàng,Quanh năm,Thanh lịch
+18,Áo dài #18,Áo dài,800000,Vải len,15,2022-04-30,M,Đỏ,Xuân-Hè,Cổ điển
+19,Áo dài #19,Áo dài,5000000,Lụa,53,2022-05-23,M,Xám,Quanh năm,Trẻ trung
+20,Áo dài #20,Áo dài,1500000,Vải len,25,2022-07-09,L,Đỏ,Thu-Đông,Trẻ trung
+21,Vest #1,Vest,1200000,Vải cotton,90,2022-05-17,L,Xám,Thu-Đông,Sang trọng
+22,Vest #2,Vest,3000000,Lụa,82,2022-11-22,M,Tím,Xuân-Hè,Thanh lịch
+23,Vest #3,Vest,800000,Chiffon,98,2022-05-06,XXL,Vàng,Xuân-Hè,Hiện đại
+24,Vest #4,Vest,800000,Gấm,53,2022-05-19,XL,Đen,Thu-Đông,Sang trọng
+25,Vest #5,Vest,3000000,Chiffon,33,2022-12-17,XS,Xám,Quanh năm,Sang trọng
+26,Vest #6,Vest,1200000,Lụa,34,2022-01-17,XXL,Xanh dương,Thu-Đông,Hiện đại
+27,Vest #7,Vest,5000000,Vải len,56,2022-05-18,XXL,Vàng,Thu-Đông,Hiện đại
+28,Vest #8,Vest,500000,Vải cotton,77,2022-06-11,M,Đen,Thu-Đông,Trẻ trung
+29,Vest #9,Vest,800000,Gấm,55,2022-11-26,XS,Đỏ,Quanh năm,Sang trọng
+30,Vest #10,Vest,1500000,Vải cotton,38,2022-03-13,M,Vàng,Quanh năm,Cổ điển
+31,Vest #11,Vest,800000,Chiffon,73,2022-05-15,XS,Xanh dương,Thu-Đông,Cổ điển
+32,Vest #12,Vest,3000000,Chiffon,59,2022-10-26,XL,Vàng,Xuân-Hè,Sang trọng
+33,Vest #13,Vest,1500000,Vải len,33,2022-03-12,XXL,Trắng,Quanh năm,Hiện đại
+34,Vest #14,Vest,2000000,Gấm,16,2022-01-25,L,Trắng,Thu-Đông,Thanh lịch
+35,Vest #15,Vest,5000000,Lụa,24,2022-11-18,M,Đỏ,Thu-Đông,Hiện đại
+36,Vest #16,Vest,800000,Gấm,81,2022-02-02,M,Hồng,Thu-Đông,Hiện đại
+37,Vest #17,Vest,1500000,Gấm,81,2022-08-28,XXL,Be,Xuân-Hè,Thanh lịch
+38,Vest #18,Vest,2000000,Vải len,75,2022-01-06,XXL,Trắng,Quanh năm,Hiện đại
+39,Vest #19,Vest,3000000,Lụa,92,2022-10-02,XL,Be,Thu-Đông,Thanh lịch
+40,Vest #20,Vest,5000000,Vải len,87,2022-06-24,S,Be,Quanh năm,Sang trọng
+41,Đầm dạ hội #1,Đầm dạ hội,500000,Vải len,60,2022-03-22,M,Xanh lá,Thu-Đông,Thanh lịch
+42,Đầm dạ hội #2,Đầm dạ hội,1500000,Lụa,97,2022-05-15,XS,Đỏ,Thu-Đông,Cổ điển
+43,Đầm dạ hội #3,Đầm dạ hội,2000000,Vải cotton,69,2022-02-24,XL,Xanh dương,Quanh năm,Thanh lịch
+44,Đầm dạ hội #4,Đầm dạ hội,5000000,Vải len,86,2022-09-17,XXL,Đỏ,Xuân-Hè,Hiện đại
+45,Đầm dạ hội #5,Đầm dạ hội,2000000,Vải cotton,24,2022-07-11,S,Hồng,Xuân-Hè,Sang trọng
+46,Đầm dạ hội #6,Đầm dạ hội,5000000,Vải cotton,74,2022-09-29,M,Đen,Quanh năm,Thanh lịch
+47,Đầm dạ hội #7,Đầm dạ hội,500000,Chiffon,46,2022-09-08,M,Trắng,Quanh năm,Hiện đại
+48,Đầm dạ hội #8,Đầm dạ hội,500000,Lụa,51,2022-06-07,XXL,Tím,Thu-Đông,Thanh lịch
+49,Đầm dạ hội #9,Đầm dạ hội,800000,Lụa,35,2022-10-18,XXL,Xanh lá,Thu-Đông,Sang trọng
+50,Đầm dạ hội #10,Đầm dạ hội,500000,Lụa,98,2022-09-06,XXL,Tím,Quanh năm,Sang trọng
+51,Đầm dạ hội #11,Đầm dạ hội,5000000,Lụa,73,2022-03-06,L,Xám,Quanh năm,Cổ điển
+52,Đầm dạ hội #12,Đầm dạ hội,800000,Gấm,75,2022-03-26,S,Xanh dương,Quanh năm,Sang trọng
+53,Đầm dạ hội #13,Đầm dạ hội,1200000,Chiffon,82,2022-08-05,XL,Hồng,Xuân-Hè,Hiện đại
+54,Đầm dạ hội #14,Đầm dạ hội,800000,Chiffon,98,2022-12-20,XXL,Đen,Xuân-Hè,Sang trọng
+55,Đầm dạ hội #15,Đầm dạ hội,800000,Vải len,56,2022-12-10,XS,Hồng,Xuân-Hè,Sang trọng
+56,Đầm dạ hội #16,Đầm dạ hội,3000000,Vải len,61,2022-09-22,M,Xanh dương,Quanh năm,Hiện đại
+57,Đầm dạ hội #17,Đầm dạ hội,1500000,Lụa,36,2022-04-26,XL,Đỏ,Quanh năm,Hiện đại
+58,Đầm dạ hội #18,Đầm dạ hội,500000,Vải len,7,2022-10-29,L,Đen,Thu-Đông,Sang trọng
+59,Đầm dạ hội #19,Đầm dạ hội,2000000,Vải cotton,80,2022-04-23,XXL,Xám,Xuân-Hè,Sang trọng
+60,Đầm dạ hội #20,Đầm dạ hội,500000,Lụa,95,2022-11-20,M,Xanh lá,Xuân-Hè,Thanh lịch
+61,Áo cưới #1,Áo cưới,500000,Vải cotton,13,2022-01-17,S,Be,Xuân-Hè,Sang trọng
+62,Áo cưới #2,Áo cưới,5000000,Vải len,14,2022-09-21,XXL,Xanh dương,Xuân-Hè,Cổ điển
+63,Áo cưới #3,Áo cưới,800000,Vải len,90,2022-09-06,XXL,Xanh dương,Quanh năm,Cổ điển
+64,Áo cưới #4,Áo cưới,800000,Chiffon,21,2022-10-20,XXL,Be,Thu-Đông,Cổ điển
+65,Áo cưới #5,Áo cưới,2000000,Gấm,36,2022-08-31,XXL,Xanh lá,Thu-Đông,Cổ điển
+66,Áo cưới #6,Áo cưới,5000000,Gấm,29,2022-02-18,XL,Tím,Thu-Đông,Sang trọng
+67,Áo cưới #7,Áo cưới,500000,Gấm,50,2022-08-05,XS,Đỏ,Quanh năm,Thanh lịch
+68,Áo cưới #8,Áo cưới,1500000,Gấm,98,2022-01-28,XXL,Tím,Xuân-Hè,Hiện đại
+69,Áo cưới #9,Áo cưới,3000000,Lụa,12,2022-07-26,XXL,Xanh lá,Quanh năm,Sang trọng
+70,Áo cưới #10,Áo cưới,3000000,Vải len,18,2022-05-08,L,Đen,Xuân-Hè,Trẻ trung
+71,Áo cưới #11,Áo cưới,800000,Vải cotton,73,2022-08-18,XL,Trắng,Quanh năm,Sang trọng
+72,Áo cưới #12,Áo cưới,800000,Gấm,28,2022-05-23,M,Hồng,Thu-Đông,Cổ điển
+73,Áo cưới #13,Áo cưới,1500000,Vải cotton,14,2022-08-15,XS,Xám,Thu-Đông,Trẻ trung
+74,Áo cưới #14,Áo cưới,5000000,Chiffon,17,2022-01-26,M,Đỏ,Thu-Đông,Sang trọng
+75,Áo cưới #15,Áo cưới,3000000,Chiffon,6,2022-02-17,M,Xanh lá,Thu-Đông,Thanh lịch
+76,Áo cưới #16,Áo cưới,5000000,Vải cotton,26,2022-07-28,S,Vàng,Xuân-Hè,Thanh lịch
+77,Áo cưới #17,Áo cưới,1500000,Gấm,32,2022-07-25,S,Đen,Quanh năm,Trẻ trung
+78,Áo cưới #18,Áo cưới,500000,Vải cotton,53,2022-01-02,M,Xanh lá,Xuân-Hè,Hiện đại
+79,Áo cưới #19,Áo cưới,1500000,Vải len,63,2022-05-27,L,Xám,Quanh năm,Trẻ trung
+80,Áo cưới #20,Áo cưới,1500000,Chiffon,89,2022-09-07,S,Trắng,Thu-Đông,Thanh lịch
+81,Áo sơ mi #1,Áo sơ mi,800000,Vải cotton,42,2022-04-22,S,Xanh dương,Thu-Đông,Trẻ trung
+82,Áo sơ mi #2,Áo sơ mi,500000,Chiffon,99,2022-10-05,S,Tím,Thu-Đông,Cổ điển
+83,Áo sơ mi #3,Áo sơ mi,500000,Vải len,12,2022-01-26,S,Vàng,Quanh năm,Cổ điển
+84,Áo sơ mi #4,Áo sơ mi,2000000,Gấm,69,2022-09-29,XS,Xanh dương,Thu-Đông,Hiện đại
+85,Áo sơ mi #5,Áo sơ mi,800000,Lụa,70,2022-02-11,M,Tím,Xuân-Hè,Trẻ trung
+86,Áo sơ mi #6,Áo sơ mi,5000000,Vải cotton,13,2022-11-01,XS,Tím,Xuân-Hè,Trẻ trung
+87,Áo sơ mi #7,Áo sơ mi,500000,Vải cotton,56,2022-03-03,XL,Tím,Xuân-Hè,Trẻ trung
+88,Áo sơ mi #8,Áo sơ mi,2000000,Vải cotton,79,2022-11-01,XL,Tím,Quanh năm,Trẻ trung
+89,Áo sơ mi #9,Áo sơ mi,500000,Chiffon,15,2022-08-03,XXL,Tím,Xuân-Hè,Hiện đại
+90,Áo sơ mi #10,Áo sơ mi,3000000,Chiffon,77,2022-09-25,XL,Đỏ,Thu-Đông,Thanh lịch
+91,Áo sơ mi #11,Áo sơ mi,1200000,Vải len,31,2022-12-09,XS,Xám,Quanh năm,Sang trọng
+92,Áo sơ mi #12,Áo sơ mi,3000000,Vải len,35,2022-05-16,XXL,Be,Thu-Đông,Hiện đại
+93,Áo sơ mi #13,Áo sơ mi,1500000,Vải cotton,90,2022-11-27,M,Đỏ,Quanh năm,Thanh lịch
+94,Áo sơ mi #14,Áo sơ mi,1200000,Gấm,45,2022-02-07,XL,Xám,Xuân-Hè,Thanh lịch
+95,Áo sơ mi #15,Áo sơ mi,500000,Gấm,84,2022-10-16,S,Vàng,Thu-Đông,Thanh lịch
+96,Áo sơ mi #16,Áo sơ mi,500000,Lụa,73,2022-04-20,XL,Hồng,Thu-Đông,Trẻ trung
+97,Áo sơ mi #17,Áo sơ mi,2000000,Vải len,21,2022-06-28,L,Đỏ,Quanh năm,Hiện đại
+98,Áo sơ mi #18,Áo sơ mi,500000,Vải cotton,52,2022-05-26,S,Vàng,Thu-Đông,Thanh lịch
+99,Áo sơ mi #19,Áo sơ mi,800000,Gấm,74,2022-12-27,S,Xanh dương,Xuân-Hè,Sang trọng
+100,Áo sơ mi #20,Áo sơ mi,1200000,Chiffon,88,2022-09-28,S,Vàng,Quanh năm,Sang trọng
+101,Quần tây #1,Quần tây,500000,Chiffon,43,2022-12-06,XXL,Đen,Thu-Đông,Cổ điển
+102,Quần tây #2,Quần tây,500000,Vải cotton,38,2022-03-01,XL,Xanh dương,Quanh năm,Thanh lịch
+103,Quần tây #3,Quần tây,500000,Chiffon,24,2022-05-20,S,Xanh lá,Thu-Đông,Hiện đại
+104,Quần tây #4,Quần tây,1200000,Chiffon,31,2022-06-25,XXL,Vàng,Xuân-Hè,Trẻ trung
+105,Quần tây #5,Quần tây,800000,Vải len,69,2022-09-08,L,Trắng,Xuân-Hè,Cổ điển
+106,Quần tây #6,Quần tây,1200000,Lụa,16,2022-11-21,XS,Đỏ,Xuân-Hè,Thanh lịch
+107,Quần tây #7,Quần tây,1500000,Vải len,10,2022-01-02,L,Vàng,Xuân-Hè,Trẻ trung
+108,Quần tây #8,Quần tây,1200000,Vải cotton,86,2022-05-15,M,Tím,Thu-Đông,Hiện đại
+109,Quần tây #9,Quần tây,800000,Gấm,75,2022-12-28,XXL,Vàng,Xuân-Hè,Hiện đại
+110,Quần tây #10,Quần tây,1500000,Chiffon,6,2022-02-27,XXL,Trắng,Quanh năm,Cổ điển
+111,Quần tây #11,Quần tây,500000,Vải cotton,74,2022-01-19,S,Be,Thu-Đông,Cổ điển
+112,Quần tây #12,Quần tây,5000000,Vải len,79,2022-10-10,L,Be,Xuân-Hè,Thanh lịch
+113,Quần tây #13,Quần tây,800000,Gấm,21,2022-01-22,XL,Trắng,Quanh năm,Trẻ trung
+114,Quần tây #14,Quần tây,1200000,Vải len,10,2022-07-03,M,Trắng,Thu-Đông,Sang trọng
+115,Quần tây #15,Quần tây,800000,Vải cotton,90,2022-02-22,XXL,Xanh dương,Quanh năm,Trẻ trung
+116,Quần tây #16,Quần tây,1200000,Chiffon,57,2022-11-14,L,Be,Thu-Đông,Hiện đại
+117,Quần tây #17,Quần tây,3000000,Vải cotton,35,2022-03-25,S,Đỏ,Quanh năm,Hiện đại
+118,Quần tây #18,Quần tây,5000000,Vải cotton,57,2022-01-13,XL,Hồng,Xuân-Hè,Thanh lịch
+119,Quần tây #19,Quần tây,800000,Vải len,57,2022-12-09,S,Đen,Quanh năm,Sang trọng
+120,Quần tây #20,Quần tây,5000000,Vải cotton,39,2022-03-23,M,Đỏ,Quanh năm,Thanh lịch
+121,Váy công sở #1,Váy công sở,5000000,Lụa,53,2022-01-20,L,Đen,Thu-Đông,Hiện đại
+122,Váy công sở #2,Váy công sở,5000000,Gấm,33,2022-04-13,S,Đỏ,Thu-Đông,Hiện đại
+123,Váy công sở #3,Váy công sở,5000000,Gấm,49,2022-06-06,M,Vàng,Xuân-Hè,Trẻ trung
+124,Váy công sở #4,Váy công sở,5000000,Vải cotton,33,2022-01-13,XXL,Hồng,Quanh năm,Sang trọng
+125,Váy công sở #5,Váy công sở,3000000,Vải cotton,56,2022-06-18,XL,Tím,Quanh năm,Trẻ trung
+126,Váy công sở #6,Váy công sở,1200000,Lụa,40,2022-06-29,L,Xám,Quanh năm,Trẻ trung
+127,Váy công sở #7,Váy công sở,3000000,Chiffon,56,2022-12-14,L,Tím,Quanh năm,Thanh lịch
+128,Váy công sở #8,Váy công sở,5000000,Chiffon,47,2022-01-15,M,Be,Xuân-Hè,Trẻ trung
+129,Váy công sở #9,Váy công sở,500000,Vải len,27,2022-10-25,L,Hồng,Thu-Đông,Cổ điển
+130,Váy công sở #10,Váy công sở,1200000,Lụa,18,2022-11-02,XL,Đỏ,Quanh năm,Cổ điển
+131,Váy công sở #11,Váy công sở,1500000,Vải len,98,2022-06-10,XL,Đen,Xuân-Hè,Trẻ trung
+132,Váy công sở #12,Váy công sở,1500000,Chiffon,70,2022-03-01,L,Hồng,Xuân-Hè,Sang trọng
+133,Váy công sở #13,Váy công sở,1500000,Chiffon,29,2022-05-11,S,Vàng,Xuân-Hè,Trẻ trung
+134,Váy công sở #14,Váy công sở,500000,Gấm,5,2022-09-24,S,Đỏ,Xuân-Hè,Hiện đại
+135,Váy công sở #15,Váy công sở,5000000,Chiffon,92,2022-12-10,XL,Vàng,Xuân-Hè,Hiện đại
+136,Váy công sở #16,Váy công sở,800000,Vải len,60,2022-02-05,S,Hồng,Thu-Đông,Sang trọng
+137,Váy công sở #17,Váy công sở,3000000,Vải len,84,2022-06-10,M,Xanh dương,Xuân-Hè,Thanh lịch
+138,Váy công sở #18,Váy công sở,3000000,Lụa,97,2022-06-03,XS,Vàng,Thu-Đông,Cổ điển
+139,Váy công sở #19,Váy công sở,2000000,Vải len,90,2022-07-29,XXL,Xám,Quanh năm,Cổ điển
+140,Váy công sở #20,Váy công sở,1200000,Gấm,94,2022-06-01,L,Xám,Quanh năm,Thanh lịch
+141,Áo dài #141,Áo dài,3000000,Vải cotton,8,2022-10-09,S,Đen,Xuân-Hè,Cổ điển
+142,Áo dài #142,Áo dài,3000000,Vải cotton,80,2023-03-09,XS,Đỏ,Xuân-Hè,Hiện đại
+143,Áo dài #143,Áo dài,800000,Lụa,76,2022-07-23,XXL,Tím,Thu-Đông,Hiện đại
+144,Áo dài #144,Áo dài,1500000,Gấm,5,2022-06-13,XXL,Xám,Thu-Đông,Thanh lịch
+145,Áo dài #145,Áo dài,800000,Vải len,48,2022-04-15,XS,Xám,Xuân-Hè,Thanh lịch
+146,Áo dài #146,Áo dài,5000000,Vải thô,82,2022-09-28,XS,Be,Quanh năm,Cổ điển
+147,Áo dài #147,Áo dài,1500000,Vải cotton,75,2022-10-28,XXL,Xanh lá,Thu-Đông,Sang trọng
+148,Áo dài #148,Áo dài,800000,Vải cotton,10,2023-11-09,S,Hồng,Xuân-Hè,Hiện đại
+149,Áo dài #149,Áo dài,5000000,Vải cotton,53,2022-10-12,L,Vàng,Xuân-Hè,Thanh lịch
+150,Áo dài #150,Áo dài,1000000,Vải len,90,2022-10-01,XXL,Xanh dương,Quanh năm,Hiện đại
+151,Áo dài #151,Áo dài,2000000,Vải len,25,2023-04-19,L,Hồng,Quanh năm,Sang trọng
+152,Áo dài #152,Áo dài,800000,Vải thô,12,2022-08-23,XS,Vàng,Thu-Đông,Thanh lịch
+153,Áo dài #153,Áo dài,500000,Vải len,77,2022-11-19,S,Be,Thu-Đông,Trẻ trung
+154,Áo dài #154,Áo dài,800000,Gấm,22,2022-09-10,XXL,Tím,Quanh năm,Thanh lịch
+155,Áo dài #155,Áo dài,3000000,Vải lanh,79,2023-02-13,M,Đen,Xuân-Hè,Sang trọng
+156,Áo dài #156,Áo dài,1500000,Vải cotton,11,2022-04-23,S,Trắng,Quanh năm,Trẻ trung
+157,Áo dài #157,Áo dài,2000000,Vải cotton,54,2023-01-26,XL,Be,Quanh năm,Thanh lịch
+158,Áo dài #158,Áo dài,2000000,Lụa,92,2022-04-28,XXL,Tím,Thu-Đông,Thanh lịch
+159,Áo dài #159,Áo dài,500000,Gấm,60,2022-06-11,L,Đỏ,Quanh năm,Thanh lịch
+160,Áo dài #160,Áo dài,2000000,Chiffon,69,2022-04-19,XXL,Hồng,Quanh năm,Sang trọng
+161,Vest #161,Vest,5000000,Vải len,24,2023-01-18,S,Tím,Quanh năm,Cổ điển
+162,Vest #162,Vest,5000000,Vải thô,67,2022-01-20,XS,Vàng,Thu-Đông,Hiện đại
+163,Vest #163,Vest,1000000,Vải len,77,2022-03-22,XS,Be,Xuân-Hè,Sang trọng
+164,Vest #164,Vest,1500000,Chiffon,89,2023-05-02,XL,Trắng,Thu-Đông,Sang trọng
+165,Vest #165,Vest,5000000,Vải lanh,32,2023-07-07,XXL,Đen,Quanh năm,Thanh lịch
+166,Vest #166,Vest,3000000,Vải thô,61,2023-06-14,L,Xanh dương,Xuân-Hè,Hiện đại
+167,Vest #167,Vest,1000000,Vải thô,7,2023-08-26,XL,Đen,Quanh năm,Hiện đại
+168,Vest #168,Vest,1000000,Vải cotton,95,2023-10-09,XS,Đen,Xuân-Hè,Cổ điển
+169,Vest #169,Vest,2000000,Vải cotton,70,2022-09-01,M,Be,Xuân-Hè,Sang trọng
+170,Vest #170,Vest,1500000,Polyester,36,2023-04-30,L,Đen,Xuân-Hè,Cổ điển
+171,Vest #171,Vest,3000000,Vải thô,59,2023-02-25,L,Đỏ,Quanh năm,Cổ điển
+172,Vest #172,Vest,1000000,Vải lanh,98,2022-12-14,XS,Đen,Xuân-Hè,Hiện đại
+173,Vest #173,Vest,5000000,Polyester,22,2023-03-09,S,Hồng,Thu-Đông,Hiện đại
+174,Vest #174,Vest,1000000,Polyester,75,2022-04-11,XS,Tím,Xuân-Hè,Cổ điển
+175,Vest #175,Vest,1500000,Chiffon,57,2023-05-13,L,Đen,Thu-Đông,Cổ điển
+176,Vest #176,Vest,1500000,Vải lanh,5,2023-02-04,M,Be,Thu-Đông,Trẻ trung
+177,Vest #177,Vest,5000000,Polyester,24,2022-07-14,M,Đen,Xuân-Hè,Sang trọng
+178,Vest #178,Vest,5000000,Lụa,100,2022-11-18,XS,Đỏ,Quanh năm,Trẻ trung
+179,Vest #179,Vest,5000000,Chiffon,12,2023-06-05,XS,Trắng,Xuân-Hè,Sang trọng
+180,Vest #180,Vest,1000000,Vải len,56,2022-05-03,XL,Đen,Quanh năm,Sang trọng
+181,Đầm dạ hội #181,Đầm dạ hội,1500000,Vải cotton,58,2023-11-05,XL,Xanh lá,Quanh năm,Thanh lịch
+182,Đầm dạ hội #182,Đầm dạ hội,3000000,Vải len,90,2022-11-18,S,Hồng,Thu-Đông,Hiện đại
+183,Đầm dạ hội #183,Đầm dạ hội,3000000,Polyester,45,2022-03-16,XS,Be,Quanh năm,Sang trọng
+184,Đầm dạ hội #184,Đầm dạ hội,1500000,Vải cotton,73,2022-08-07,XL,Hồng,Xuân-Hè,Thanh lịch
+185,Đầm dạ hội #185,Đầm dạ hội,1500000,Vải len,52,2022-10-19,S,Be,Quanh năm,Thanh lịch
+186,Đầm dạ hội #186,Đầm dạ hội,1500000,Gấm,89,2022-04-17,S,Hồng,Xuân-Hè,Cổ điển
+187,Đầm dạ hội #187,Đầm dạ hội,2000000,Gấm,41,2023-09-12,S,Vàng,Xuân-Hè,Thanh lịch
+188,Đầm dạ hội #188,Đầm dạ hội,5000000,Gấm,11,2022-04-05,XXL,Xám,Thu-Đông,Cổ điển
+189,Đầm dạ hội #189,Đầm dạ hội,1500000,Vải thô,21,2023-10-15,M,Trắng,Quanh năm,Trẻ trung
+190,Đầm dạ hội #190,Đầm dạ hội,5000000,Lụa,19,2022-03-19,XXL,Trắng,Quanh năm,Cổ điển
+191,Đầm dạ hội #191,Đầm dạ hội,3000000,Chiffon,60,2022-05-11,XS,Hồng,Thu-Đông,Cổ điển
+192,Đầm dạ hội #192,Đầm dạ hội,3000000,Vải len,92,2022-09-13,XXL,Xanh dương,Thu-Đông,Sang trọng
+193,Đầm dạ hội #193,Đầm dạ hội,5000000,Chiffon,35,2022-06-16,S,Xám,Xuân-Hè,Hiện đại
+194,Đầm dạ hội #194,Đầm dạ hội,3000000,Vải lanh,90,2022-09-12,M,Trắng,Quanh năm,Cổ điển
+195,Đầm dạ hội #195,Đầm dạ hội,5000000,Lụa,65,2022-08-16,S,Be,Thu-Đông,Thanh lịch
+196,Đầm dạ hội #196,Đầm dạ hội,2000000,Vải len,8,2023-11-07,S,Xám,Thu-Đông,Thanh lịch
+197,Đầm dạ hội #197,Đầm dạ hội,1500000,Gấm,49,2023-10-19,XL,Xám,Quanh năm,Sang trọng
+198,Đầm dạ hội #198,Đầm dạ hội,3000000,Lụa,19,2022-09-25,S,Xanh lá,Thu-Đông,Cổ điển
+199,Đầm dạ hội #199,Đầm dạ hội,1500000,Vải lanh,49,2022-11-18,L,Xanh lá,Quanh năm,Cổ điển
+200,Đầm dạ hội #200,Đầm dạ hội,5000000,Vải len,37,2022-02-15,XXL,Xám,Xuân-Hè,Sang trọng
+201,Áo cưới #201,Áo cưới,5000000,Vải len,51,2023-03-18,XS,Vàng,Quanh năm,Thanh lịch
+202,Áo cưới #202,Áo cưới,5000000,Vải cotton,97,2022-11-04,XL,Hồng,Quanh năm,Trẻ trung
+203,Áo cưới #203,Áo cưới,3000000,Vải lanh,94,2022-10-30,XL,Trắng,Xuân-Hè,Trẻ trung
+204,Áo cưới #204,Áo cưới,5000000,Vải lanh,91,2022-06-28,XL,Xanh lá,Thu-Đông,Trẻ trung
+205,Áo cưới #205,Áo cưới,5000000,Lụa,43,2022-10-21,S,Xám,Quanh năm,Sang trọng
+206,Áo cưới #206,Áo cưới,5000000,Vải thô,64,2023-03-29,L,Đen,Quanh năm,Trẻ trung
+207,Áo cưới #207,Áo cưới,5000000,Chiffon,89,2022-03-28,M,Tím,Quanh năm,Sang trọng
+208,Áo cưới #208,Áo cưới,3000000,Vải cotton,35,2023-11-20,M,Đen,Xuân-Hè,Hiện đại
+209,Áo cưới #209,Áo cưới,2000000,Lụa,36,2023-05-02,XL,Xanh dương,Thu-Đông,Trẻ trung
+210,Áo cưới #210,Áo cưới,5000000,Vải len,96,2023-12-15,L,Be,Thu-Đông,Hiện đại
+211,Áo cưới #211,Áo cưới,2000000,Lụa,18,2023-03-12,S,Trắng,Quanh năm,Sang trọng
+212,Áo cưới #212,Áo cưới,3000000,Lụa,76,2022-09-13,XS,Be,Xuân-Hè,Trẻ trung
+213,Áo cưới #213,Áo cưới,5000000,Vải thô,61,2023-09-20,XXL,Tím,Thu-Đông,Sang trọng
+214,Áo cưới #214,Áo cưới,3000000,Chiffon,100,2023-05-02,L,Hồng,Xuân-Hè,Thanh lịch
+215,Áo cưới #215,Áo cưới,5000000,Polyester,85,2022-09-02,M,Be,Xuân-Hè,Thanh lịch
+216,Áo cưới #216,Áo cưới,2000000,Gấm,47,2022-11-24,XL,Xanh dương,Xuân-Hè,Hiện đại
+217,Áo cưới #217,Áo cưới,2000000,Vải lanh,93,2022-06-06,XXL,Đen,Xuân-Hè,Trẻ trung
+218,Áo cưới #218,Áo cưới,3000000,Vải thô,74,2023-04-23,L,Đỏ,Xuân-Hè,Trẻ trung
+219,Áo cưới #219,Áo cưới,3000000,Lụa,78,2023-01-25,L,Đỏ,Thu-Đông,Thanh lịch
+220,Áo cưới #220,Áo cưới,3000000,Vải lanh,73,2023-07-14,XL,Đen,Thu-Đông,Hiện đại
+221,Áo sơ mi #221,Áo sơ mi,1000000,Vải lanh,67,2022-01-30,L,Vàng,Quanh năm,Trẻ trung
+222,Áo sơ mi #222,Áo sơ mi,800000,Polyester,21,2023-09-30,XL,Đỏ,Thu-Đông,Sang trọng
+223,Áo sơ mi #223,Áo sơ mi,2000000,Lụa,15,2023-10-21,L,Trắng,Thu-Đông,Hiện đại
+224,Áo sơ mi #224,Áo sơ mi,500000,Gấm,53,2022-12-02,S,Be,Thu-Đông,Thanh lịch
+225,Áo sơ mi #225,Áo sơ mi,1500000,Gấm,58,2022-09-16,XS,Be,Xuân-Hè,Sang trọng
+226,Áo sơ mi #226,Áo sơ mi,500000,Vải thô,33,2023-10-28,XS,Đỏ,Xuân-Hè,Hiện đại
+227,Áo sơ mi #227,Áo sơ mi,800000,Lụa,84,2022-06-06,S,Trắng,Thu-Đông,Cổ điển
+228,Áo sơ mi #228,Áo sơ mi,2000000,Vải len,64,2023-12-18,M,Vàng,Xuân-Hè,Sang trọng
+229,Áo sơ mi #229,Áo sơ mi,2000000,Vải cotton,25,2022-11-15,XS,Xanh lá,Xuân-Hè,Thanh lịch
+230,Áo sơ mi #230,Áo sơ mi,2000000,Vải lanh,55,2022-07-23,XS,Xanh lá,Quanh năm,Hiện đại
+231,Áo sơ mi #231,Áo sơ mi,500000,Gấm,92,2023-09-07,XS,Xanh lá,Xuân-Hè,Thanh lịch
+232,Áo sơ mi #232,Áo sơ mi,2000000,Vải lanh,89,2023-01-15,XS,Tím,Quanh năm,Thanh lịch
+233,Áo sơ mi #233,Áo sơ mi,500000,Vải lanh,67,2022-04-19,L,Vàng,Quanh năm,Trẻ trung
+234,Áo sơ mi #234,Áo sơ mi,800000,Vải lanh,27,2023-06-19,XXL,Hồng,Quanh năm,Sang trọng
+235,Áo sơ mi #235,Áo sơ mi,1500000,Polyester,60,2023-08-30,M,Vàng,Xuân-Hè,Cổ điển
+236,Áo sơ mi #236,Áo sơ mi,1000000,Polyester,36,2023-04-21,XL,Xanh lá,Quanh năm,Trẻ trung
+237,Áo sơ mi #237,Áo sơ mi,1000000,Lụa,68,2022-11-29,S,Be,Xuân-Hè,Thanh lịch
+238,Áo sơ mi #238,Áo sơ mi,1000000,Vải thô,40,2023-09-03,XXL,Hồng,Quanh năm,Cổ điển
+239,Áo sơ mi #239,Áo sơ mi,2000000,Vải len,15,2022-09-05,XXL,Xám,Thu-Đông,Sang trọng
+240,Áo sơ mi #240,Áo sơ mi,800000,Polyester,87,2023-12-30,L,Be,Xuân-Hè,Cổ điển
+241,Quần tây #241,Quần tây,1000000,Vải len,56,2023-12-10,S,Hồng,Quanh năm,Sang trọng
+242,Quần tây #242,Quần tây,1000000,Polyester,75,2023-06-28,M,Xám,Quanh năm,Sang trọng
+243,Quần tây #243,Quần tây,1000000,Vải thô,94,2023-04-10,M,Hồng,Thu-Đông,Hiện đại
+244,Quần tây #244,Quần tây,500000,Vải len,45,2022-05-03,XXL,Tím,Quanh năm,Hiện đại
+245,Quần tây #245,Quần tây,800000,Vải len,99,2023-05-11,M,Xanh lá,Quanh năm,Sang trọng
+246,Quần tây #246,Quần tây,1000000,Vải cotton,29,2022-10-31,S,Vàng,Xuân-Hè,Thanh lịch
+247,Quần tây #247,Quần tây,500000,Chiffon,40,2022-02-16,XS,Tím,Thu-Đông,Hiện đại
+248,Quần tây #248,Quần tây,1500000,Vải cotton,6,2023-08-11,M,Be,Thu-Đông,Trẻ trung
+249,Quần tây #249,Quần tây,1000000,Chiffon,11,2022-09-16,L,Xanh dương,Xuân-Hè,Trẻ trung
+250,Quần tây #250,Quần tây,1500000,Vải cotton,78,2023-10-07,XXL,Đỏ,Xuân-Hè,Hiện đại
+251,Quần tây #251,Quần tây,2000000,Gấm,15,2022-09-12,XS,Tím,Thu-Đông,Sang trọng
+252,Quần tây #252,Quần tây,2000000,Vải len,71,2023-01-25,L,Be,Thu-Đông,Sang trọng
+253,Quần tây #253,Quần tây,1500000,Gấm,77,2023-09-28,XS,Xanh lá,Quanh năm,Cổ điển
+254,Quần tây #254,Quần tây,800000,Vải len,38,2023-11-08,XS,Trắng,Xuân-Hè,Hiện đại
+255,Quần tây #255,Quần tây,2000000,Vải cotton,25,2022-01-03,L,Be,Quanh năm,Sang trọng
+256,Quần tây #256,Quần tây,1500000,Gấm,9,2022-08-26,M,Hồng,Quanh năm,Trẻ trung
+257,Quần tây #257,Quần tây,500000,Vải len,38,2023-10-03,XL,Đen,Thu-Đông,Cổ điển
+258,Quần tây #258,Quần tây,2000000,Vải len,87,2022-06-02,M,Trắng,Xuân-Hè,Cổ điển
+259,Quần tây #259,Quần tây,800000,Gấm,81,2023-08-06,M,Be,Xuân-Hè,Trẻ trung
+260,Quần tây #260,Quần tây,1000000,Vải lanh,39,2023-05-28,XL,Be,Thu-Đông,Cổ điển
+261,Váy công sở #261,Váy công sở,3000000,Lụa,60,2022-11-27,XL,Hồng,Xuân-Hè,Cổ điển
+262,Váy công sở #262,Váy công sở,1000000,Lụa,91,2022-10-03,XL,Đỏ,Xuân-Hè,Trẻ trung
+263,Váy công sở #263,Váy công sở,3000000,Polyester,40,2022-07-05,XL,Xám,Quanh năm,Trẻ trung
+264,Váy công sở #264,Váy công sở,800000,Polyester,49,2023-02-23,M,Vàng,Quanh năm,Cổ điển
+265,Váy công sở #265,Váy công sở,1000000,Vải thô,57,2023-12-12,L,Hồng,Quanh năm,Trẻ trung
+266,Váy công sở #266,Váy công sở,3000000,Lụa,63,2022-04-01,M,Hồng,Thu-Đông,Cổ điển
+267,Váy công sở #267,Váy công sở,2000000,Lụa,89,2023-07-10,L,Xám,Xuân-Hè,Hiện đại
+268,Váy công sở #268,Váy công sở,3000000,Vải thô,84,2023-05-26,XXL,Be,Xuân-Hè,Hiện đại
+269,Váy công sở #269,Váy công sở,1500000,Chiffon,41,2023-03-25,XXL,Be,Xuân-Hè,Cổ điển
+270,Váy công sở #270,Váy công sở,3000000,Vải len,95,2022-06-12,M,Tím,Xuân-Hè,Sang trọng
+271,Váy công sở #271,Váy công sở,2000000,Vải cotton,33,2022-04-27,L,Xanh dương,Quanh năm,Hiện đại
+272,Váy công sở #272,Váy công sở,2000000,Gấm,70,2023-12-24,M,Xám,Thu-Đông,Trẻ trung
+273,Váy công sở #273,Váy công sở,1000000,Polyester,75,2022-05-29,L,Đen,Quanh năm,Sang trọng
+274,Váy công sở #274,Váy công sở,1000000,Vải cotton,40,2023-03-01,M,Tím,Thu-Đông,Cổ điển
+275,Váy công sở #275,Váy công sở,1500000,Gấm,80,2023-08-17,XXL,Be,Xuân-Hè,Trẻ trung
+276,Váy công sở #276,Váy công sở,3000000,Polyester,49,2022-12-07,XL,Tím,Thu-Đông,Trẻ trung
+277,Váy công sở #277,Váy công sở,1500000,Vải len,94,2022-09-02,XL,Xám,Xuân-Hè,Trẻ trung
+278,Váy công sở #278,Váy công sở,800000,Vải thô,100,2023-04-30,XXL,Xám,Thu-Đông,Hiện đại
+279,Váy công sở #279,Váy công sở,2000000,Lụa,21,2023-05-30,XL,Vàng,Xuân-Hè,Trẻ trung
+280,Váy công sở #280,Váy công sở,800000,Polyester,6,2022-05-28,L,Trắng,Xuân-Hè,Trẻ trung
+281,Áo khoác #281,Áo khoác,1500000,Vải thô,84,2023-12-11,L,Xanh dương,Thu-Đông,Sang trọng
+282,Áo khoác #282,Áo khoác,2000000,Vải thô,85,2023-05-15,XL,Đỏ,Quanh năm,Cổ điển
+283,Áo khoác #283,Áo khoác,1000000,Gấm,34,2022-04-03,L,Xanh dương,Quanh năm,Cổ điển
+284,Áo khoác #284,Áo khoác,2000000,Chiffon,93,2022-11-03,XS,Đỏ,Thu-Đông,Cổ điển
+285,Áo khoác #285,Áo khoác,1500000,Vải thô,52,2023-03-18,S,Đen,Quanh năm,Trẻ trung
+286,Áo khoác #286,Áo khoác,3000000,Chiffon,26,2022-06-29,XS,Xanh lá,Thu-Đông,Sang trọng
+287,Áo khoác #287,Áo khoác,1000000,Polyester,79,2022-05-27,S,Be,Quanh năm,Thanh lịch
+288,Áo khoác #288,Áo khoác,2000000,Gấm,90,2022-01-10,L,Hồng,Quanh năm,Sang trọng
+289,Áo khoác #289,Áo khoác,1000000,Vải cotton,61,2022-12-20,XL,Hồng,Quanh năm,Trẻ trung
+290,Áo khoác #290,Áo khoác,1500000,Polyester,43,2022-07-23,L,Be,Xuân-Hè,Hiện đại
+291,Áo khoác #291,Áo khoác,2000000,Vải thô,78,2022-10-30,XXL,Hồng,Xuân-Hè,Trẻ trung
+292,Áo khoác #292,Áo khoác,1500000,Lụa,77,2023-12-04,XXL,Đỏ,Quanh năm,Trẻ trung
+293,Áo khoác #293,Áo khoác,1500000,Vải len,82,2022-12-27,S,Đen,Quanh năm,Thanh lịch
+294,Áo khoác #294,Áo khoác,1000000,Vải cotton,85,2023-10-24,XS,Hồng,Thu-Đông,Cổ điển
+295,Áo khoác #295,Áo khoác,3000000,Vải thô,98,2022-05-15,XS,Hồng,Thu-Đông,Trẻ trung
+296,Áo khoác #296,Áo khoác,1000000,Vải len,21,2023-07-07,M,Tím,Quanh năm,Thanh lịch
+297,Áo khoác #297,Áo khoác,1000000,Gấm,66,2022-10-30,XXL,Vàng,Xuân-Hè,Trẻ trung
+298,Áo khoác #298,Áo khoác,800000,Chiffon,33,2023-11-24,XXL,Xám,Quanh năm,Thanh lịch
+299,Áo khoác #299,Áo khoác,800000,Vải lanh,6,2022-09-28,XL,Xanh dương,Thu-Đông,Thanh lịch
+300,Áo khoác #300,Áo khoác,1500000,Vải lanh,86,2023-01-16,XS,Đen,Thu-Đông,Cổ điển
+301,Áo khoác #301,Áo khoác,3000000,Vải thô,83,2022-08-15,XXL,Xanh dương,Quanh năm,Trẻ trung
+302,Áo khoác #302,Áo khoác,1500000,Vải lanh,19,2022-05-24,XS,Đỏ,Thu-Đông,Trẻ trung
+303,Áo khoác #303,Áo khoác,800000,Vải cotton,35,2023-07-05,S,Xám,Thu-Đông,Thanh lịch
+304,Áo khoác #304,Áo khoác,3000000,Vải lanh,80,2022-06-08,L,Xanh dương,Thu-Đông,Sang trọng
+305,Áo khoác #305,Áo khoác,2000000,Gấm,9,2023-12-08,M,Đen,Thu-Đông,Trẻ trung
+306,Chân váy #306,Chân váy,800000,Vải thô,17,2023-12-04,M,Tím,Quanh năm,Thanh lịch
+307,Chân váy #307,Chân váy,500000,Vải lanh,40,2022-07-14,XS,Be,Xuân-Hè,Hiện đại
+308,Chân váy #308,Chân váy,2000000,Lụa,11,2022-12-08,S,Trắng,Quanh năm,Hiện đại
+309,Chân váy #309,Chân váy,500000,Vải len,80,2022-08-10,S,Vàng,Xuân-Hè,Sang trọng
+310,Chân váy #310,Chân váy,500000,Gấm,23,2022-05-14,XL,Hồng,Xuân-Hè,Cổ điển
+311,Chân váy #311,Chân váy,500000,Chiffon,6,2023-01-02,S,Xanh lá,Thu-Đông,Cổ điển
+312,Chân váy #312,Chân váy,800000,Gấm,11,2022-05-10,XXL,Xám,Quanh năm,Cổ điển
+313,Chân váy #313,Chân váy,500000,Polyester,62,2023-01-06,XL,Xanh lá,Xuân-Hè,Trẻ trung
+314,Chân váy #314,Chân váy,2000000,Vải len,83,2022-02-14,XXL,Tím,Thu-Đông,Trẻ trung
+315,Chân váy #315,Chân váy,500000,Lụa,66,2023-02-16,L,Xanh dương,Thu-Đông,Trẻ trung
+316,Chân váy #316,Chân váy,500000,Vải cotton,46,2023-09-15,S,Xanh dương,Xuân-Hè,Thanh lịch
+317,Chân váy #317,Chân váy,2000000,Vải thô,53,2023-09-04,XL,Hồng,Thu-Đông,Sang trọng
+318,Chân váy #318,Chân váy,2000000,Vải lanh,17,2023-12-20,XS,Tím,Quanh năm,Hiện đại
+319,Chân váy #319,Chân váy,1500000,Polyester,34,2023-02-28,M,Be,Thu-Đông,Trẻ trung
+320,Chân váy #320,Chân váy,500000,Vải thô,59,2022-11-17,XXL,Hồng,Thu-Đông,Hiện đại
+321,Chân váy #321,Chân váy,1500000,Vải cotton,16,2022-03-29,XS,Xám,Xuân-Hè,Thanh lịch
+322,Chân váy #322,Chân váy,800000,Lụa,80,2023-07-30,XL,Vàng,Quanh năm,Cổ điển
+323,Chân váy #323,Chân váy,1500000,Vải thô,90,2023-03-10,XXL,Đỏ,Thu-Đông,Sang trọng
+324,Chân váy #324,Chân váy,1000000,Vải thô,18,2023-08-15,XL,Đen,Xuân-Hè,Trẻ trung
+325,Chân váy #325,Chân váy,800000,Vải cotton,49,2023-07-24,M,Xanh dương,Thu-Đông,Sang trọng
+326,Chân váy #326,Chân váy,800000,Vải lanh,76,2023-09-29,XL,Tím,Xuân-Hè,Sang trọng
+327,Chân váy #327,Chân váy,1000000,Lụa,28,2022-10-07,XXL,Hồng,Thu-Đông,Thanh lịch
+328,Chân váy #328,Chân váy,500000,Chiffon,23,2023-08-03,XXL,Xám,Xuân-Hè,Hiện đại
+329,Chân váy #329,Chân váy,500000,Vải cotton,100,2023-06-28,S,Xám,Thu-Đông,Trẻ trung
+330,Chân váy #330,Chân váy,1000000,Chiffon,52,2022-11-16,XXL,Vàng,Quanh năm,Sang trọng
+331,Đồ thể thao #331,Đồ thể thao,300000,Lụa,24,2022-06-11,XL,Đỏ,Quanh năm,Cổ điển
+332,Đồ thể thao #332,Đồ thể thao,800000,Polyester,89,2023-03-11,L,Xanh lá,Thu-Đông,Trẻ trung
+333,Đồ thể thao #333,Đồ thể thao,800000,Vải len,70,2022-04-27,M,Xám,Xuân-Hè,Thanh lịch
+334,Đồ thể thao #334,Đồ thể thao,1500000,Polyester,72,2023-11-15,M,Đỏ,Xuân-Hè,Trẻ trung
+335,Đồ thể thao #335,Đồ thể thao,1500000,Lụa,5,2022-07-29,M,Đen,Xuân-Hè,Thanh lịch
+336,Đồ thể thao #336,Đồ thể thao,800000,Vải thô,20,2022-01-08,L,Xám,Xuân-Hè,Hiện đại
+337,Đồ thể thao #337,Đồ thể thao,1000000,Vải len,69,2023-07-27,XXL,Vàng,Xuân-Hè,Trẻ trung
+338,Đồ thể thao #338,Đồ thể thao,300000,Vải lanh,7,2023-04-16,XS,Vàng,Quanh năm,Trẻ trung
+339,Đồ thể thao #339,Đồ thể thao,1500000,Vải lanh,95,2023-10-18,L,Hồng,Xuân-Hè,Trẻ trung
+340,Đồ thể thao #340,Đồ thể thao,300000,Vải thô,26,2023-09-25,L,Vàng,Xuân-Hè,Trẻ trung
+341,Đồ thể thao #341,Đồ thể thao,300000,Vải len,60,2023-08-27,L,Tím,Xuân-Hè,Trẻ trung
+342,Đồ thể thao #342,Đồ thể thao,800000,Vải thô,33,2022-12-08,S,Xanh dương,Quanh năm,Cổ điển
+343,Đồ thể thao #343,Đồ thể thao,1500000,Vải len,49,2022-12-26,XXL,Trắng,Xuân-Hè,Cổ điển
+344,Đồ thể thao #344,Đồ thể thao,500000,Gấm,30,2022-06-27,XL,Trắng,Quanh năm,Cổ điển
+345,Đồ thể thao #345,Đồ thể thao,500000,Polyester,64,2023-08-01,XL,Be,Quanh năm,Sang trọng
+346,Đồ thể thao #346,Đồ thể thao,1500000,Vải thô,85,2022-11-20,S,Be,Xuân-Hè,Trẻ trung
+347,Đồ thể thao #347,Đồ thể thao,1000000,Gấm,40,2023-08-29,XS,Vàng,Quanh năm,Cổ điển
+348,Đồ thể thao #348,Đồ thể thao,800000,Polyester,62,2022-02-08,XS,Vàng,Thu-Đông,Cổ điển
+349,Đồ thể thao #349,Đồ thể thao,300000,Vải lanh,64,2023-08-18,XL,Đỏ,Thu-Đông,Sang trọng
+350,Đồ thể thao #350,Đồ thể thao,500000,Vải thô,82,2023-05-03,XL,Trắng,Xuân-Hè,Trẻ trung
