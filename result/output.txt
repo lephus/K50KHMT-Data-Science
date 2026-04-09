@@ -1,0 +1,93 @@
+======================================================================
+TRAIN FINAL MODEL WITH BEST CONFIG
+======================================================================
+
+  n_factors=36, lr=0.0008, reg=0.05, bpr=0.2
+  + Early Stopping (patience=20)
+  + Adam Optimizer (lr=0.0008) [2]
+  + BPR Ranking Loss (weight=0.2) [3]
+  + Popularity Penalty weights [4]
+  + Score Normalization [0,1] [5]
+
+  Epoch   5 | train=0.1973 | val=0.3200 | lr=0.00080 | no_improve=0
+  Epoch  10 | train=0.1651 | val=0.3038 | lr=0.00080 | no_improve=1
+  Epoch  15 | train=0.1596 | val=0.2910 | lr=0.00080 | no_improve=1
+  Epoch  20 | train=0.1605 | val=0.2849 | lr=0.00080 | no_improve=3
+  Epoch  25 | train=0.1633 | val=0.2807 | lr=0.00080 | no_improve=1
+  Epoch  30 | train=0.1658 | val=0.2809 | lr=0.00080 | no_improve=3
+  Epoch  35 | train=0.1687 | val=0.2833 | lr=0.00080 | no_improve=8
+  Epoch  40 | train=0.1707 | val=0.2808 | lr=0.00080 | no_improve=13
+  Epoch  45 | train=0.1724 | val=0.2831 | lr=0.00080 | no_improve=18
+  Early stop at epoch 47 (best=27, val_rmse=0.2737)
+[vis] Training curves: /Users/lehuuphu/Documents/documents/DUT-ths/DUT-Khoa học dữ liệu/K50KHMT-Data-Science/result/fig_training_curves.png
+
+======================================================================
+EVALUATE MODEL ON TEST SET
+======================================================================
+
+ Regression Metrics (original scale, after denormalize):
+   MSE       : 0.2142
+   RMSE      : 0.4628
+   MAE       : 0.3777
+   R2        : -0.3539
+
+ Validation RMSE (normalized [0,1]): 0.2737 (best @ epoch 27)
+[vis] Test regression: /Users/lehuuphu/Documents/documents/DUT-ths/DUT-Khoa học dữ liệu/K50KHMT-Data-Science/result/fig_test_regression.png
+
+ Ranking Metrics (300 users):
+     K |  Precision@K |   Recall@K |     NDCG@K
+  ---------------------------------------------
+     5 |       0.1167 |     0.4150 |     0.3019
+    10 |       0.0893 |     0.6189 |     0.3749
+    20 |       0.0592 |     0.7994 |     0.4273
+
+ Catalog Coverage@10  : 0.9929  (139/140 items)
+[vis] Ranking metrics: /Users/lehuuphu/Documents/documents/DUT-ths/DUT-Khoa học dữ liệu/K50KHMT-Data-Science/result/fig_ranking_metrics.png
+
+ Training Summary:
+   Early stopped @ epoch : 47
+   Best weights @ epoch : 27
+   Best Val RMSE        : 0.2737
+   Train RMSE @ best ep : 0.1681
+   Overfitting gap      : 0.1056  OK
+
+======================================================================
+DEMO: RECOMMENDATION RESULTS (3 CUSTOMERS)
+======================================================================
+
+ Customer #1  |  Khách hàng 1
+   Preferences : Vest|Váy công sở|Áo cưới
+   Budget      : high  |  City: TP.HCM
+   Purchased   : ['Áo cưới #10', 'Vest #19', 'Váy công sở #18', 'Áo cưới #16']
+   Top-5 recommended:
+      1. Vest #5              | Vest            |  3,000,000 VND  |  Score: 0.445
+      2. Vest #7              | Vest            |  5,000,000 VND  |  Score: 0.402
+      3. Vest #2              | Vest            |  3,000,000 VND  |  Score: 0.397
+      4. Áo cưới #13          | Áo cưới         |  1,500,000 VND  |  Score: 0.392
+      5. Vest #10             | Vest            |  1,500,000 VND  |  Score: 0.388
+
+ Customer #2  |  Khách hàng 2
+   Preferences : Đầm dạ hội|Áo cưới|Áo sơ mi
+   Budget      : low  |  City: Đà Nẵng
+   Purchased   : ['Áo sơ mi #18', 'Áo cưới #18', 'Áo sơ mi #1', 'Áo sơ mi #2']
+   Top-5 recommended:
+      1. Đầm dạ hội #4        | Đầm dạ hội      |  5,000,000 VND  |  Score: 0.465
+      2. Áo sơ mi #20         | Áo sơ mi        |  1,200,000 VND  |  Score: 0.452
+      3. Áo sơ mi #16         | Áo sơ mi        |    500,000 VND  |  Score: 0.452
+      4. Đầm dạ hội #1        | Đầm dạ hội      |    500,000 VND  |  Score: 0.442
+      5. Áo cưới #1           | Áo cưới         |    500,000 VND  |  Score: 0.416
+
+ Customer #3  |  Khách hàng 3
+   Preferences : Váy công sở|Áo sơ mi
+   Budget      : high  |  City: Đà Nẵng
+   Purchased   : ['Váy công sở #17', 'Váy công sở #18', 'Áo sơ mi #12', 'Váy công sở #5']
+   Top-5 recommended:
+      1. Váy công sở #8       | Váy công sở     |  5,000,000 VND  |  Score: 0.598
+      2. Váy công sở #3       | Váy công sở     |  5,000,000 VND  |  Score: 0.557
+      3. Váy công sở #6       | Váy công sở     |  1,200,000 VND  |  Score: 0.528
+      4. Váy công sở #1       | Váy công sở     |  5,000,000 VND  |  Score: 0.519
+      5. Váy công sở #15      | Váy công sở     |  5,000,000 VND  |  Score: 0.470
+
+======================================================================
+DONE - Product recommendation model trained
+======================================================================
