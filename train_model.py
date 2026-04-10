@@ -17,6 +17,7 @@ import pandas as pd
 import random
 import math
 import os
+import pickle
 from collections import defaultdict
 
 try:
@@ -800,6 +801,47 @@ if not HAS_MPL:
     print("\n[vis] Install matplotlib to save training/metric figures: pip install matplotlib")
 elif not SAVE_FIGURES:
     print("\n[vis] Figures skipped (SAVE_FIGURES=0)")
+
+# ============================================================
+# SAVE BEST MODEL
+# Persist trained weights + mappings for later inference (demo.py)
+# ============================================================
+print("\n" + "=" * 70)
+print("SAVE BEST MODEL")
+print("=" * 70)
+
+MODEL_PATH = os.path.join(OUTPUT_DIR, "best_model.pkl")
+_to_np = (lambda a: cp.asnumpy(a)) if USE_GPU else (lambda a: np.asarray(a))
+
+model_state = {
+    "U":     _to_np(model.U),
+    "V":     _to_np(model.V),
+    "Y":     _to_np(model.Y),
+    "W_cat": _to_np(model.W_cat),
+    "b_u":   _to_np(model.b_u),
+    "b_i":   _to_np(model.b_i),
+    "b_g":   float(model.b_g),
+    "n_factors": model.n_factors,
+    "user2idx": user2idx,
+    "item2idx": item2idx,
+    "idx2item": idx2item,
+    "user_seen": {u: list(s) for u, s in user_seen.items()},
+    "user_cat_pref": np.asarray(user_cat_pref),
+    "product_category_idx": np.asarray(product_category_idx),
+    "cat2idx": cat2idx,
+    "s_min": float(s_min),
+    "s_max": float(s_max),
+    "best_config": best_config,
+    "best_epoch": model.best_epoch,
+    "best_val_rmse": float(min(model.val_rmse)),
+    "test_data": test_data,
+}
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+with open(MODEL_PATH, "wb") as _f:
+    pickle.dump(model_state, _f)
+print(f"  Saved best model -> {MODEL_PATH}")
+print(f"  (best epoch={model.best_epoch}, val_rmse={min(model.val_rmse):.4f})")
 
 # ============================================================
 # DEMO: Run model and print 3 recommendation results
